@@ -12,6 +12,7 @@ class MarkdownChunker:
                 ("#", "province"),
                 ("##", "section"),
                 ("###", "title"),
+                ("####", "subtitle"),
             ]
         )
 
@@ -27,7 +28,7 @@ class MarkdownChunker:
             ],
         )
 
-    def split(self, province: str, markdown: str):
+    def split(self, doc_id: str, province: str, lang: str, year: int, is_province: bool, markdown: str):
 
         header_docs = self.header_splitter.split_text(markdown)
 
@@ -39,10 +40,14 @@ class MarkdownChunker:
             if len(doc.page_content) <= 1500:
                 chunks.append(
                     {
-                        "id": f"{province}_{i:04d}",
+                        "id": f"{doc_id}_{i:04d}",
                         "province": province,
+                        "lang": lang,
+                        "year": year,
+                        "is_province": is_province,
                         "section": doc.metadata.get("section"),
                         "title": doc.metadata.get("title"),
+                        "subtitle": doc.metadata.get("subtitle"),
                         "content": doc.page_content,
                     }
                 )
@@ -59,10 +64,14 @@ class MarkdownChunker:
                 
                 chunks.append(
                     {
-                        "id": f"{province}_{i:04d}",
+                        "id": f"{doc_id}_{i:04d}",
                         "province": province,
+                        "lang": lang,
+                        "year": year,
+                        "is_province": is_province,
                         "section": doc.metadata.get("section"),
                         "title": doc.metadata.get("title"),
+                        "subtitle": doc.metadata.get("subtitle"),
                         "content": chunk,
                     }
                 )
