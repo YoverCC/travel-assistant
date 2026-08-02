@@ -1,7 +1,16 @@
 [project]
 name = "travel-assistant"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI travel assistant for Peru built with Python, OpenAI API, RAG, Streamlit, and Grafana."
 readme = "README.md"
-requires-python = ">=3.10"
-dependencies = []
+requires-python = ">=3.14"
+dependencies = [
+    "fastembed>=0.8.0",
+    "gitsource>=0.0.5",
+    "langchain-text-splitters>=1.1.2",
+    "minsearch>=0.2.0",
+    "numpy>=2.5.1",
+    "onnxruntime>=1.28.0",
+    "tokenizers>=0.23.1",
+    "tqdm>=4.70.0",
+]

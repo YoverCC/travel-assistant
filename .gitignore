@@ -8,5 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
-raw
 .env
+
+# Models
+models
+
+# Data
+data/pdf
