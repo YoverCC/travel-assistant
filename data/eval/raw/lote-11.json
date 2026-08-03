@@ -1,0 +1,140 @@
+[
+  {
+    "id": "ucayali-es-2023_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué distancia hay desde Puerto Callao hasta Cashibococha en auto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un sitio para pescar tucunaré y dormir al aire libre, ¿cuál me sugieren?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cashibococha para pasear en bote"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cashibococha pesca deportiva"
+      }
+    ]
+  },
+  {
+    "id": "ucayali-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A cuánto queda la cocha El Anguillal desde Puerto Esperanza caminando?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una laguna para pescar, rodeada de aves y vegetación, cerca de una capital provincial."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cocha el anguillal como llegar"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cocha El Anguillal"
+      }
+    ]
+  },
+  {
+    "id": "ucayali-es-2023_0000",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué significa Pucallpa en quechua?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿De dónde viene el nombre de la capital ucayalina y qué quiere decir?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que significa pucallpa"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Pucallpa origen"
+      }
+    ]
+  },
+  {
+    "id": "ucayali-es-2023_0011",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuántos metros mide la caída principal de la Ducha del Diablo?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una cascada alta con una poza pequeña y un mirador, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ducha del diablo altura"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ducha del Diablo"
+      }
+    ]
+  },
+  {
+    "id": "ucayali-es-2023_0019",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué platos tradicionales aparecen en la comida de Ucayali?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué comerías en una zona amazónica donde mandan el pescado, la yuca y el plátano?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "platos tipicos de ucayali"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "paiche platos típicos"
+      }
+    ]
+  },
+  {
+    "id": "ucayali-es-2023_0023",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué número de WhatsApp tiene iPerú general?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito comunicarme con la oficina de ayuda turística nacional por chat, ¿cuál es el contacto?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "iperu whatsapp"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "iPerú general"
+      }
+    ]
+  }
+]

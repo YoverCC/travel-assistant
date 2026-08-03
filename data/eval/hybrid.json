@@ -1,0 +1,3682 @@
+{
+  "rrf k=10": {
+    "n": 572,
+    "k": 5,
+    "hit_rate": 0.6853146853146853,
+    "mrr": 0.5113344988344989,
+    "by_type": {
+      "coloquial": {
+        "n": 147,
+        "hit_rate": 0.7346938775510204,
+        "mrr": 0.5698412698412697
+      },
+      "directa": {
+        "n": 137,
+        "hit_rate": 0.7007299270072993,
+        "mrr": 0.5092457420924574
+      },
+      "entidad": {
+        "n": 147,
+        "hit_rate": 0.7551020408163265,
+        "mrr": 0.564172335600907
+      },
+      "indirecta": {
+        "n": 141,
+        "hit_rate": 0.5460992907801419,
+        "mrr": 0.39728132387706855
+      }
+    },
+    "failures": [
+      {
+        "question": "Necesito comunicarme con la oficina turística de Chachapoyas, ¿qué datos tienen?",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0021",
+        "got": [
+          "amazonas-es-2023_0004",
+          "amazonas-es-2023_0007",
+          "amazonas-es-2023_0011"
+        ]
+      },
+      {
+        "question": "¿A qué hora abre la sala Gilberto Tenorio Ruiz de lunes a viernes?",
+        "type": "directa",
+        "expected": "amazonas-es-2023_0004",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "ica-es-2025_0009",
+          "lima_rutas_cortas-es-2020_0008"
+        ]
+      },
+      {
+        "question": "museo gilberto tenorio horario",
+        "type": "coloquial",
+        "expected": "amazonas-es-2023_0004",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0012",
+          "tacna-es-2023_0007"
+        ]
+      },
+      {
+        "question": "¿En qué altura está la capital de Amazonas?",
+        "type": "directa",
+        "expected": "amazonas-es-2023_0001",
+        "got": [
+          "amazonas-es-2023_0000",
+          "ayacucho-es-2023_0001",
+          "loreto-es-2023_0001"
+        ]
+      },
+      {
+        "question": "Quiero saber a qué altitud queda la ciudad principal de esa región del norte.",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0001",
+        "got": [
+          "lima_rutas_cortas-es-2020_0020",
+          "la_libertad-es-2023_0001",
+          "lima_rutas_cortas-es-2020_0021"
+        ]
+      },
+      {
+        "question": "altura de chachapoyas",
+        "type": "coloquial",
+        "expected": "amazonas-es-2023_0001",
+        "got": [
+          "amazonas-es-2023_0007",
+          "amazonas-es-2023_0013",
+          "amazonas-es-2023_0002"
+        ]
+      },
+      {
+        "question": "¿Cuánto tiempo toma llegar a Quiocta desde Chachapoyas en auto y caminando?",
+        "type": "directa",
+        "expected": "amazonas-es-2023_0009",
+        "got": [
+          "amazonas-es-2023_0002",
+          "amazonas-es-2023_0013",
+          "lambayeque-es-2023_0003"
+        ]
+      },
+      {
+        "question": "Busco una cueva con restos humanos y formaciones de piedra en el norte, ¿cuál será?",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0009",
+        "got": [
+          "ancash-es-2023_0022",
+          "ayacucho-es-2023_0012",
+          "ica-es-2025_0011"
+        ]
+      },
+      {
+        "question": "¿Cuántos días recomiendan para hacer el circuito sugerido?",
+        "type": "directa",
+        "expected": "amazonas-es-2023_0017",
+        "got": [
+          "puno-es-2023_0005",
+          "arequipa-es-2023_0004",
+          "piura-es-2023_0005"
+        ]
+      },
+      {
+        "question": "Quiero organizar una visita larga con varios atractivos en ese orden, ¿cuánto mínimo debería quedarme?",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0017",
+        "got": [
+          "ica-es-2025_0004",
+          "moquegua-es-2023_0005",
+          "lima_callao-es-2019_0006"
+        ]
+      },
+      {
+        "question": "estadía mínima recomendada",
+        "type": "entidad",
+        "expected": "amazonas-es-2023_0017",
+        "got": [
+          "cusco-es-2023_0005",
+          "san_martin-es-2023_0026",
+          "ancash-es-2023_0004"
+        ]
+      },
+      {
+        "question": "Busco la caminata más larga y exigente de esas opciones, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "ancash-es-2023_0009",
+        "got": [
+          "lima_rutas_cortas-es-2020_0040",
+          "lima_rutas_cortas-es-2020_0039",
+          "ucayali-es-2023_0015"
+        ]
+      },
+      {
+        "question": "trek largo en ancash",
+        "type": "coloquial",
+        "expected": "ancash-es-2023_0009",
+        "got": [
+          "ancash-es-2023_0021",
+          "moquegua-es-2023_0007",
+          "ancash-es-2023_0004"
+        ]
+      },
+      {
+        "question": "Busco una orilla tranquila y segura para pasar el día con chicos, ¿dónde sería?",
+        "type": "indirecta",
+        "expected": "ancash-es-2023_0024",
+        "got": [
+          "moquegua-es-2023_0013",
+          "tumbes-es-2023_0005",
+          "lambayeque-es-2023_0005"
+        ]
+      },
+      {
+        "question": "¿Qué destinos incluye la ruta mínima de tres días?",
+        "type": "directa",
+        "expected": "ancash-es-2023_0004",
+        "got": [
+          "lima_rutas_cortas-es-2020_0003",
+          "lima_rutas_cortas-es-2020_0026",
+          "loreto-es-2023_0006"
+        ]
+      },
+      {
+        "question": "Quiero ir a una fiesta de la sierra ancashina que cae a mitad de año, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "ancash-es-2023_0031",
+        "got": [
+          "apurimac-es-2023_0016",
+          "arequipa-es-2023_0007",
+          "amazonas-es-2023_0020"
+        ]
+      },
+      {
+        "question": "pomallucay cuantos km",
+        "type": "coloquial",
+        "expected": "ancash-es-2023_0018",
+        "got": [
+          "ancash-es-2023_0003",
+          "arequipa-es-2023_0003",
+          "cusco-es-2023_0004"
+        ]
+      },
+      {
+        "question": "Necesito llegar desde la ciudad imperial hasta la capital regional por carretera, ¿cuánto toma?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0002",
+        "got": [
+          "la_libertad-es-2023_0028",
+          "san_martin-es-2023_0003",
+          "piura-es-2023_0022"
+        ]
+      },
+      {
+        "question": "Cusco Abancay",
+        "type": "entidad",
+        "expected": "apurimac-es-2023_0002",
+        "got": [
+          "cusco-es-2023_0017",
+          "apurimac-es-2023_0004",
+          "cusco-es-2023_0027"
+        ]
+      },
+      {
+        "question": "Busco regalos hechos a mano con lana, barro y madera de esa región andina, ¿qué ofrecen?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0018",
+        "got": [
+          "ancash-es-2023_0029",
+          "amazonas-es-2023_0018",
+          "junin-es-2025_0023"
+        ]
+      },
+      {
+        "question": "¿En qué meses suele llover y cuándo conviene ir si quiero evitar aguaceros?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0001",
+        "got": [
+          "lima_rutas_cortas-es-2020_0007",
+          "amazonas-es-2023_0007",
+          "ayacucho-es-2023_0002"
+        ]
+      },
+      {
+        "question": "Apurímac capital",
+        "type": "entidad",
+        "expected": "apurimac-es-2023_0001",
+        "got": [
+          "apurimac-es-2023_0019",
+          "apurimac-es-2023_0005",
+          "apurimac-es-2023_0003"
+        ]
+      },
+      {
+        "question": "Busco un destino andino con cañones profundos y mucha historia antigua, ¿cuál sería?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0000",
+        "got": [
+          "arequipa-es-2023_0022",
+          "cusco-es-2023_0027",
+          "ancash-es-2023_0015"
+        ]
+      },
+      {
+        "question": "a que hora abren la catedral de arequipa el domingo",
+        "type": "coloquial",
+        "expected": "arequipa-es-2023_0008",
+        "got": [
+          "arequipa-es-2023_0007",
+          "madre_de_dios-es-2023_0003",
+          "arequipa-es-2023_0009"
+        ]
+      },
+      {
+        "question": "Busco un sitio de peregrinación muy concurrido por devotos del sur, ¿cuál me recomiendan?",
+        "type": "indirecta",
+        "expected": "arequipa-es-2023_0018",
+        "got": [
+          "ica-es-2025_0008",
+          "madre_de_dios-es-2023_0005",
+          "lima_rutas_cortas-es-2020_0045"
+        ]
+      },
+      {
+        "question": "como llego a chapi desde arequipa",
+        "type": "coloquial",
+        "expected": "arequipa-es-2023_0018",
+        "got": [
+          "arequipa-es-2023_0001",
+          "arequipa-es-2023_0002",
+          "huancavelica-es-2023_0001"
+        ]
+      },
+      {
+        "question": "Virgen de Chapi",
+        "type": "entidad",
+        "expected": "arequipa-es-2023_0018",
+        "got": [
+          "arequipa-es-2023_0007",
+          "cusco-es-2023_0034",
+          "puno-es-2023_0021"
+        ]
+      },
+      {
+        "question": "Busco una región del sur con reconocimiento mundial por su arquitectura mestiza, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "arequipa-es-2023_0000",
+        "got": [
+          "ica-es-2025_0008",
+          "ayacucho-es-2023_0019",
+          "huanuco-es-2023_0015"
+        ]
+      },
+      {
+        "question": "¿Qué servicios ofrece el balneario de Jesús para relajarse?",
+        "type": "directa",
+        "expected": "arequipa-es-2023_0019",
+        "got": [
+          "tumbes-es-2023_0016",
+          "lambayeque-es-2023_0010",
+          "cajamarca-es-2023_0022"
+        ]
+      },
+      {
+        "question": "Quiero un lugar con aguas cálidas y tratamiento para descansar cerca de la ciudad, ¿dónde voy?",
+        "type": "indirecta",
+        "expected": "arequipa-es-2023_0019",
+        "got": [
+          "cajamarca-es-2023_0022",
+          "huancavelica-es-2023_0018",
+          "cajamarca-es-2023_0013"
+        ]
+      },
+      {
+        "question": "Balneario de Jesús",
+        "type": "entidad",
+        "expected": "arequipa-es-2023_0019",
+        "got": [
+          "tumbes-es-2023_0016",
+          "lambayeque-es-2023_0011",
+          "la_libertad-es-2023_0024"
+        ]
+      },
+      {
+        "question": "Quiero comprar piezas hechas a mano y ver cómo trabajan los maestros locales, ¿adónde voy?",
+        "type": "indirecta",
+        "expected": "ayacucho-es-2023_0019",
+        "got": [
+          "junin-es-2025_0023",
+          "cusco-es-2023_0036",
+          "piura-es-2023_0006"
+        ]
+      },
+      {
+        "question": "¿Cuánto tiempo se camina hasta las aguas turquesas de Millpu?",
+        "type": "directa",
+        "expected": "ayacucho-es-2023_0015",
+        "got": [
+          "ayacucho-es-2023_0005",
+          "lima_rutas_cortas-es-2020_0010",
+          "huanuco-es-2023_0002"
+        ]
+      },
+      {
+        "question": "como llego a millpu desde ayacucho",
+        "type": "coloquial",
+        "expected": "ayacucho-es-2023_0015",
+        "got": [
+          "ayacucho-es-2023_0004",
+          "ayacucho-es-2023_0003",
+          "ayacucho-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Millpu aguas turquesas",
+        "type": "entidad",
+        "expected": "ayacucho-es-2023_0015",
+        "got": [
+          "huanuco-es-2023_0023",
+          "ayacucho-es-2023_0002",
+          "lima_rutas_cortas-es-2020_0024"
+        ]
+      },
+      {
+        "question": "¿Cuántos kilómetros hay desde Ayacucho hasta Pampa Galeras?",
+        "type": "directa",
+        "expected": "ayacucho-es-2023_0016",
+        "got": [
+          "ayacucho-es-2023_0004",
+          "ayacucho-es-2023_0001",
+          "ayacucho-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Quiero saber qué tan arriba del mar está la ciudad principal de esa región andina.",
+        "type": "indirecta",
+        "expected": "cajamarca-es-2023_0001",
+        "got": [
+          "cusco-es-2023_0016",
+          "huanuco-es-2023_0022",
+          "san_martin-es-2023_0001"
+        ]
+      },
+      {
+        "question": "a que altura esta cajamarca",
+        "type": "coloquial",
+        "expected": "cajamarca-es-2023_0001",
+        "got": [
+          "cajamarca-es-2023_0014",
+          "cajamarca-es-2023_0002",
+          "cajamarca-es-2023_0016"
+        ]
+      },
+      {
+        "question": "¿Dónde queda la casa museo que guarda piezas antiguas de Cajamarca?",
+        "type": "directa",
+        "expected": "cajamarca-es-2023_0012",
+        "got": [
+          "arequipa-es-2023_0012",
+          "cusco-es-2023_0008",
+          "ayacucho-es-2023_0010"
+        ]
+      },
+      {
+        "question": "casa museo de piezas antiguas cajamarca",
+        "type": "coloquial",
+        "expected": "cajamarca-es-2023_0012",
+        "got": [
+          "cusco-es-2023_0008",
+          "arequipa-es-2023_0012",
+          "ayacucho-es-2023_0010"
+        ]
+      },
+      {
+        "question": "¿Cuál es el horario de Saqsaywaman y qué tipo de boleto piden?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0012",
+        "got": [
+          "arequipa-es-2023_0012",
+          "piura-es-2023_0018",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "Quiero visitar una construcción inca usada para ceremonias y ligada al Inti Raymi, ¿cómo se ingresa?",
+        "type": "indirecta",
+        "expected": "cusco-es-2023_0012",
+        "got": [
+          "cajamarca-es-2023_0010",
+          "huanuco-es-2023_0020",
+          "ayacucho-es-2023_0017"
+        ]
+      },
+      {
+        "question": "a que hora abre saqsaywaman",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0012",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "piura-es-2023_0018",
+          "lima_rutas_cortas-es-2020_0008"
+        ]
+      },
+      {
+        "question": "¿A qué hora se puede visitar Moray con boleto turístico?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0016",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "cajamarca-es-2023_0005",
+          "cusco-es-2023_0012"
+        ]
+      },
+      {
+        "question": "moray horario y entrada",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0016",
+        "got": [
+          "ica-es-2025_0008",
+          "ica-es-2025_0009",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Moray boleto turístico",
+        "type": "entidad",
+        "expected": "cusco-es-2023_0016",
+        "got": [
+          "cajamarca-es-2023_0011",
+          "cajamarca-es-2023_0010",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "¿Qué actividad se puede hacer en la laguna Qoricocha además de caminar?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0024",
+        "got": [
+          "ancash-es-2023_0004",
+          "cajamarca-es-2023_0017",
+          "huancavelica-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Quiero ir a una laguna andina donde se pueda remar y pescar, ¿cuál me recomiendan?",
+        "type": "indirecta",
+        "expected": "cusco-es-2023_0024",
+        "got": [
+          "huancavelica-es-2023_0016",
+          "ancash-es-2023_0012",
+          "piura-es-2023_0013"
+        ]
+      },
+      {
+        "question": "laguna qoricocha para remar",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0024",
+        "got": [
+          "ancash-es-2023_0012",
+          "ancash-es-2023_0008",
+          "huancavelica-es-2023_0016"
+        ]
+      },
+      {
+        "question": "¿En qué horario atiende la Catedral del Cusco?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0006",
+        "got": [
+          "cusco-es-2023_0034",
+          "arequipa-es-2023_0012",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "catedral del cuzco horario",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0006",
+        "got": [
+          "cusco-es-2023_0034",
+          "arequipa-es-2023_0012",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "Busco saber el tiempo mínimo para conocer bien esa ciudad y sus alrededores, ¿cuál sugieren?",
+        "type": "indirecta",
+        "expected": "cusco-es-2023_0005",
+        "got": [
+          "lima_rutas_cortas-es-2020_0003",
+          "arequipa-es-2023_0017",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "estadia minima cusco",
+        "type": "entidad",
+        "expected": "cusco-es-2023_0005",
+        "got": [
+          "cusco-es-2023_0000",
+          "cusco-es-2023_0016",
+          "cusco-es-2023_0020"
+        ]
+      },
+      {
+        "question": "¿Qué cultivos andinos son la base de la comida serrana?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "gastronomia-es-2020_0045",
+          "gastronomia-es-2020_0002",
+          "gastronomia-es-2020_0034"
+        ]
+      },
+      {
+        "question": "Quiero saber cuáles son los productos que sostienen la cocina de la sierra peruana.",
+        "type": "indirecta",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "gastronomia-es-2020_0002",
+          "gastronomia-es-2020_0045",
+          "gastronomia-es-2020_0029"
+        ]
+      },
+      {
+        "question": "que alimentos son base de la sierra",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "loreto-es-2023_0022",
+          "pasco-es-2023_0021",
+          "huanuco-es-2023_0006"
+        ]
+      },
+      {
+        "question": "base de la gastronomía",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "gastronomia-es-2020_0003",
+          "gastronomia-es-2020_0001",
+          "la_libertad-es-2023_0006"
+        ]
+      },
+      {
+        "question": "¿Qué regiones incluye la costa norte del Perú?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "lambayeque-es-2023_0000",
+          "piura-es-2023_0001"
+        ]
+      },
+      {
+        "question": "Busco saber qué departamentos forman la franja norte del litoral peruano.",
+        "type": "indirecta",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "lima_rutas_cortas-es-2020_0027",
+          "lima_rutas_cortas-es-2020_0028"
+        ]
+      },
+      {
+        "question": "que regiones son costa norte",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "lima_rutas_cortas-es-2020_0020",
+          "lima_rutas_cortas-es-2020_0027"
+        ]
+      },
+      {
+        "question": "Costa Norte Perú",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "lima_rutas_cortas-es-2020_0027",
+          "piura-es-2023_0001"
+        ]
+      },
+      {
+        "question": "¿Qué ingrediente destaca en la cocina de Tacna?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0025",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0014",
+          "tacna-es-2023_0010"
+        ]
+      },
+      {
+        "question": "que usan mucho en la comida tacna",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0025",
+        "got": [
+          "tacna-es-2023_0014",
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0015"
+        ]
+      },
+      {
+        "question": "ají panca Tacna",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0025",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0012",
+          "tacna-es-2023_0014"
+        ]
+      },
+      {
+        "question": "¿Qué platos típicos preparan en Chazuta con pescado y yuca?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0044",
+        "got": [
+          "ucayali-es-2023_0019",
+          "ayacucho-es-2023_0020",
+          "piura-es-2023_0007"
+        ]
+      },
+      {
+        "question": "Busco una experiencia amazónica con recetas heredadas por mujeres mayores, ¿dónde la encuentro?",
+        "type": "indirecta",
+        "expected": "gastronomia-es-2020_0044",
+        "got": [
+          "gastronomia-es-2020_0041",
+          "loreto-es-2023_0016",
+          "madre_de_dios-es-2023_0006"
+        ]
+      },
+      {
+        "question": "que juane famoso hay en tarapoto",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0044",
+        "got": [
+          "san_martin-es-2023_0015",
+          "san_martin-es-2023_0017",
+          "san_martin-es-2023_0018"
+        ]
+      },
+      {
+        "question": "Quiero visitar un sitio amazónico con lagos y muchísimas aves, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "gastronomia-es-2020_0042",
+        "got": [
+          "amazonas-es-2023_0013",
+          "loreto-es-2023_0016",
+          "loreto-es-2023_0008"
+        ]
+      },
+      {
+        "question": "donde ver aves en tambopata",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0042",
+        "got": [
+          "madre_de_dios-es-2023_0013",
+          "madre_de_dios-es-2023_0014",
+          "madre_de_dios-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Tambopata collpas",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0042",
+        "got": [
+          "madre_de_dios-es-2023_0013",
+          "madre_de_dios-es-2023_0014",
+          "madre_de_dios-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Por dónde conviene recorrer el centro limeño a pie?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0018",
+        "got": [
+          "lima_rutas_cortas-es-2020_0008",
+          "lima_callao-es-2019_0026",
+          "puno-es-2023_0005"
+        ]
+      },
+      {
+        "question": "que zona antigua de lima se recorre caminando",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0018",
+        "got": [
+          "lima_rutas_cortas-es-2020_0008",
+          "lima_callao-es-2019_0021",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Lima centro histórico",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0018",
+        "got": [
+          "lima_callao-es-2019_0010",
+          "lima_callao-es-2019_0014",
+          "lima_callao-es-2019_0000"
+        ]
+      },
+      {
+        "question": "Necesito saber el tiempo por carretera desde la ciudad del Valle del Mantaro, ¿cuánto es?",
+        "type": "indirecta",
+        "expected": "huancavelica-es-2023_0001",
+        "got": [
+          "piura-es-2023_0022",
+          "san_martin-es-2023_0027",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Huancavelica Huancayo",
+        "type": "entidad",
+        "expected": "huancavelica-es-2023_0001",
+        "got": [
+          "huancavelica-es-2023_0012",
+          "huancavelica-es-2023_0019",
+          "huancavelica-es-2023_0000"
+        ]
+      },
+      {
+        "question": "Busco una ruta corta que combine un pueblo serrano y una mina antigua, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "huancavelica-es-2023_0004",
+        "got": [
+          "huancavelica-es-2023_0012",
+          "cusco-es-2023_0032",
+          "ancash-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Sacsamarca Santa Bárbara",
+        "type": "entidad",
+        "expected": "huancavelica-es-2023_0004",
+        "got": [
+          "lima_rutas_cortas-es-2020_0033",
+          "cajamarca-es-2023_0018",
+          "junin-es-2025_0019"
+        ]
+      },
+      {
+        "question": "Quiero un sitio con figuras de piedra que reflejen la vida cotidiana de un pueblo andino, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "huancavelica-es-2023_0013",
+        "got": [
+          "ayacucho-es-2023_0019",
+          "ayacucho-es-2023_0012",
+          "huancavelica-es-2023_0015"
+        ]
+      },
+      {
+        "question": "telefono de iperu",
+        "type": "coloquial",
+        "expected": "huancavelica-es-2023_0020",
+        "got": [
+          "amazonas-es-2023_0021",
+          "cajamarca-es-2023_0027",
+          "arequipa-es-2023_0029"
+        ]
+      },
+      {
+        "question": "iPERÚ teléfono",
+        "type": "entidad",
+        "expected": "huancavelica-es-2023_0020",
+        "got": [
+          "cajamarca-es-2023_0027",
+          "amazonas-es-2023_0021",
+          "lima_callao-es-2019_0057"
+        ]
+      },
+      {
+        "question": "Busco un conjunto de construcciones previas a los incas con varias alturas, ¿dónde queda?",
+        "type": "indirecta",
+        "expected": "huanuco-es-2023_0021",
+        "got": [
+          "apurimac-es-2023_0008",
+          "ucayali-es-2023_0010",
+          "cusco-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Cuándo se puede entrar a Huánuco Pampa?",
+        "type": "directa",
+        "expected": "huanuco-es-2023_0020",
+        "got": [
+          "huanuco-es-2023_0012",
+          "huanuco-es-2023_0016",
+          "huanuco-es-2023_0013"
+        ]
+      },
+      {
+        "question": "huanuco pampa ingreso boleto",
+        "type": "coloquial",
+        "expected": "huanuco-es-2023_0020",
+        "got": [
+          "huanuco-es-2023_0012",
+          "huanuco-es-2023_0023",
+          "huanuco-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Huánuco Pampa",
+        "type": "entidad",
+        "expected": "huanuco-es-2023_0020",
+        "got": [
+          "huanuco-es-2023_0013",
+          "huanuco-es-2023_0012",
+          "huanuco-es-2023_0015"
+        ]
+      },
+      {
+        "question": "¿Qué ofrece Pichgacocha para pasar el día?",
+        "type": "directa",
+        "expected": "huanuco-es-2023_0012",
+        "got": [
+          "ayacucho-es-2023_0005",
+          "apurimac-es-2023_0014",
+          "huancavelica-es-2023_0011"
+        ]
+      },
+      {
+        "question": "Busco varias lagunas altas unidas por quebradas para navegar y pescar, ¿cuáles son?",
+        "type": "indirecta",
+        "expected": "huanuco-es-2023_0012",
+        "got": [
+          "piura-es-2023_0013",
+          "huancavelica-es-2023_0016",
+          "lima_rutas_cortas-es-2020_0047"
+        ]
+      },
+      {
+        "question": "lagunas pichgacocha",
+        "type": "coloquial",
+        "expected": "huanuco-es-2023_0012",
+        "got": [
+          "ancash-es-2023_0012",
+          "huancavelica-es-2023_0016",
+          "piura-es-2023_0013"
+        ]
+      },
+      {
+        "question": "¿Qué actividades se pueden hacer en Montepotrero?",
+        "type": "directa",
+        "expected": "huanuco-es-2023_0019",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "la_libertad-es-2023_0005",
+          "cajamarca-es-2023_0017"
+        ]
+      },
+      {
+        "question": "Ica a Nasca",
+        "type": "entidad",
+        "expected": "ica-es-2025_0003",
+        "got": [
+          "ica-es-2025_0018",
+          "lima_rutas_cortas-es-2020_0054",
+          "ica-es-2025_0017"
+        ]
+      },
+      {
+        "question": "¿Cuántas horas toma viajar de Lima a Nasca por tierra?",
+        "type": "directa",
+        "expected": "ica-es-2025_0002",
+        "got": [
+          "tumbes-es-2023_0003",
+          "ayacucho-es-2023_0004",
+          "la_libertad-es-2023_0003"
+        ]
+      },
+      {
+        "question": "¿Qué destino de esa región queda más lejos saliendo desde Lima?",
+        "type": "indirecta",
+        "expected": "ica-es-2025_0002",
+        "got": [
+          "tumbes-es-2023_0003",
+          "gastronomia-es-2020_0004",
+          "lima_rutas_cortas-es-2020_0052"
+        ]
+      },
+      {
+        "question": "¿A qué distancia está Huayurí de Palpa?",
+        "type": "directa",
+        "expected": "ica-es-2025_0010",
+        "got": [
+          "ancash-es-2023_0003",
+          "huancavelica-es-2023_0003",
+          "apurimac-es-2023_0013"
+        ]
+      },
+      {
+        "question": "horario de huayuri palpa",
+        "type": "coloquial",
+        "expected": "ica-es-2025_0010",
+        "got": [
+          "ica-es-2025_0008",
+          "ucayali-es-2023_0009",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Cuánto se demora ir de Lima a Tarma en auto?",
+        "type": "directa",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "san_martin-es-2023_0003",
+          "junin-es-2025_0019"
+        ]
+      },
+      {
+        "question": "¿Qué ciudad de la sierra central queda a unas seis horas desde la capital?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "pasco-es-2023_0003",
+          "cajamarca-es-2023_0002",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "cuanto se tarda ir a jauja desde lima",
+        "type": "coloquial",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "junin-es-2025_0013",
+          "junin-es-2025_0003",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Lima a Jauja",
+        "type": "entidad",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "junin-es-2025_0013",
+          "junin-es-2025_0003",
+          "tumbes-es-2023_0003"
+        ]
+      },
+      {
+        "question": "Busco un monasterio con biblioteca grande y museo natural, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0010",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0011",
+          "lambayeque-es-2023_0005"
+        ]
+      },
+      {
+        "question": "¿Cuánto hay de Huancayo a La Oroya por carretera?",
+        "type": "directa",
+        "expected": "junin-es-2025_0005",
+        "got": [
+          "lima_rutas_cortas-es-2020_0047",
+          "huancavelica-es-2023_0001",
+          "lima_rutas_cortas-es-2020_0046"
+        ]
+      },
+      {
+        "question": "¿Qué destino interprovincial desde Huancayo queda a unas dos horas?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0005",
+        "got": [
+          "ayacucho-es-2023_0004",
+          "huancavelica-es-2023_0001",
+          "junin-es-2025_0004"
+        ]
+      },
+      {
+        "question": "Huancayo La Oroya",
+        "type": "entidad",
+        "expected": "junin-es-2025_0005",
+        "got": [
+          "junin-es-2025_0007",
+          "huancavelica-es-2023_0014",
+          "junin-es-2025_0009"
+        ]
+      },
+      {
+        "question": "¿Cuánto demora llegar a pie a la catarata El Tirol?",
+        "type": "directa",
+        "expected": "junin-es-2025_0016",
+        "got": [
+          "amazonas-es-2023_0013",
+          "tacna-es-2023_0002",
+          "junin-es-2025_0022"
+        ]
+      },
+      {
+        "question": "Busco una caída de agua con sendero y orquídeas, ¿cuál recomiendan?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0016",
+        "got": [
+          "ucayali-es-2023_0011",
+          "ucayali-es-2023_0016",
+          "amazonas-es-2023_0013"
+        ]
+      },
+      {
+        "question": "como llegar a el tirol san ramon",
+        "type": "coloquial",
+        "expected": "junin-es-2025_0016",
+        "got": [
+          "san_martin-es-2023_0024",
+          "cajamarca-es-2023_0004",
+          "san_martin-es-2023_0002"
+        ]
+      },
+      {
+        "question": "¿A qué hora abre Tarmatambo los domingos?",
+        "type": "directa",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "madre_de_dios-es-2023_0013",
+          "lima_rutas_cortas-es-2020_0010",
+          "madre_de_dios-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Busco un sitio inca atravesado por el camino antiguo y con andenes, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "cusco-es-2023_0018",
+          "tumbes-es-2023_0008",
+          "puno-es-2023_0012"
+        ]
+      },
+      {
+        "question": "horario de tarmatambo",
+        "type": "coloquial",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "ica-es-2025_0008",
+          "madre_de_dios-es-2023_0012",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Tarmatambo horario",
+        "type": "entidad",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "ica-es-2025_0008",
+          "madre_de_dios-es-2023_0012",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "playa tranquila cerca de trujillo para acampar",
+        "type": "coloquial",
+        "expected": "la_libertad-es-2023_0021",
+        "got": [
+          "moquegua-es-2023_0013",
+          "tumbes-es-2023_0010",
+          "tumbes-es-2023_0011"
+        ]
+      },
+      {
+        "question": "¿A qué distancia está Cascas desde Trujillo?",
+        "type": "directa",
+        "expected": "la_libertad-es-2023_0027",
+        "got": [
+          "la_libertad-es-2023_0003",
+          "la_libertad-es-2023_0004",
+          "cajamarca-es-2023_0002"
+        ]
+      },
+      {
+        "question": "Busco un plan de dos jornadas con sitios andinos, laguna y aguas calientes, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "la_libertad-es-2023_0005",
+        "got": [
+          "lima_rutas_cortas-es-2020_0024",
+          "tacna-es-2023_0013",
+          "ancash-es-2023_0004"
+        ]
+      },
+      {
+        "question": "¿A qué hora abre Marcahuamachuco todos los días?",
+        "type": "directa",
+        "expected": "la_libertad-es-2023_0028",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "lima_callao-es-2019_0047",
+          "lima_rutas_cortas-es-2020_0008"
+        ]
+      },
+      {
+        "question": "marcahuamachuco horario hoy",
+        "type": "coloquial",
+        "expected": "la_libertad-es-2023_0028",
+        "got": [
+          "huancavelica-es-2023_0009",
+          "ica-es-2025_0008",
+          "lima_callao-es-2019_0047"
+        ]
+      },
+      {
+        "question": "Marcahuamachuco horario",
+        "type": "entidad",
+        "expected": "la_libertad-es-2023_0028",
+        "got": [
+          "huancavelica-es-2023_0009",
+          "ica-es-2025_0008",
+          "lima_callao-es-2019_0047"
+        ]
+      },
+      {
+        "question": "Busco la casa natal de un poeta peruano muy famoso convertida en museo, ¿dónde queda?",
+        "type": "indirecta",
+        "expected": "la_libertad-es-2023_0025",
+        "got": [
+          "lima_callao-es-2019_0012",
+          "lima_callao-es-2019_0015",
+          "lima_callao-es-2019_0013"
+        ]
+      },
+      {
+        "question": "casa museo césar vallejo horario",
+        "type": "coloquial",
+        "expected": "la_libertad-es-2023_0025",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0012",
+          "arequipa-es-2023_0013"
+        ]
+      },
+      {
+        "question": "Quiero saber qué fiesta religiosa importante cae en agosto, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lambayeque-es-2023_0008",
+        "got": [
+          "moquegua-es-2023_0018",
+          "piura-es-2023_0008",
+          "pasco-es-2023_0022"
+        ]
+      },
+      {
+        "question": "Busco un templo neocolonial con horarios partidos para misa y visita, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lambayeque-es-2023_0010",
+        "got": [
+          "huancavelica-es-2023_0009",
+          "ayacucho-es-2023_0007",
+          "la_libertad-es-2023_0011"
+        ]
+      },
+      {
+        "question": "Busco un lugar famoso por tejidos y bordados artesanales, ¿dónde sería?",
+        "type": "indirecta",
+        "expected": "lambayeque-es-2023_0007",
+        "got": [
+          "junin-es-2025_0023",
+          "piura-es-2023_0006",
+          "huancavelica-es-2023_0005"
+        ]
+      },
+      {
+        "question": "¿Cuál es el horario del museo de sitio Arturo Jiménez Borja en Ate?",
+        "type": "directa",
+        "expected": "lima_callao-es-2019_0049",
+        "got": [
+          "arequipa-es-2023_0012",
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0013"
+        ]
+      },
+      {
+        "question": "puruchuco horario entrada",
+        "type": "coloquial",
+        "expected": "lima_callao-es-2019_0049",
+        "got": [
+          "ica-es-2025_0008",
+          "huanuco-es-2023_0018",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "como ir a huancaya desde lima",
+        "type": "coloquial",
+        "expected": "lima_rutas_cortas-es-2020_0046",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "huancavelica-es-2023_0002",
+          "apurimac-es-2023_0002"
+        ]
+      },
+      {
+        "question": "Busco una meseta alta con rocas raras y frío fuerte para pasar la noche, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lima_rutas_cortas-es-2020_0037",
+        "got": [
+          "amazonas-es-2023_0013",
+          "lima_rutas_cortas-es-2020_0007",
+          "piura-es-2023_0025"
+        ]
+      },
+      {
+        "question": "¿Qué actividades incluye la estadía en Eco Truly Park?",
+        "type": "directa",
+        "expected": "lima_rutas_cortas-es-2020_0015",
+        "got": [
+          "loreto-es-2023_0006",
+          "madre_de_dios-es-2023_0005",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Quiero un lugar costero con ruinas antiquísimas y un mirador sobre el mar, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lima_rutas_cortas-es-2020_0021",
+        "got": [
+          "moquegua-es-2023_0012",
+          "lima_callao-es-2019_0044",
+          "lima_rutas_cortas-es-2020_0028"
+        ]
+      },
+      {
+        "question": "caral que hay",
+        "type": "coloquial",
+        "expected": "lima_rutas_cortas-es-2020_0021",
+        "got": [
+          "lima_rutas_cortas-es-2020_0020",
+          "ucayali-es-2023_0017",
+          "lima_rutas_cortas-es-2020_0056"
+        ]
+      },
+      {
+        "question": "Ciudad Sagrada de Caral",
+        "type": "entidad",
+        "expected": "lima_rutas_cortas-es-2020_0021",
+        "got": [
+          "lima_rutas_cortas-es-2020_0056",
+          "lima_callao-es-2019_0046",
+          "piura-es-2023_0022"
+        ]
+      },
+      {
+        "question": "cuando llueve mas en loreto",
+        "type": "coloquial",
+        "expected": "loreto-es-2023_0001",
+        "got": [
+          "loreto-es-2023_0023",
+          "loreto-es-2023_0018",
+          "loreto-es-2023_0010"
+        ]
+      },
+      {
+        "question": "¿Cuál es el horario del Museo Iquitos los sábados?",
+        "type": "directa",
+        "expected": "loreto-es-2023_0012",
+        "got": [
+          "loreto-es-2023_0011",
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "museo iquitos horario",
+        "type": "coloquial",
+        "expected": "loreto-es-2023_0012",
+        "got": [
+          "loreto-es-2023_0011",
+          "loreto-es-2023_0014",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Bora de San Andrés",
+        "type": "entidad",
+        "expected": "loreto-es-2023_0015",
+        "got": [
+          "arequipa-es-2023_0009",
+          "cajamarca-es-2023_0004",
+          "amazonas-es-2023_0016"
+        ]
+      },
+      {
+        "question": "pilpintuwasi horario",
+        "type": "coloquial",
+        "expected": "loreto-es-2023_0017",
+        "got": [
+          "ica-es-2025_0008",
+          "ayacucho-es-2023_0022",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Quiero un muelle para tomar embarcaciones y ver dónde se juntan dos ríos, ¿cuál me sirve?",
+        "type": "indirecta",
+        "expected": "loreto-es-2023_0013",
+        "got": [
+          "moquegua-es-2023_0012",
+          "tumbes-es-2023_0010",
+          "ucayali-es-2023_0014"
+        ]
+      },
+      {
+        "question": "Quiero comprar prendas y adornos hechos con recursos de la selva, ¿qué tipo de artesanía ofrecen?",
+        "type": "indirecta",
+        "expected": "madre_de_dios-es-2023_0007",
+        "got": [
+          "moquegua-es-2023_0016",
+          "tumbes-es-2023_0017",
+          "junin-es-2025_0023"
+        ]
+      },
+      {
+        "question": "Busco un sitio alto para ver el encuentro de dos ríos y la ciudad, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "madre_de_dios-es-2023_0011",
+        "got": [
+          "tumbes-es-2023_0006",
+          "la_libertad-es-2023_0028",
+          "amazonas-es-2023_0006"
+        ]
+      },
+      {
+        "question": "Necesito el contacto para pedir permisos de una comunidad nativa en Madre de Dios, ¿me lo dan?",
+        "type": "indirecta",
+        "expected": "madre_de_dios-es-2023_0020",
+        "got": [
+          "madre_de_dios-es-2023_0011",
+          "madre_de_dios-es-2023_0010",
+          "madre_de_dios-es-2023_0018"
+        ]
+      },
+      {
+        "question": "telefono kotsimba reservas",
+        "type": "coloquial",
+        "expected": "madre_de_dios-es-2023_0020",
+        "got": [
+          "lambayeque-es-2023_0024",
+          "tumbes-es-2023_0020",
+          "huancavelica-es-2023_0020"
+        ]
+      },
+      {
+        "question": "Kotsimba reservas",
+        "type": "entidad",
+        "expected": "madre_de_dios-es-2023_0020",
+        "got": [
+          "madre_de_dios-es-2023_0011",
+          "tumbes-es-2023_0015",
+          "madre_de_dios-es-2023_0005"
+        ]
+      },
+      {
+        "question": "Quiero comprar recuerdos hechos con técnicas locales y materiales del mar, ¿qué ofrecen?",
+        "type": "indirecta",
+        "expected": "moquegua-es-2023_0016",
+        "got": [
+          "piura-es-2023_0006",
+          "ancash-es-2023_0020",
+          "tumbes-es-2023_0017"
+        ]
+      },
+      {
+        "question": "Busco un museo con piezas de culturas preincaicas e incaicas en el centro de la ciudad, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "moquegua-es-2023_0006",
+        "got": [
+          "cusco-es-2023_0008",
+          "lima_callao-es-2019_0010",
+          "lima_callao-es-2019_0023"
+        ]
+      },
+      {
+        "question": "Voy a comer platos de mar y de sierra en Moquegua, ¿qué opciones típicas hay?",
+        "type": "indirecta",
+        "expected": "moquegua-es-2023_0017",
+        "got": [
+          "gastronomia-es-2020_0024",
+          "la_libertad-es-2023_0006",
+          "moquegua-es-2023_0006"
+        ]
+      },
+      {
+        "question": "Tacna Moquegua",
+        "type": "entidad",
+        "expected": "moquegua-es-2023_0002",
+        "got": [
+          "moquegua-es-2023_0006",
+          "tacna-es-2023_0007",
+          "moquegua-es-2023_0010"
+        ]
+      },
+      {
+        "question": "¿Qué lugares incluye el circuito de un día por la provincia de Ilo?",
+        "type": "directa",
+        "expected": "moquegua-es-2023_0005",
+        "got": [
+          "moquegua-es-2023_0013",
+          "moquegua-es-2023_0012",
+          "puno-es-2023_0005"
+        ]
+      },
+      {
+        "question": "Ruta del Pisco",
+        "type": "entidad",
+        "expected": "moquegua-es-2023_0005",
+        "got": [
+          "ica-es-2025_0004",
+          "gastronomia-es-2020_0021",
+          "ica-es-2025_0013"
+        ]
+      },
+      {
+        "question": "Busco un salto de agua cerca de una ciudad con herencia europea y cafetales, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "pasco-es-2023_0008",
+        "got": [
+          "cajamarca-es-2023_0020",
+          "ucayali-es-2023_0011",
+          "moquegua-es-2023_0013"
+        ]
+      },
+      {
+        "question": "Catarata del Río Tigre",
+        "type": "entidad",
+        "expected": "pasco-es-2023_0008",
+        "got": [
+          "amazonas-es-2023_0013",
+          "junin-es-2025_0022",
+          "junin-es-2025_0015"
+        ]
+      },
+      {
+        "question": "¿Desde Máncora cuánto se tarda en llegar a El Ñuro en auto?",
+        "type": "directa",
+        "expected": "piura-es-2023_0026",
+        "got": [
+          "piura-es-2023_0025",
+          "ayacucho-es-2023_0004",
+          "moquegua-es-2023_0013"
+        ]
+      },
+      {
+        "question": "¿Cuándo debería ir si quiero coincidir con una salida para ver ballenas?",
+        "type": "indirecta",
+        "expected": "piura-es-2023_0008",
+        "got": [
+          "piura-es-2023_0032",
+          "lima_rutas_cortas-es-2020_0007",
+          "piura-es-2023_0031"
+        ]
+      },
+      {
+        "question": "Busco una ruta corta que mezcle mar y paseo por un bosque seco.",
+        "type": "indirecta",
+        "expected": "piura-es-2023_0005",
+        "got": [
+          "lima_rutas_cortas-es-2020_0044",
+          "lima_rutas_cortas-es-2020_0055",
+          "gastronomia-es-2020_0010"
+        ]
+      },
+      {
+        "question": "¿Cuánto demora llegar a la fortaleza desde Catacaos en auto?",
+        "type": "directa",
+        "expected": "piura-es-2023_0017",
+        "got": [
+          "moquegua-es-2023_0013",
+          "pasco-es-2023_0003",
+          "junin-es-2025_0015"
+        ]
+      },
+      {
+        "question": "Quiero conocer un sitio prehispánico con museo propio y cerca de Catacaos.",
+        "type": "indirecta",
+        "expected": "piura-es-2023_0017",
+        "got": [
+          "cusco-es-2023_0008",
+          "ayacucho-es-2023_0012",
+          "cusco-es-2023_0023"
+        ]
+      },
+      {
+        "question": "Narihualá museo",
+        "type": "entidad",
+        "expected": "piura-es-2023_0017",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "lambayeque-es-2023_0005",
+          "huanuco-es-2023_0011"
+        ]
+      },
+      {
+        "question": "Laguna Ñapique",
+        "type": "entidad",
+        "expected": "piura-es-2023_0016",
+        "got": [
+          "ancash-es-2023_0012",
+          "ancash-es-2023_0008",
+          "huanuco-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Busco una región andina pegada a Bolivia y con un lago muy alto.",
+        "type": "indirecta",
+        "expected": "puno-es-2023_0001",
+        "got": [
+          "puno-es-2023_0000",
+          "puno-es-2023_0010",
+          "ayacucho-es-2023_0016"
+        ]
+      },
+      {
+        "question": "¿En qué calle queda el Museo Municipal Carlos Dreyer?",
+        "type": "directa",
+        "expected": "puno-es-2023_0006",
+        "got": [
+          "lima_callao-es-2019_0010",
+          "arequipa-es-2023_0013",
+          "lima_callao-es-2019_0015"
+        ]
+      },
+      {
+        "question": "¿A cuántas cuadras está Huajsapata de la Plaza de Armas?",
+        "type": "directa",
+        "expected": "puno-es-2023_0007",
+        "got": [
+          "huancavelica-es-2023_0008",
+          "apurimac-es-2023_0014",
+          "ucayali-es-2023_0005"
+        ]
+      },
+      {
+        "question": "Busco termas curativas y un lugar donde se observen camélidos andinos.",
+        "type": "indirecta",
+        "expected": "puno-es-2023_0015",
+        "got": [
+          "tacna-es-2023_0013",
+          "cusco-es-2023_0027",
+          "amazonas-es-2023_0014"
+        ]
+      },
+      {
+        "question": "Putina termales",
+        "type": "entidad",
+        "expected": "puno-es-2023_0015",
+        "got": [
+          "lima_rutas_cortas-es-2020_0024",
+          "lima_rutas_cortas-es-2020_0025",
+          "cajamarca-es-2023_0022"
+        ]
+      },
+      {
+        "question": "¿Qué lugares forman el recorrido de un día desde Tarapoto?",
+        "type": "directa",
+        "expected": "san_martin-es-2023_0025",
+        "got": [
+          "tacna-es-2023_0005",
+          "puno-es-2023_0005",
+          "san_martin-es-2023_0015"
+        ]
+      },
+      {
+        "question": "¿Qué opciones hay para una salida breve de un solo día por esa región?",
+        "type": "indirecta",
+        "expected": "san_martin-es-2023_0025",
+        "got": [
+          "tumbes-es-2023_0005",
+          "tacna-es-2023_0005",
+          "la_libertad-es-2023_0005"
+        ]
+      },
+      {
+        "question": "que ver en un dia por tarapoto",
+        "type": "coloquial",
+        "expected": "san_martin-es-2023_0025",
+        "got": [
+          "tacna-es-2023_0005",
+          "san_martin-es-2023_0015",
+          "san_martin-es-2023_0017"
+        ]
+      },
+      {
+        "question": "¿A qué hora cierran la catarata de Ahuashiyacu?",
+        "type": "directa",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "amazonas-es-2023_0013",
+          "lima_rutas_cortas-es-2020_0010",
+          "ayacucho-es-2023_0021"
+        ]
+      },
+      {
+        "question": "Quiero una caminata corta hasta una caída de agua entre vegetación espesa, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "lima_rutas_cortas-es-2020_0040",
+          "ucayali-es-2023_0016",
+          "amazonas-es-2023_0013"
+        ]
+      },
+      {
+        "question": "como llego a ahuashiyacu",
+        "type": "coloquial",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "lima_rutas_cortas-es-2020_0042",
+          "ucayali-es-2023_0003",
+          "lima_rutas_cortas-es-2020_0034"
+        ]
+      },
+      {
+        "question": "Ahuashiyacu horario",
+        "type": "entidad",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "ica-es-2025_0008",
+          "ayacucho-es-2023_0021",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Busco un paseo para conocer cómo hacen bebidas de viñedos y bodegas, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0010",
+        "got": [
+          "ica-es-2025_0007",
+          "moquegua-es-2023_0015",
+          "gastronomia-es-2020_0030"
+        ]
+      },
+      {
+        "question": "Ruta del Pisco",
+        "type": "entidad",
+        "expected": "tacna-es-2023_0010",
+        "got": [
+          "ica-es-2025_0004",
+          "gastronomia-es-2020_0021",
+          "ica-es-2025_0013"
+        ]
+      },
+      {
+        "question": "¿Dónde puedo ubicar la oficina turística de Tacna para pedir ayuda?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0017",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0007",
+          "tacna-es-2023_0003"
+        ]
+      },
+      {
+        "question": "¿Qué recuerdo típico puedo llevarme de esa ciudad fronteriza?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0015",
+        "got": [
+          "piura-es-2023_0016",
+          "cajamarca-es-2023_0000",
+          "piura-es-2023_0020"
+        ]
+      },
+      {
+        "question": "¿En qué parte del país está Tacna?",
+        "type": "directa",
+        "expected": "tacna-es-2023_0000",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0007",
+          "tacna-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Qué ciudad del extremo sur peruano está cerca de Chile?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0000",
+        "got": [
+          "lima_rutas_cortas-es-2020_0042",
+          "huancavelica-es-2023_0012",
+          "huancavelica-es-2023_0016"
+        ]
+      },
+      {
+        "question": "¿Cómo es el clima de esa región del extremo sur?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0001",
+        "got": [
+          "ica-es-2025_0008",
+          "gastronomia-es-2020_0020",
+          "lima_rutas_cortas-es-2020_0042"
+        ]
+      },
+      {
+        "question": "pasalla tumbes",
+        "type": "entidad",
+        "expected": "tumbes-es-2023_0017",
+        "got": [
+          "tumbes-es-2023_0016",
+          "tumbes-es-2023_0007",
+          "tumbes-es-2023_0019"
+        ]
+      },
+      {
+        "question": "Busco un conjunto prehispánico con museo y sendero, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "tumbes-es-2023_0008",
+        "got": [
+          "cusco-es-2023_0008",
+          "lambayeque-es-2023_0005",
+          "cajamarca-es-2023_0010"
+        ]
+      },
+      {
+        "question": "Casa del Manglar",
+        "type": "entidad",
+        "expected": "tumbes-es-2023_0010",
+        "got": [
+          "lima_callao-es-2019_0013",
+          "moquegua-es-2023_0007",
+          "lima_rutas_cortas-es-2020_0011"
+        ]
+      },
+      {
+        "question": "Piura Tumbes",
+        "type": "entidad",
+        "expected": "tumbes-es-2023_0003",
+        "got": [
+          "tumbes-es-2023_0014",
+          "tumbes-es-2023_0007",
+          "tumbes-es-2023_0009"
+        ]
+      },
+      {
+        "question": "Quiero un sitio para pescar tucunaré y dormir al aire libre, ¿cuál me sugieren?",
+        "type": "indirecta",
+        "expected": "ucayali-es-2023_0008",
+        "got": [
+          "lima_rutas_cortas-es-2020_0030",
+          "tumbes-es-2023_0010",
+          "la_libertad-es-2023_0028"
+        ]
+      },
+      {
+        "question": "cashibococha para pasear en bote",
+        "type": "coloquial",
+        "expected": "ucayali-es-2023_0008",
+        "got": [
+          "ancash-es-2023_0026",
+          "loreto-es-2023_0014",
+          "loreto-es-2023_0019"
+        ]
+      },
+      {
+        "question": "¿Qué platos tradicionales aparecen en la comida de Ucayali?",
+        "type": "directa",
+        "expected": "ucayali-es-2023_0019",
+        "got": [
+          "lambayeque-es-2023_0006",
+          "ica-es-2025_0023",
+          "piura-es-2023_0007"
+        ]
+      },
+      {
+        "question": "Necesito comunicarme con la oficina de ayuda turística nacional por chat, ¿cuál es el contacto?",
+        "type": "indirecta",
+        "expected": "ucayali-es-2023_0023",
+        "got": [
+          "lambayeque-es-2023_0024",
+          "junin-es-2025_0028",
+          "tacna-es-2023_0017"
+        ]
+      }
+    ]
+  },
+  "rrf k=60": {
+    "n": 572,
+    "k": 5,
+    "hit_rate": 0.6818181818181818,
+    "mrr": 0.5003205128205129,
+    "by_type": {
+      "coloquial": {
+        "n": 147,
+        "hit_rate": 0.7210884353741497,
+        "mrr": 0.5615646258503402
+      },
+      "directa": {
+        "n": 137,
+        "hit_rate": 0.708029197080292,
+        "mrr": 0.5012165450121655
+      },
+      "entidad": {
+        "n": 147,
+        "hit_rate": 0.7482993197278912,
+        "mrr": 0.5505668934240362
+      },
+      "indirecta": {
+        "n": 141,
+        "hit_rate": 0.5460992907801419,
+        "mrr": 0.38321513002364066
+      }
+    },
+    "failures": [
+      {
+        "question": "Necesito comunicarme con la oficina turística de Chachapoyas, ¿qué datos tienen?",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0021",
+        "got": [
+          "amazonas-es-2023_0004",
+          "amazonas-es-2023_0007",
+          "amazonas-es-2023_0011"
+        ]
+      },
+      {
+        "question": "¿A qué hora abre la sala Gilberto Tenorio Ruiz de lunes a viernes?",
+        "type": "directa",
+        "expected": "amazonas-es-2023_0004",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "ica-es-2025_0009",
+          "lima_rutas_cortas-es-2020_0008"
+        ]
+      },
+      {
+        "question": "museo gilberto tenorio horario",
+        "type": "coloquial",
+        "expected": "amazonas-es-2023_0004",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0012",
+          "arequipa-es-2023_0013"
+        ]
+      },
+      {
+        "question": "¿En qué altura está la capital de Amazonas?",
+        "type": "directa",
+        "expected": "amazonas-es-2023_0001",
+        "got": [
+          "amazonas-es-2023_0000",
+          "loreto-es-2023_0001",
+          "amazonas-es-2023_0005"
+        ]
+      },
+      {
+        "question": "Quiero saber a qué altitud queda la ciudad principal de esa región del norte.",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0001",
+        "got": [
+          "lima_rutas_cortas-es-2020_0020",
+          "la_libertad-es-2023_0001",
+          "lima_rutas_cortas-es-2020_0021"
+        ]
+      },
+      {
+        "question": "altura de chachapoyas",
+        "type": "coloquial",
+        "expected": "amazonas-es-2023_0001",
+        "got": [
+          "amazonas-es-2023_0007",
+          "amazonas-es-2023_0013",
+          "amazonas-es-2023_0002"
+        ]
+      },
+      {
+        "question": "¿Cuánto tiempo toma llegar a Quiocta desde Chachapoyas en auto y caminando?",
+        "type": "directa",
+        "expected": "amazonas-es-2023_0009",
+        "got": [
+          "amazonas-es-2023_0002",
+          "amazonas-es-2023_0013",
+          "lambayeque-es-2023_0003"
+        ]
+      },
+      {
+        "question": "Busco una cueva con restos humanos y formaciones de piedra en el norte, ¿cuál será?",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0009",
+        "got": [
+          "ancash-es-2023_0022",
+          "lima_rutas_cortas-es-2020_0018",
+          "cajamarca-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Quiero organizar una visita larga con varios atractivos en ese orden, ¿cuánto mínimo debería quedarme?",
+        "type": "indirecta",
+        "expected": "amazonas-es-2023_0017",
+        "got": [
+          "ica-es-2025_0004",
+          "moquegua-es-2023_0005",
+          "lima_callao-es-2019_0006"
+        ]
+      },
+      {
+        "question": "estadía mínima recomendada",
+        "type": "entidad",
+        "expected": "amazonas-es-2023_0017",
+        "got": [
+          "cusco-es-2023_0005",
+          "san_martin-es-2023_0026",
+          "ancash-es-2023_0004"
+        ]
+      },
+      {
+        "question": "Busco la caminata más larga y exigente de esas opciones, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "ancash-es-2023_0009",
+        "got": [
+          "lima_rutas_cortas-es-2020_0040",
+          "lima_rutas_cortas-es-2020_0039",
+          "ucayali-es-2023_0015"
+        ]
+      },
+      {
+        "question": "trek largo en ancash",
+        "type": "coloquial",
+        "expected": "ancash-es-2023_0009",
+        "got": [
+          "ancash-es-2023_0021",
+          "moquegua-es-2023_0007",
+          "ancash-es-2023_0004"
+        ]
+      },
+      {
+        "question": "Busco una orilla tranquila y segura para pasar el día con chicos, ¿dónde sería?",
+        "type": "indirecta",
+        "expected": "ancash-es-2023_0024",
+        "got": [
+          "moquegua-es-2023_0013",
+          "tumbes-es-2023_0005",
+          "lambayeque-es-2023_0005"
+        ]
+      },
+      {
+        "question": "¿Qué destinos incluye la ruta mínima de tres días?",
+        "type": "directa",
+        "expected": "ancash-es-2023_0004",
+        "got": [
+          "lima_rutas_cortas-es-2020_0003",
+          "lima_rutas_cortas-es-2020_0026",
+          "loreto-es-2023_0006"
+        ]
+      },
+      {
+        "question": "Quiero ir a una fiesta de la sierra ancashina que cae a mitad de año, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "ancash-es-2023_0031",
+        "got": [
+          "apurimac-es-2023_0016",
+          "arequipa-es-2023_0007",
+          "amazonas-es-2023_0020"
+        ]
+      },
+      {
+        "question": "pomallucay cuantos km",
+        "type": "coloquial",
+        "expected": "ancash-es-2023_0018",
+        "got": [
+          "ancash-es-2023_0003",
+          "cusco-es-2023_0004",
+          "arequipa-es-2023_0003"
+        ]
+      },
+      {
+        "question": "Necesito llegar desde la ciudad imperial hasta la capital regional por carretera, ¿cuánto toma?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0002",
+        "got": [
+          "la_libertad-es-2023_0028",
+          "san_martin-es-2023_0003",
+          "piura-es-2023_0022"
+        ]
+      },
+      {
+        "question": "Cusco Abancay",
+        "type": "entidad",
+        "expected": "apurimac-es-2023_0002",
+        "got": [
+          "cusco-es-2023_0017",
+          "apurimac-es-2023_0004",
+          "cusco-es-2023_0027"
+        ]
+      },
+      {
+        "question": "Busco regalos hechos a mano con lana, barro y madera de esa región andina, ¿qué ofrecen?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0018",
+        "got": [
+          "ancash-es-2023_0029",
+          "junin-es-2025_0023",
+          "amazonas-es-2023_0018"
+        ]
+      },
+      {
+        "question": "¿En qué meses suele llover y cuándo conviene ir si quiero evitar aguaceros?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0001",
+        "got": [
+          "lima_rutas_cortas-es-2020_0007",
+          "tumbes-es-2023_0002",
+          "amazonas-es-2023_0007"
+        ]
+      },
+      {
+        "question": "Apurímac capital",
+        "type": "entidad",
+        "expected": "apurimac-es-2023_0001",
+        "got": [
+          "apurimac-es-2023_0019",
+          "apurimac-es-2023_0005",
+          "apurimac-es-2023_0003"
+        ]
+      },
+      {
+        "question": "Busco un destino andino con cañones profundos y mucha historia antigua, ¿cuál sería?",
+        "type": "indirecta",
+        "expected": "apurimac-es-2023_0000",
+        "got": [
+          "arequipa-es-2023_0022",
+          "cusco-es-2023_0027",
+          "ancash-es-2023_0015"
+        ]
+      },
+      {
+        "question": "a que hora abren la catedral de arequipa el domingo",
+        "type": "coloquial",
+        "expected": "arequipa-es-2023_0008",
+        "got": [
+          "arequipa-es-2023_0007",
+          "madre_de_dios-es-2023_0003",
+          "arequipa-es-2023_0009"
+        ]
+      },
+      {
+        "question": "Busco un sitio de peregrinación muy concurrido por devotos del sur, ¿cuál me recomiendan?",
+        "type": "indirecta",
+        "expected": "arequipa-es-2023_0018",
+        "got": [
+          "ica-es-2025_0008",
+          "madre_de_dios-es-2023_0005",
+          "lima_rutas_cortas-es-2020_0045"
+        ]
+      },
+      {
+        "question": "como llego a chapi desde arequipa",
+        "type": "coloquial",
+        "expected": "arequipa-es-2023_0018",
+        "got": [
+          "arequipa-es-2023_0001",
+          "arequipa-es-2023_0002",
+          "puno-es-2023_0002"
+        ]
+      },
+      {
+        "question": "Virgen de Chapi",
+        "type": "entidad",
+        "expected": "arequipa-es-2023_0018",
+        "got": [
+          "arequipa-es-2023_0007",
+          "cusco-es-2023_0034",
+          "ancash-es-2023_0031"
+        ]
+      },
+      {
+        "question": "Busco una región del sur con reconocimiento mundial por su arquitectura mestiza, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "arequipa-es-2023_0000",
+        "got": [
+          "ica-es-2025_0008",
+          "ayacucho-es-2023_0019",
+          "huanuco-es-2023_0015"
+        ]
+      },
+      {
+        "question": "¿Qué servicios ofrece el balneario de Jesús para relajarse?",
+        "type": "directa",
+        "expected": "arequipa-es-2023_0019",
+        "got": [
+          "tumbes-es-2023_0016",
+          "lambayeque-es-2023_0010",
+          "cajamarca-es-2023_0022"
+        ]
+      },
+      {
+        "question": "Quiero un lugar con aguas cálidas y tratamiento para descansar cerca de la ciudad, ¿dónde voy?",
+        "type": "indirecta",
+        "expected": "arequipa-es-2023_0019",
+        "got": [
+          "huancavelica-es-2023_0018",
+          "cajamarca-es-2023_0022",
+          "cajamarca-es-2023_0013"
+        ]
+      },
+      {
+        "question": "Balneario de Jesús",
+        "type": "entidad",
+        "expected": "arequipa-es-2023_0019",
+        "got": [
+          "tumbes-es-2023_0016",
+          "lambayeque-es-2023_0011",
+          "la_libertad-es-2023_0024"
+        ]
+      },
+      {
+        "question": "Quiero comprar piezas hechas a mano y ver cómo trabajan los maestros locales, ¿adónde voy?",
+        "type": "indirecta",
+        "expected": "ayacucho-es-2023_0019",
+        "got": [
+          "junin-es-2025_0023",
+          "cusco-es-2023_0036",
+          "piura-es-2023_0006"
+        ]
+      },
+      {
+        "question": "¿Cuánto tiempo se camina hasta las aguas turquesas de Millpu?",
+        "type": "directa",
+        "expected": "ayacucho-es-2023_0015",
+        "got": [
+          "ayacucho-es-2023_0005",
+          "lima_rutas_cortas-es-2020_0010",
+          "huanuco-es-2023_0002"
+        ]
+      },
+      {
+        "question": "como llego a millpu desde ayacucho",
+        "type": "coloquial",
+        "expected": "ayacucho-es-2023_0015",
+        "got": [
+          "ayacucho-es-2023_0004",
+          "ayacucho-es-2023_0003",
+          "ayacucho-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Millpu aguas turquesas",
+        "type": "entidad",
+        "expected": "ayacucho-es-2023_0015",
+        "got": [
+          "huanuco-es-2023_0023",
+          "lima_rutas_cortas-es-2020_0024",
+          "ayacucho-es-2023_0002"
+        ]
+      },
+      {
+        "question": "¿Cuántos kilómetros hay desde Ayacucho hasta Pampa Galeras?",
+        "type": "directa",
+        "expected": "ayacucho-es-2023_0016",
+        "got": [
+          "ayacucho-es-2023_0004",
+          "ayacucho-es-2023_0001",
+          "ayacucho-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Quiero saber qué tan arriba del mar está la ciudad principal de esa región andina.",
+        "type": "indirecta",
+        "expected": "cajamarca-es-2023_0001",
+        "got": [
+          "cusco-es-2023_0016",
+          "huanuco-es-2023_0022",
+          "san_martin-es-2023_0001"
+        ]
+      },
+      {
+        "question": "a que altura esta cajamarca",
+        "type": "coloquial",
+        "expected": "cajamarca-es-2023_0001",
+        "got": [
+          "cajamarca-es-2023_0014",
+          "cajamarca-es-2023_0002",
+          "cajamarca-es-2023_0016"
+        ]
+      },
+      {
+        "question": "¿Dónde queda la casa museo que guarda piezas antiguas de Cajamarca?",
+        "type": "directa",
+        "expected": "cajamarca-es-2023_0012",
+        "got": [
+          "arequipa-es-2023_0012",
+          "cusco-es-2023_0008",
+          "arequipa-es-2023_0013"
+        ]
+      },
+      {
+        "question": "casa museo de piezas antiguas cajamarca",
+        "type": "coloquial",
+        "expected": "cajamarca-es-2023_0012",
+        "got": [
+          "arequipa-es-2023_0012",
+          "cusco-es-2023_0008",
+          "ayacucho-es-2023_0010"
+        ]
+      },
+      {
+        "question": "¿Cuál es el horario de Saqsaywaman y qué tipo de boleto piden?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0012",
+        "got": [
+          "cajamarca-es-2023_0010",
+          "arequipa-es-2023_0012",
+          "piura-es-2023_0018"
+        ]
+      },
+      {
+        "question": "Quiero visitar una construcción inca usada para ceremonias y ligada al Inti Raymi, ¿cómo se ingresa?",
+        "type": "indirecta",
+        "expected": "cusco-es-2023_0012",
+        "got": [
+          "cajamarca-es-2023_0010",
+          "huanuco-es-2023_0020",
+          "ayacucho-es-2023_0017"
+        ]
+      },
+      {
+        "question": "a que hora abre saqsaywaman",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0012",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "piura-es-2023_0018",
+          "lima_rutas_cortas-es-2020_0008"
+        ]
+      },
+      {
+        "question": "¿A qué hora se puede visitar Moray con boleto turístico?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0016",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "cajamarca-es-2023_0005",
+          "cusco-es-2023_0012"
+        ]
+      },
+      {
+        "question": "moray horario y entrada",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0016",
+        "got": [
+          "ica-es-2025_0008",
+          "ica-es-2025_0009",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Moray boleto turístico",
+        "type": "entidad",
+        "expected": "cusco-es-2023_0016",
+        "got": [
+          "cajamarca-es-2023_0011",
+          "cajamarca-es-2023_0010",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "¿Qué actividad se puede hacer en la laguna Qoricocha además de caminar?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0024",
+        "got": [
+          "ancash-es-2023_0004",
+          "huancavelica-es-2023_0016",
+          "cajamarca-es-2023_0017"
+        ]
+      },
+      {
+        "question": "Quiero ir a una laguna andina donde se pueda remar y pescar, ¿cuál me recomiendan?",
+        "type": "indirecta",
+        "expected": "cusco-es-2023_0024",
+        "got": [
+          "huancavelica-es-2023_0016",
+          "ancash-es-2023_0012",
+          "ancash-es-2023_0004"
+        ]
+      },
+      {
+        "question": "laguna qoricocha para remar",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0024",
+        "got": [
+          "ancash-es-2023_0012",
+          "ancash-es-2023_0008",
+          "huancavelica-es-2023_0016"
+        ]
+      },
+      {
+        "question": "¿En qué horario atiende la Catedral del Cusco?",
+        "type": "directa",
+        "expected": "cusco-es-2023_0006",
+        "got": [
+          "cusco-es-2023_0034",
+          "arequipa-es-2023_0012",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "catedral del cuzco horario",
+        "type": "coloquial",
+        "expected": "cusco-es-2023_0006",
+        "got": [
+          "cusco-es-2023_0034",
+          "arequipa-es-2023_0012",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "Busco saber el tiempo mínimo para conocer bien esa ciudad y sus alrededores, ¿cuál sugieren?",
+        "type": "indirecta",
+        "expected": "cusco-es-2023_0005",
+        "got": [
+          "lima_rutas_cortas-es-2020_0003",
+          "arequipa-es-2023_0017",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "estadia minima cusco",
+        "type": "entidad",
+        "expected": "cusco-es-2023_0005",
+        "got": [
+          "cusco-es-2023_0000",
+          "cusco-es-2023_0016",
+          "cusco-es-2023_0020"
+        ]
+      },
+      {
+        "question": "¿Qué cultivos andinos son la base de la comida serrana?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "gastronomia-es-2020_0045",
+          "gastronomia-es-2020_0002",
+          "gastronomia-es-2020_0033"
+        ]
+      },
+      {
+        "question": "Quiero saber cuáles son los productos que sostienen la cocina de la sierra peruana.",
+        "type": "indirecta",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "gastronomia-es-2020_0002",
+          "gastronomia-es-2020_0045",
+          "gastronomia-es-2020_0029"
+        ]
+      },
+      {
+        "question": "que alimentos son base de la sierra",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "loreto-es-2023_0022",
+          "pasco-es-2023_0021",
+          "huanuco-es-2023_0006"
+        ]
+      },
+      {
+        "question": "base de la gastronomía",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0027",
+        "got": [
+          "gastronomia-es-2020_0003",
+          "la_libertad-es-2023_0006",
+          "gastronomia-es-2020_0046"
+        ]
+      },
+      {
+        "question": "¿Qué regiones incluye la costa norte del Perú?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "piura-es-2023_0001",
+          "lima_rutas_cortas-es-2020_0018"
+        ]
+      },
+      {
+        "question": "Busco saber qué departamentos forman la franja norte del litoral peruano.",
+        "type": "indirecta",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "lima_rutas_cortas-es-2020_0028",
+          "lima_rutas_cortas-es-2020_0027"
+        ]
+      },
+      {
+        "question": "que regiones son costa norte",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "lima_rutas_cortas-es-2020_0027",
+          "lambayeque-es-2023_0000"
+        ]
+      },
+      {
+        "question": "Costa Norte Perú",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0007",
+        "got": [
+          "lima_rutas_cortas-es-2020_0021",
+          "lima_rutas_cortas-es-2020_0027",
+          "piura-es-2023_0001"
+        ]
+      },
+      {
+        "question": "¿Qué ingrediente destaca en la cocina de Tacna?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0025",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0010",
+          "tacna-es-2023_0014"
+        ]
+      },
+      {
+        "question": "que usan mucho en la comida tacna",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0025",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0014",
+          "tacna-es-2023_0010"
+        ]
+      },
+      {
+        "question": "ají panca Tacna",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0025",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0012",
+          "tacna-es-2023_0007"
+        ]
+      },
+      {
+        "question": "¿Qué platos típicos preparan en Chazuta con pescado y yuca?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0044",
+        "got": [
+          "ucayali-es-2023_0019",
+          "piura-es-2023_0007",
+          "ayacucho-es-2023_0020"
+        ]
+      },
+      {
+        "question": "Busco una experiencia amazónica con recetas heredadas por mujeres mayores, ¿dónde la encuentro?",
+        "type": "indirecta",
+        "expected": "gastronomia-es-2020_0044",
+        "got": [
+          "gastronomia-es-2020_0041",
+          "loreto-es-2023_0016",
+          "madre_de_dios-es-2023_0006"
+        ]
+      },
+      {
+        "question": "que juane famoso hay en tarapoto",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0044",
+        "got": [
+          "san_martin-es-2023_0017",
+          "san_martin-es-2023_0018",
+          "san_martin-es-2023_0015"
+        ]
+      },
+      {
+        "question": "donde ver aves en tambopata",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0042",
+        "got": [
+          "madre_de_dios-es-2023_0013",
+          "madre_de_dios-es-2023_0014",
+          "madre_de_dios-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Tambopata collpas",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0042",
+        "got": [
+          "madre_de_dios-es-2023_0013",
+          "madre_de_dios-es-2023_0014",
+          "madre_de_dios-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Por dónde conviene recorrer el centro limeño a pie?",
+        "type": "directa",
+        "expected": "gastronomia-es-2020_0018",
+        "got": [
+          "lima_rutas_cortas-es-2020_0008",
+          "lima_callao-es-2019_0026",
+          "puno-es-2023_0005"
+        ]
+      },
+      {
+        "question": "que zona antigua de lima se recorre caminando",
+        "type": "coloquial",
+        "expected": "gastronomia-es-2020_0018",
+        "got": [
+          "lima_rutas_cortas-es-2020_0008",
+          "lima_callao-es-2019_0021",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Lima centro histórico",
+        "type": "entidad",
+        "expected": "gastronomia-es-2020_0018",
+        "got": [
+          "lima_callao-es-2019_0010",
+          "lima_callao-es-2019_0014",
+          "lima_callao-es-2019_0000"
+        ]
+      },
+      {
+        "question": "Necesito saber el tiempo por carretera desde la ciudad del Valle del Mantaro, ¿cuánto es?",
+        "type": "indirecta",
+        "expected": "huancavelica-es-2023_0001",
+        "got": [
+          "piura-es-2023_0022",
+          "san_martin-es-2023_0027",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Huancavelica Huancayo",
+        "type": "entidad",
+        "expected": "huancavelica-es-2023_0001",
+        "got": [
+          "huancavelica-es-2023_0012",
+          "huancavelica-es-2023_0019",
+          "huancavelica-es-2023_0000"
+        ]
+      },
+      {
+        "question": "Busco una ruta corta que combine un pueblo serrano y una mina antigua, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "huancavelica-es-2023_0004",
+        "got": [
+          "huancavelica-es-2023_0012",
+          "cusco-es-2023_0032",
+          "ancash-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Sacsamarca Santa Bárbara",
+        "type": "entidad",
+        "expected": "huancavelica-es-2023_0004",
+        "got": [
+          "lima_rutas_cortas-es-2020_0033",
+          "cajamarca-es-2023_0018",
+          "junin-es-2025_0019"
+        ]
+      },
+      {
+        "question": "Quiero un sitio con figuras de piedra que reflejen la vida cotidiana de un pueblo andino, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "huancavelica-es-2023_0013",
+        "got": [
+          "ayacucho-es-2023_0019",
+          "huancavelica-es-2023_0015",
+          "ancash-es-2023_0016"
+        ]
+      },
+      {
+        "question": "telefono de iperu",
+        "type": "coloquial",
+        "expected": "huancavelica-es-2023_0020",
+        "got": [
+          "cajamarca-es-2023_0027",
+          "arequipa-es-2023_0029",
+          "lima_callao-es-2019_0057"
+        ]
+      },
+      {
+        "question": "iPERÚ teléfono",
+        "type": "entidad",
+        "expected": "huancavelica-es-2023_0020",
+        "got": [
+          "cajamarca-es-2023_0027",
+          "lima_callao-es-2019_0057",
+          "ica-es-2025_0025"
+        ]
+      },
+      {
+        "question": "Busco un conjunto de construcciones previas a los incas con varias alturas, ¿dónde queda?",
+        "type": "indirecta",
+        "expected": "huanuco-es-2023_0021",
+        "got": [
+          "apurimac-es-2023_0008",
+          "ucayali-es-2023_0010",
+          "cusco-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Cuándo se puede entrar a Huánuco Pampa?",
+        "type": "directa",
+        "expected": "huanuco-es-2023_0020",
+        "got": [
+          "huanuco-es-2023_0012",
+          "huanuco-es-2023_0016",
+          "huanuco-es-2023_0013"
+        ]
+      },
+      {
+        "question": "huanuco pampa ingreso boleto",
+        "type": "coloquial",
+        "expected": "huanuco-es-2023_0020",
+        "got": [
+          "huanuco-es-2023_0012",
+          "huanuco-es-2023_0016",
+          "huanuco-es-2023_0023"
+        ]
+      },
+      {
+        "question": "¿Qué ofrece Pichgacocha para pasar el día?",
+        "type": "directa",
+        "expected": "huanuco-es-2023_0012",
+        "got": [
+          "ayacucho-es-2023_0005",
+          "apurimac-es-2023_0014",
+          "huancavelica-es-2023_0011"
+        ]
+      },
+      {
+        "question": "Busco varias lagunas altas unidas por quebradas para navegar y pescar, ¿cuáles son?",
+        "type": "indirecta",
+        "expected": "huanuco-es-2023_0012",
+        "got": [
+          "piura-es-2023_0013",
+          "huancavelica-es-2023_0016",
+          "ancash-es-2023_0008"
+        ]
+      },
+      {
+        "question": "lagunas pichgacocha",
+        "type": "coloquial",
+        "expected": "huanuco-es-2023_0012",
+        "got": [
+          "ancash-es-2023_0012",
+          "huancavelica-es-2023_0016",
+          "piura-es-2023_0013"
+        ]
+      },
+      {
+        "question": "¿Qué actividades se pueden hacer en Montepotrero?",
+        "type": "directa",
+        "expected": "huanuco-es-2023_0019",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "la_libertad-es-2023_0005",
+          "cajamarca-es-2023_0017"
+        ]
+      },
+      {
+        "question": "Ica a Nasca",
+        "type": "entidad",
+        "expected": "ica-es-2025_0003",
+        "got": [
+          "ica-es-2025_0018",
+          "ica-es-2025_0017",
+          "ica-es-2025_0002"
+        ]
+      },
+      {
+        "question": "¿Cuántas horas toma viajar de Lima a Nasca por tierra?",
+        "type": "directa",
+        "expected": "ica-es-2025_0002",
+        "got": [
+          "tumbes-es-2023_0003",
+          "ayacucho-es-2023_0004",
+          "la_libertad-es-2023_0003"
+        ]
+      },
+      {
+        "question": "¿Qué destino de esa región queda más lejos saliendo desde Lima?",
+        "type": "indirecta",
+        "expected": "ica-es-2025_0002",
+        "got": [
+          "tumbes-es-2023_0003",
+          "gastronomia-es-2020_0004",
+          "lima_rutas_cortas-es-2020_0052"
+        ]
+      },
+      {
+        "question": "Busco una visita a una viña cercana con entrada paga, ¿cuál me conviene?",
+        "type": "indirecta",
+        "expected": "ica-es-2025_0008",
+        "got": [
+          "ica-es-2025_0007",
+          "ica-es-2025_0004",
+          "cajamarca-es-2023_0017"
+        ]
+      },
+      {
+        "question": "¿A qué distancia está Huayurí de Palpa?",
+        "type": "directa",
+        "expected": "ica-es-2025_0010",
+        "got": [
+          "ancash-es-2023_0003",
+          "apurimac-es-2023_0013",
+          "huancavelica-es-2023_0003"
+        ]
+      },
+      {
+        "question": "horario de huayuri palpa",
+        "type": "coloquial",
+        "expected": "ica-es-2025_0010",
+        "got": [
+          "ica-es-2025_0008",
+          "ucayali-es-2023_0009",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Cuánto se demora ir de Lima a Tarma en auto?",
+        "type": "directa",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "san_martin-es-2023_0003",
+          "junin-es-2025_0019"
+        ]
+      },
+      {
+        "question": "¿Qué ciudad de la sierra central queda a unas seis horas desde la capital?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "pasco-es-2023_0003",
+          "la_libertad-es-2023_0003",
+          "cajamarca-es-2023_0002"
+        ]
+      },
+      {
+        "question": "cuanto se tarda ir a jauja desde lima",
+        "type": "coloquial",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "tumbes-es-2023_0003",
+          "junin-es-2025_0013",
+          "junin-es-2025_0003"
+        ]
+      },
+      {
+        "question": "Lima a Jauja",
+        "type": "entidad",
+        "expected": "junin-es-2025_0002",
+        "got": [
+          "junin-es-2025_0013",
+          "tumbes-es-2023_0003",
+          "junin-es-2025_0003"
+        ]
+      },
+      {
+        "question": "Busco un monasterio con biblioteca grande y museo natural, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0010",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0011",
+          "lambayeque-es-2023_0005"
+        ]
+      },
+      {
+        "question": "¿Cuánto hay de Huancayo a La Oroya por carretera?",
+        "type": "directa",
+        "expected": "junin-es-2025_0005",
+        "got": [
+          "junin-es-2025_0004",
+          "lima_rutas_cortas-es-2020_0047",
+          "huancavelica-es-2023_0001"
+        ]
+      },
+      {
+        "question": "¿Qué destino interprovincial desde Huancayo queda a unas dos horas?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0005",
+        "got": [
+          "ayacucho-es-2023_0004",
+          "huancavelica-es-2023_0001",
+          "junin-es-2025_0004"
+        ]
+      },
+      {
+        "question": "Huancayo La Oroya",
+        "type": "entidad",
+        "expected": "junin-es-2025_0005",
+        "got": [
+          "junin-es-2025_0007",
+          "huancavelica-es-2023_0014",
+          "junin-es-2025_0009"
+        ]
+      },
+      {
+        "question": "¿Cuánto demora llegar a pie a la catarata El Tirol?",
+        "type": "directa",
+        "expected": "junin-es-2025_0016",
+        "got": [
+          "amazonas-es-2023_0013",
+          "tacna-es-2023_0002",
+          "junin-es-2025_0022"
+        ]
+      },
+      {
+        "question": "Busco una caída de agua con sendero y orquídeas, ¿cuál recomiendan?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0016",
+        "got": [
+          "ucayali-es-2023_0011",
+          "ucayali-es-2023_0016",
+          "ucayali-es-2023_0010"
+        ]
+      },
+      {
+        "question": "como llegar a el tirol san ramon",
+        "type": "coloquial",
+        "expected": "junin-es-2025_0016",
+        "got": [
+          "san_martin-es-2023_0024",
+          "cajamarca-es-2023_0004",
+          "san_martin-es-2023_0002"
+        ]
+      },
+      {
+        "question": "¿A qué hora abre Tarmatambo los domingos?",
+        "type": "directa",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "madre_de_dios-es-2023_0013",
+          "cajamarca-es-2023_0017",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Busco un sitio inca atravesado por el camino antiguo y con andenes, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "ayacucho-es-2023_0017",
+          "tumbes-es-2023_0008",
+          "cusco-es-2023_0018"
+        ]
+      },
+      {
+        "question": "horario de tarmatambo",
+        "type": "coloquial",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "ica-es-2025_0008",
+          "madre_de_dios-es-2023_0012",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Tarmatambo horario",
+        "type": "entidad",
+        "expected": "junin-es-2025_0019",
+        "got": [
+          "ica-es-2025_0008",
+          "madre_de_dios-es-2023_0012",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "playa tranquila cerca de trujillo para acampar",
+        "type": "coloquial",
+        "expected": "la_libertad-es-2023_0021",
+        "got": [
+          "moquegua-es-2023_0013",
+          "tumbes-es-2023_0010",
+          "piura-es-2023_0026"
+        ]
+      },
+      {
+        "question": "¿A qué distancia está Cascas desde Trujillo?",
+        "type": "directa",
+        "expected": "la_libertad-es-2023_0027",
+        "got": [
+          "la_libertad-es-2023_0003",
+          "la_libertad-es-2023_0004",
+          "cajamarca-es-2023_0002"
+        ]
+      },
+      {
+        "question": "Busco un plan de dos jornadas con sitios andinos, laguna y aguas calientes, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "la_libertad-es-2023_0005",
+        "got": [
+          "ancash-es-2023_0004",
+          "lima_rutas_cortas-es-2020_0024",
+          "tacna-es-2023_0013"
+        ]
+      },
+      {
+        "question": "¿A qué hora abre Marcahuamachuco todos los días?",
+        "type": "directa",
+        "expected": "la_libertad-es-2023_0028",
+        "got": [
+          "lima_rutas_cortas-es-2020_0010",
+          "lima_callao-es-2019_0047",
+          "lima_rutas_cortas-es-2020_0008"
+        ]
+      },
+      {
+        "question": "marcahuamachuco horario hoy",
+        "type": "coloquial",
+        "expected": "la_libertad-es-2023_0028",
+        "got": [
+          "huancavelica-es-2023_0009",
+          "huancavelica-es-2023_0010",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "Marcahuamachuco horario",
+        "type": "entidad",
+        "expected": "la_libertad-es-2023_0028",
+        "got": [
+          "huancavelica-es-2023_0009",
+          "huancavelica-es-2023_0010",
+          "ica-es-2025_0008"
+        ]
+      },
+      {
+        "question": "Busco la casa natal de un poeta peruano muy famoso convertida en museo, ¿dónde queda?",
+        "type": "indirecta",
+        "expected": "la_libertad-es-2023_0025",
+        "got": [
+          "lima_callao-es-2019_0015",
+          "lima_callao-es-2019_0013",
+          "lima_callao-es-2019_0012"
+        ]
+      },
+      {
+        "question": "casa museo césar vallejo horario",
+        "type": "coloquial",
+        "expected": "la_libertad-es-2023_0025",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0012",
+          "arequipa-es-2023_0013"
+        ]
+      },
+      {
+        "question": "Quiero saber qué fiesta religiosa importante cae en agosto, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lambayeque-es-2023_0008",
+        "got": [
+          "piura-es-2023_0008",
+          "moquegua-es-2023_0018",
+          "amazonas-es-2023_0020"
+        ]
+      },
+      {
+        "question": "Busco un templo neocolonial con horarios partidos para misa y visita, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lambayeque-es-2023_0010",
+        "got": [
+          "huancavelica-es-2023_0009",
+          "ayacucho-es-2023_0007",
+          "la_libertad-es-2023_0011"
+        ]
+      },
+      {
+        "question": "Chiclayo desde Piura",
+        "type": "entidad",
+        "expected": "lambayeque-es-2023_0003",
+        "got": [
+          "la_libertad-es-2023_0003",
+          "piura-es-2023_0002",
+          "cajamarca-es-2023_0002"
+        ]
+      },
+      {
+        "question": "Busco un lugar famoso por tejidos y bordados artesanales, ¿dónde sería?",
+        "type": "indirecta",
+        "expected": "lambayeque-es-2023_0007",
+        "got": [
+          "junin-es-2025_0023",
+          "piura-es-2023_0006",
+          "huancavelica-es-2023_0005"
+        ]
+      },
+      {
+        "question": "¿Cuál es el horario del museo de sitio Arturo Jiménez Borja en Ate?",
+        "type": "directa",
+        "expected": "lima_callao-es-2019_0049",
+        "got": [
+          "arequipa-es-2023_0012",
+          "la_libertad-es-2023_0013",
+          "arequipa-es-2023_0013"
+        ]
+      },
+      {
+        "question": "puruchuco horario entrada",
+        "type": "coloquial",
+        "expected": "lima_callao-es-2019_0049",
+        "got": [
+          "ica-es-2025_0008",
+          "huanuco-es-2023_0018",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "como ir a huancaya desde lima",
+        "type": "coloquial",
+        "expected": "lima_rutas_cortas-es-2020_0046",
+        "got": [
+          "apurimac-es-2023_0002",
+          "lima_rutas_cortas-es-2020_0010",
+          "huancavelica-es-2023_0002"
+        ]
+      },
+      {
+        "question": "Busco una meseta alta con rocas raras y frío fuerte para pasar la noche, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lima_rutas_cortas-es-2020_0037",
+        "got": [
+          "amazonas-es-2023_0013",
+          "lima_rutas_cortas-es-2020_0007",
+          "piura-es-2023_0025"
+        ]
+      },
+      {
+        "question": "¿Qué actividades incluye la estadía en Eco Truly Park?",
+        "type": "directa",
+        "expected": "lima_rutas_cortas-es-2020_0015",
+        "got": [
+          "loreto-es-2023_0006",
+          "madre_de_dios-es-2023_0005",
+          "cajamarca-es-2023_0020"
+        ]
+      },
+      {
+        "question": "¿Qué tamaño tiene la estatua del Cristo Redentor de Chorrillos?",
+        "type": "directa",
+        "expected": "lima_rutas_cortas-es-2020_0021",
+        "got": [
+          "lima_callao-es-2019_0023",
+          "la_libertad-es-2023_0022",
+          "lima_callao-es-2019_0044"
+        ]
+      },
+      {
+        "question": "Quiero un lugar costero con ruinas antiquísimas y un mirador sobre el mar, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "lima_rutas_cortas-es-2020_0021",
+        "got": [
+          "moquegua-es-2023_0012",
+          "lima_callao-es-2019_0044",
+          "lima_rutas_cortas-es-2020_0028"
+        ]
+      },
+      {
+        "question": "caral que hay",
+        "type": "coloquial",
+        "expected": "lima_rutas_cortas-es-2020_0021",
+        "got": [
+          "lima_rutas_cortas-es-2020_0020",
+          "ucayali-es-2023_0017",
+          "lima_rutas_cortas-es-2020_0056"
+        ]
+      },
+      {
+        "question": "Ciudad Sagrada de Caral",
+        "type": "entidad",
+        "expected": "lima_rutas_cortas-es-2020_0021",
+        "got": [
+          "lima_rutas_cortas-es-2020_0056",
+          "lima_callao-es-2019_0046",
+          "piura-es-2023_0022"
+        ]
+      },
+      {
+        "question": "cuando llueve mas en loreto",
+        "type": "coloquial",
+        "expected": "loreto-es-2023_0001",
+        "got": [
+          "loreto-es-2023_0023",
+          "loreto-es-2023_0018",
+          "loreto-es-2023_0010"
+        ]
+      },
+      {
+        "question": "¿Cuál es el horario del Museo Iquitos los sábados?",
+        "type": "directa",
+        "expected": "loreto-es-2023_0012",
+        "got": [
+          "loreto-es-2023_0011",
+          "arequipa-es-2023_0012",
+          "la_libertad-es-2023_0013"
+        ]
+      },
+      {
+        "question": "museo iquitos horario",
+        "type": "coloquial",
+        "expected": "loreto-es-2023_0012",
+        "got": [
+          "loreto-es-2023_0011",
+          "loreto-es-2023_0014",
+          "loreto-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Bora de San Andrés",
+        "type": "entidad",
+        "expected": "loreto-es-2023_0015",
+        "got": [
+          "arequipa-es-2023_0009",
+          "loreto-es-2023_0006",
+          "cajamarca-es-2023_0004"
+        ]
+      },
+      {
+        "question": "pilpintuwasi horario",
+        "type": "coloquial",
+        "expected": "loreto-es-2023_0017",
+        "got": [
+          "ica-es-2025_0008",
+          "ayacucho-es-2023_0022",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Quiero un muelle para tomar embarcaciones y ver dónde se juntan dos ríos, ¿cuál me sirve?",
+        "type": "indirecta",
+        "expected": "loreto-es-2023_0013",
+        "got": [
+          "moquegua-es-2023_0012",
+          "tumbes-es-2023_0010",
+          "ucayali-es-2023_0014"
+        ]
+      },
+      {
+        "question": "Quiero comprar prendas y adornos hechos con recursos de la selva, ¿qué tipo de artesanía ofrecen?",
+        "type": "indirecta",
+        "expected": "madre_de_dios-es-2023_0007",
+        "got": [
+          "tumbes-es-2023_0017",
+          "moquegua-es-2023_0016",
+          "junin-es-2025_0023"
+        ]
+      },
+      {
+        "question": "Busco un sitio alto para ver el encuentro de dos ríos y la ciudad, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "madre_de_dios-es-2023_0011",
+        "got": [
+          "tumbes-es-2023_0006",
+          "la_libertad-es-2023_0028",
+          "amazonas-es-2023_0006"
+        ]
+      },
+      {
+        "question": "Necesito el contacto para pedir permisos de una comunidad nativa en Madre de Dios, ¿me lo dan?",
+        "type": "indirecta",
+        "expected": "madre_de_dios-es-2023_0020",
+        "got": [
+          "madre_de_dios-es-2023_0011",
+          "madre_de_dios-es-2023_0010",
+          "madre_de_dios-es-2023_0018"
+        ]
+      },
+      {
+        "question": "Kotsimba reservas",
+        "type": "entidad",
+        "expected": "madre_de_dios-es-2023_0020",
+        "got": [
+          "madre_de_dios-es-2023_0011",
+          "tumbes-es-2023_0015",
+          "madre_de_dios-es-2023_0005"
+        ]
+      },
+      {
+        "question": "Quiero comprar recuerdos hechos con técnicas locales y materiales del mar, ¿qué ofrecen?",
+        "type": "indirecta",
+        "expected": "moquegua-es-2023_0016",
+        "got": [
+          "piura-es-2023_0006",
+          "ancash-es-2023_0020",
+          "tumbes-es-2023_0017"
+        ]
+      },
+      {
+        "question": "Busco un museo con piezas de culturas preincaicas e incaicas en el centro de la ciudad, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "moquegua-es-2023_0006",
+        "got": [
+          "cusco-es-2023_0008",
+          "lima_callao-es-2019_0010",
+          "lima_callao-es-2019_0023"
+        ]
+      },
+      {
+        "question": "Museo Contisuyo",
+        "type": "entidad",
+        "expected": "moquegua-es-2023_0006",
+        "got": [
+          "arequipa-es-2023_0012",
+          "cusco-es-2023_0008",
+          "arequipa-es-2023_0013"
+        ]
+      },
+      {
+        "question": "Voy a comer platos de mar y de sierra en Moquegua, ¿qué opciones típicas hay?",
+        "type": "indirecta",
+        "expected": "moquegua-es-2023_0017",
+        "got": [
+          "gastronomia-es-2020_0024",
+          "moquegua-es-2023_0006",
+          "la_libertad-es-2023_0006"
+        ]
+      },
+      {
+        "question": "Tacna Moquegua",
+        "type": "entidad",
+        "expected": "moquegua-es-2023_0002",
+        "got": [
+          "moquegua-es-2023_0006",
+          "tacna-es-2023_0007",
+          "moquegua-es-2023_0010"
+        ]
+      },
+      {
+        "question": "Ruta del Pisco",
+        "type": "entidad",
+        "expected": "moquegua-es-2023_0005",
+        "got": [
+          "ica-es-2025_0004",
+          "gastronomia-es-2020_0021",
+          "ica-es-2025_0013"
+        ]
+      },
+      {
+        "question": "Busco un salto de agua cerca de una ciudad con herencia europea y cafetales, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "pasco-es-2023_0008",
+        "got": [
+          "cajamarca-es-2023_0020",
+          "ucayali-es-2023_0011",
+          "moquegua-es-2023_0013"
+        ]
+      },
+      {
+        "question": "Catarata del Río Tigre",
+        "type": "entidad",
+        "expected": "pasco-es-2023_0008",
+        "got": [
+          "amazonas-es-2023_0013",
+          "junin-es-2025_0015",
+          "madre_de_dios-es-2023_0014"
+        ]
+      },
+      {
+        "question": "¿Desde Máncora cuánto se tarda en llegar a El Ñuro en auto?",
+        "type": "directa",
+        "expected": "piura-es-2023_0026",
+        "got": [
+          "piura-es-2023_0025",
+          "ayacucho-es-2023_0004",
+          "moquegua-es-2023_0013"
+        ]
+      },
+      {
+        "question": "¿Cuándo debería ir si quiero coincidir con una salida para ver ballenas?",
+        "type": "indirecta",
+        "expected": "piura-es-2023_0008",
+        "got": [
+          "piura-es-2023_0032",
+          "lima_rutas_cortas-es-2020_0007",
+          "piura-es-2023_0031"
+        ]
+      },
+      {
+        "question": "Busco una ruta corta que mezcle mar y paseo por un bosque seco.",
+        "type": "indirecta",
+        "expected": "piura-es-2023_0005",
+        "got": [
+          "lima_rutas_cortas-es-2020_0044",
+          "lima_rutas_cortas-es-2020_0055",
+          "gastronomia-es-2020_0010"
+        ]
+      },
+      {
+        "question": "¿Cuánto demora llegar a la fortaleza desde Catacaos en auto?",
+        "type": "directa",
+        "expected": "piura-es-2023_0017",
+        "got": [
+          "moquegua-es-2023_0013",
+          "pasco-es-2023_0003",
+          "junin-es-2025_0015"
+        ]
+      },
+      {
+        "question": "Quiero conocer un sitio prehispánico con museo propio y cerca de Catacaos.",
+        "type": "indirecta",
+        "expected": "piura-es-2023_0017",
+        "got": [
+          "cusco-es-2023_0008",
+          "ayacucho-es-2023_0012",
+          "cusco-es-2023_0023"
+        ]
+      },
+      {
+        "question": "Narihualá museo",
+        "type": "entidad",
+        "expected": "piura-es-2023_0017",
+        "got": [
+          "la_libertad-es-2023_0013",
+          "lambayeque-es-2023_0005",
+          "cajamarca-es-2023_0010"
+        ]
+      },
+      {
+        "question": "Laguna Ñapique",
+        "type": "entidad",
+        "expected": "piura-es-2023_0016",
+        "got": [
+          "ancash-es-2023_0012",
+          "ancash-es-2023_0008",
+          "huanuco-es-2023_0016"
+        ]
+      },
+      {
+        "question": "Busco una región andina pegada a Bolivia y con un lago muy alto.",
+        "type": "indirecta",
+        "expected": "puno-es-2023_0001",
+        "got": [
+          "puno-es-2023_0000",
+          "puno-es-2023_0010",
+          "ayacucho-es-2023_0016"
+        ]
+      },
+      {
+        "question": "¿En qué calle queda el Museo Municipal Carlos Dreyer?",
+        "type": "directa",
+        "expected": "puno-es-2023_0006",
+        "got": [
+          "lima_callao-es-2019_0010",
+          "arequipa-es-2023_0013",
+          "lima_callao-es-2019_0015"
+        ]
+      },
+      {
+        "question": "museo dreyer en puno",
+        "type": "coloquial",
+        "expected": "puno-es-2023_0006",
+        "got": [
+          "puno-es-2023_0008",
+          "puno-es-2023_0014",
+          "lima_callao-es-2019_0015"
+        ]
+      },
+      {
+        "question": "¿A cuántas cuadras está Huajsapata de la Plaza de Armas?",
+        "type": "directa",
+        "expected": "puno-es-2023_0007",
+        "got": [
+          "huancavelica-es-2023_0008",
+          "apurimac-es-2023_0014",
+          "ucayali-es-2023_0005"
+        ]
+      },
+      {
+        "question": "Busco termas curativas y un lugar donde se observen camélidos andinos.",
+        "type": "indirecta",
+        "expected": "puno-es-2023_0015",
+        "got": [
+          "tacna-es-2023_0013",
+          "cusco-es-2023_0027",
+          "arequipa-es-2023_0022"
+        ]
+      },
+      {
+        "question": "Putina termales",
+        "type": "entidad",
+        "expected": "puno-es-2023_0015",
+        "got": [
+          "lima_rutas_cortas-es-2020_0024",
+          "lima_rutas_cortas-es-2020_0025",
+          "cajamarca-es-2023_0022"
+        ]
+      },
+      {
+        "question": "¿Qué lugares forman el recorrido de un día desde Tarapoto?",
+        "type": "directa",
+        "expected": "san_martin-es-2023_0025",
+        "got": [
+          "tacna-es-2023_0005",
+          "ayacucho-es-2023_0005",
+          "puno-es-2023_0005"
+        ]
+      },
+      {
+        "question": "¿Qué opciones hay para una salida breve de un solo día por esa región?",
+        "type": "indirecta",
+        "expected": "san_martin-es-2023_0025",
+        "got": [
+          "tumbes-es-2023_0005",
+          "tacna-es-2023_0005",
+          "la_libertad-es-2023_0005"
+        ]
+      },
+      {
+        "question": "que ver en un dia por tarapoto",
+        "type": "coloquial",
+        "expected": "san_martin-es-2023_0025",
+        "got": [
+          "tacna-es-2023_0005",
+          "san_martin-es-2023_0017",
+          "san_martin-es-2023_0015"
+        ]
+      },
+      {
+        "question": "¿A qué hora cierran la catarata de Ahuashiyacu?",
+        "type": "directa",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "amazonas-es-2023_0013",
+          "junin-es-2025_0022",
+          "lima_rutas_cortas-es-2020_0010"
+        ]
+      },
+      {
+        "question": "Quiero una caminata corta hasta una caída de agua entre vegetación espesa, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "lima_rutas_cortas-es-2020_0040",
+          "ucayali-es-2023_0016",
+          "ucayali-es-2023_0010"
+        ]
+      },
+      {
+        "question": "como llego a ahuashiyacu",
+        "type": "coloquial",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "lima_rutas_cortas-es-2020_0042",
+          "ucayali-es-2023_0003",
+          "lima_rutas_cortas-es-2020_0034"
+        ]
+      },
+      {
+        "question": "Ahuashiyacu horario",
+        "type": "entidad",
+        "expected": "san_martin-es-2023_0016",
+        "got": [
+          "ica-es-2025_0008",
+          "ayacucho-es-2023_0021",
+          "arequipa-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Busco un paseo para conocer cómo hacen bebidas de viñedos y bodegas, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0010",
+        "got": [
+          "ica-es-2025_0007",
+          "gastronomia-es-2020_0030",
+          "moquegua-es-2023_0015"
+        ]
+      },
+      {
+        "question": "Ruta del Pisco",
+        "type": "entidad",
+        "expected": "tacna-es-2023_0010",
+        "got": [
+          "ica-es-2025_0004",
+          "gastronomia-es-2020_0021",
+          "ica-es-2025_0013"
+        ]
+      },
+      {
+        "question": "¿Dónde puedo ubicar la oficina turística de Tacna para pedir ayuda?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0017",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0007",
+          "tacna-es-2023_0003"
+        ]
+      },
+      {
+        "question": "¿Qué recuerdo típico puedo llevarme de esa ciudad fronteriza?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0015",
+        "got": [
+          "moquegua-es-2023_0008",
+          "piura-es-2023_0016",
+          "cajamarca-es-2023_0000"
+        ]
+      },
+      {
+        "question": "que venden en tacna",
+        "type": "coloquial",
+        "expected": "tacna-es-2023_0015",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0007",
+          "tacna-es-2023_0008"
+        ]
+      },
+      {
+        "question": "¿En qué parte del país está Tacna?",
+        "type": "directa",
+        "expected": "tacna-es-2023_0000",
+        "got": [
+          "tacna-es-2023_0009",
+          "tacna-es-2023_0007",
+          "tacna-es-2023_0012"
+        ]
+      },
+      {
+        "question": "¿Qué ciudad del extremo sur peruano está cerca de Chile?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0000",
+        "got": [
+          "lima_rutas_cortas-es-2020_0042",
+          "huancavelica-es-2023_0012",
+          "huancavelica-es-2023_0016"
+        ]
+      },
+      {
+        "question": "tacna ciudad heroica",
+        "type": "coloquial",
+        "expected": "tacna-es-2023_0000",
+        "got": [
+          "tacna-es-2023_0007",
+          "tacna-es-2023_0008",
+          "tacna-es-2023_0009"
+        ]
+      },
+      {
+        "question": "¿Cómo es el clima de esa región del extremo sur?",
+        "type": "indirecta",
+        "expected": "tacna-es-2023_0001",
+        "got": [
+          "ica-es-2025_0008",
+          "gastronomia-es-2020_0020",
+          "lima_rutas_cortas-es-2020_0042"
+        ]
+      },
+      {
+        "question": "pasalla tumbes",
+        "type": "entidad",
+        "expected": "tumbes-es-2023_0017",
+        "got": [
+          "tumbes-es-2023_0016",
+          "tumbes-es-2023_0007",
+          "tumbes-es-2023_0000"
+        ]
+      },
+      {
+        "question": "Busco un conjunto prehispánico con museo y sendero, ¿cuál es?",
+        "type": "indirecta",
+        "expected": "tumbes-es-2023_0008",
+        "got": [
+          "cusco-es-2023_0008",
+          "lambayeque-es-2023_0005",
+          "cajamarca-es-2023_0010"
+        ]
+      },
+      {
+        "question": "Casa del Manglar",
+        "type": "entidad",
+        "expected": "tumbes-es-2023_0010",
+        "got": [
+          "lima_callao-es-2019_0013",
+          "moquegua-es-2023_0007",
+          "lima_rutas_cortas-es-2020_0011"
+        ]
+      },
+      {
+        "question": "Piura Tumbes",
+        "type": "entidad",
+        "expected": "tumbes-es-2023_0003",
+        "got": [
+          "tumbes-es-2023_0014",
+          "tumbes-es-2023_0007",
+          "tumbes-es-2023_0012"
+        ]
+      },
+      {
+        "question": "Quiero un sitio para pescar tucunaré y dormir al aire libre, ¿cuál me sugieren?",
+        "type": "indirecta",
+        "expected": "ucayali-es-2023_0008",
+        "got": [
+          "ica-es-2025_0006",
+          "lima_rutas_cortas-es-2020_0030",
+          "tumbes-es-2023_0010"
+        ]
+      },
+      {
+        "question": "cashibococha para pasear en bote",
+        "type": "coloquial",
+        "expected": "ucayali-es-2023_0008",
+        "got": [
+          "ancash-es-2023_0026",
+          "loreto-es-2023_0019",
+          "loreto-es-2023_0014"
+        ]
+      },
+      {
+        "question": "¿Qué platos tradicionales aparecen en la comida de Ucayali?",
+        "type": "directa",
+        "expected": "ucayali-es-2023_0019",
+        "got": [
+          "lambayeque-es-2023_0006",
+          "ica-es-2025_0023",
+          "piura-es-2023_0007"
+        ]
+      },
+      {
+        "question": "Necesito comunicarme con la oficina de ayuda turística nacional por chat, ¿cuál es el contacto?",
+        "type": "indirecta",
+        "expected": "ucayali-es-2023_0023",
+        "got": [
+          "tacna-es-2023_0017",
+          "junin-es-2025_0028",
+          "lambayeque-es-2023_0024"
+        ]
+      }
+    ]
+  }
+}

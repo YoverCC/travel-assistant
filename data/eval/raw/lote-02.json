@@ -1,0 +1,324 @@
+[
+  {
+    "id": "apurimac-es-2023_0001",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué altura está Abancay y cuál es la máxima del departamento?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿En qué meses suele llover y cuándo conviene ir si quiero evitar aguaceros?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cual es la epoca seca en apurimac"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Apurímac capital"
+      }
+    ]
+  },
+  {
+    "id": "apurimac-es-2023_0000",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué tipo de paisajes y herencia histórica distinguen a Apurímac?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un destino andino con cañones profundos y mucha historia antigua, ¿cuál sería?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que hacer en apurimac si me gusta la aventura"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Apurímac naturaleza"
+      }
+    ]
+  },
+  {
+    "id": "apurimac-es-2023_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué festividad cae el 19 de junio en Apurímac?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero ir a una celebración grande ligada a la identidad local, ¿cuál me toca en junio?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cuando es el yawar fiesta en cotabambas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Sóndor Raymi"
+      }
+    ]
+  },
+  {
+    "id": "arequipa-es-2023_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué horarios se puede entrar a la basílica de Arequipa los domingos?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una plaza central rodeada por volcanes y con una catedral histórica, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "a que hora abren la catedral de arequipa el domingo"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Basílica Catedral Arequipa"
+      }
+    ]
+  },
+  {
+    "id": "arequipa-es-2023_0009",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué horario tiene la capilla de San Ignacio de Loyola los fines de semana?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero visitar un templo con cúpula pintada y combinarlo con una iglesia antigua, ¿dónde queda?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "horario de la capilla san ignacio en arequipa"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "San Ignacio de Loyola"
+      }
+    ]
+  },
+  {
+    "id": "arequipa-es-2023_0018",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia queda el santuario de Chapi desde Arequipa?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un sitio de peregrinación muy concurrido por devotos del sur, ¿cuál me recomiendan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llego a chapi desde arequipa"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Virgen de Chapi"
+      }
+    ]
+  },
+  {
+    "id": "arequipa-es-2023_0000",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué ciudad es la capital de Arequipa y a cuántos metros está?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una región del sur con reconocimiento mundial por su arquitectura mestiza, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "arequipa patrimonio mundial unesco"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Arequipa capital"
+      }
+    ]
+  },
+  {
+    "id": "arequipa-es-2023_0019",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué servicios ofrece el balneario de Jesús para relajarse?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un lugar con aguas cálidas y tratamiento para descansar cerca de la ciudad, ¿dónde voy?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "balneario de jesus tiene piscina"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Balneario de Jesús"
+      }
+    ]
+  },
+  {
+    "id": "ayacucho-es-2023_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde queda el templo de Santo Domingo en Huamanga?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una iglesia antigua con retablo dorado y una cruz de piedra en el atrio, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "templo santo domingo ayacucho"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Templo de Santo Domingo"
+      }
+    ]
+  },
+  {
+    "id": "ayacucho-es-2023_0019",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué barrios de Ayacucho hay talleres de artesanos?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero comprar piezas hechas a mano y ver cómo trabajan los maestros locales, ¿adónde voy?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "donde venden retablos ayacuchanos"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "retablos ayacuchanos"
+      }
+    ]
+  },
+  {
+    "id": "ayacucho-es-2023_0015",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto tiempo se camina hasta las aguas turquesas de Millpu?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una laguna de color turquesa para ir entre mayo y noviembre, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llego a millpu desde ayacucho"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Millpu aguas turquesas"
+      }
+    ]
+  },
+  {
+    "id": "ayacucho-es-2023_0009",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué carácter tiene la casona Velarde Álvarez y dónde está?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una casona antigua donde aparecieron restos incas durante una restauración, ¿cuál será?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "casona velarde alvarez ayacucho"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Velarde Álvarez"
+      }
+    ]
+  },
+  {
+    "id": "ayacucho-es-2023_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuántos kilómetros hay desde Ayacucho hasta Pampa Galeras?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una reserva llena de vicuñas donde también celebran un chaccu, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "reserva pampa galeras vicuñas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Pampa Galeras"
+      }
+    ]
+  },
+  {
+    "id": "ayacucho-es-2023_0010",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué horario tiene el Museo Histórico Andrés Avelino Cáceres los sábados?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero ver una colección sobre un héroe de la Guerra del Pacífico en una casa antigua, ¿dónde está?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "museo andres avelino caceres ayacucho"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Museo de la Memoria"
+      }
+    ]
+  }
+]

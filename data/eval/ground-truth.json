@@ -1,0 +1,3434 @@
+[
+  {
+    "question": "¿Cuál es el correo de IPERÚ Chachapoyas?",
+    "type": "directa",
+    "chunk_id": "amazonas-es-2023_0021",
+    "province": "amazonas"
+  },
+  {
+    "question": "Necesito comunicarme con la oficina turística de Chachapoyas, ¿qué datos tienen?",
+    "type": "indirecta",
+    "chunk_id": "amazonas-es-2023_0021",
+    "province": "amazonas"
+  },
+  {
+    "question": "telefono de iperu chachapoyas",
+    "type": "coloquial",
+    "chunk_id": "amazonas-es-2023_0021",
+    "province": "amazonas"
+  },
+  {
+    "question": "IPERÚ Chachapoyas",
+    "type": "entidad",
+    "chunk_id": "amazonas-es-2023_0021",
+    "province": "amazonas"
+  },
+  {
+    "question": "¿A qué hora abre la sala Gilberto Tenorio Ruiz de lunes a viernes?",
+    "type": "directa",
+    "chunk_id": "amazonas-es-2023_0004",
+    "province": "amazonas"
+  },
+  {
+    "question": "Busco un lugar en Chachapoyas donde ver piezas y objetos de su cultura local, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "amazonas-es-2023_0004",
+    "province": "amazonas"
+  },
+  {
+    "question": "museo gilberto tenorio horario",
+    "type": "coloquial",
+    "chunk_id": "amazonas-es-2023_0004",
+    "province": "amazonas"
+  },
+  {
+    "question": "Gilberto Tenorio Ruiz",
+    "type": "entidad",
+    "chunk_id": "amazonas-es-2023_0004",
+    "province": "amazonas"
+  },
+  {
+    "question": "¿En qué altura está la capital de Amazonas?",
+    "type": "directa",
+    "chunk_id": "amazonas-es-2023_0001",
+    "province": "amazonas"
+  },
+  {
+    "question": "Quiero saber a qué altitud queda la ciudad principal de esa región del norte.",
+    "type": "indirecta",
+    "chunk_id": "amazonas-es-2023_0001",
+    "province": "amazonas"
+  },
+  {
+    "question": "altura de chachapoyas",
+    "type": "coloquial",
+    "chunk_id": "amazonas-es-2023_0001",
+    "province": "amazonas"
+  },
+  {
+    "question": "Chachapoyas altitud",
+    "type": "entidad",
+    "chunk_id": "amazonas-es-2023_0001",
+    "province": "amazonas"
+  },
+  {
+    "question": "¿Cuánto tiempo toma llegar a Quiocta desde Chachapoyas en auto y caminando?",
+    "type": "directa",
+    "chunk_id": "amazonas-es-2023_0009",
+    "province": "amazonas"
+  },
+  {
+    "question": "Busco una cueva con restos humanos y formaciones de piedra en el norte, ¿cuál será?",
+    "type": "indirecta",
+    "chunk_id": "amazonas-es-2023_0009",
+    "province": "amazonas"
+  },
+  {
+    "question": "cueva de quiocta horario",
+    "type": "coloquial",
+    "chunk_id": "amazonas-es-2023_0009",
+    "province": "amazonas"
+  },
+  {
+    "question": "Quiocta caverna",
+    "type": "entidad",
+    "chunk_id": "amazonas-es-2023_0009",
+    "province": "amazonas"
+  },
+  {
+    "question": "¿Cuántos días recomiendan para hacer el circuito sugerido?",
+    "type": "directa",
+    "chunk_id": "amazonas-es-2023_0017",
+    "province": "amazonas"
+  },
+  {
+    "question": "Quiero organizar una visita larga con varios atractivos en ese orden, ¿cuánto mínimo debería quedarme?",
+    "type": "indirecta",
+    "chunk_id": "amazonas-es-2023_0017",
+    "province": "amazonas"
+  },
+  {
+    "question": "itinerario amazonas 5 dias",
+    "type": "coloquial",
+    "chunk_id": "amazonas-es-2023_0017",
+    "province": "amazonas"
+  },
+  {
+    "question": "estadía mínima recomendada",
+    "type": "entidad",
+    "chunk_id": "amazonas-es-2023_0017",
+    "province": "amazonas"
+  },
+  {
+    "question": "¿Cuál de esos tramos tiene la mayor dificultad?",
+    "type": "directa",
+    "chunk_id": "ancash-es-2023_0009",
+    "province": "ancash"
+  },
+  {
+    "question": "Busco la caminata más larga y exigente de esas opciones, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "ancash-es-2023_0009",
+    "province": "ancash"
+  },
+  {
+    "question": "trek largo en ancash",
+    "type": "coloquial",
+    "chunk_id": "ancash-es-2023_0009",
+    "province": "ancash"
+  },
+  {
+    "question": "Los Cedros Alpamayo",
+    "type": "entidad",
+    "chunk_id": "ancash-es-2023_0009",
+    "province": "ancash"
+  },
+  {
+    "question": "¿Qué playa de Huarmey recomiendan para ir con niños?",
+    "type": "directa",
+    "chunk_id": "ancash-es-2023_0024",
+    "province": "ancash"
+  },
+  {
+    "question": "Busco una orilla tranquila y segura para pasar el día con chicos, ¿dónde sería?",
+    "type": "indirecta",
+    "chunk_id": "ancash-es-2023_0024",
+    "province": "ancash"
+  },
+  {
+    "question": "playa para niños en huarmey",
+    "type": "coloquial",
+    "chunk_id": "ancash-es-2023_0024",
+    "province": "ancash"
+  },
+  {
+    "question": "La Pocita",
+    "type": "entidad",
+    "chunk_id": "ancash-es-2023_0024",
+    "province": "ancash"
+  },
+  {
+    "question": "¿Qué destinos incluye la ruta mínima de tres días?",
+    "type": "directa",
+    "chunk_id": "ancash-es-2023_0004",
+    "province": "ancash"
+  },
+  {
+    "question": "Quiero un plan de varios días con lagunas, pueblo y playa, ¿qué lugares salen?",
+    "type": "indirecta",
+    "chunk_id": "ancash-es-2023_0004",
+    "province": "ancash"
+  },
+  {
+    "question": "ruta 3 dias ancash",
+    "type": "coloquial",
+    "chunk_id": "ancash-es-2023_0004",
+    "province": "ancash"
+  },
+  {
+    "question": "laguna 69",
+    "type": "entidad",
+    "chunk_id": "ancash-es-2023_0004",
+    "province": "ancash"
+  },
+  {
+    "question": "¿Cuál es el horario de visita de Sechín y el museo de Casma?",
+    "type": "directa",
+    "chunk_id": "ancash-es-2023_0022",
+    "province": "ancash"
+  },
+  {
+    "question": "Busco un complejo con vestigios y museo cerca de Casma, ¿cómo se llama?",
+    "type": "indirecta",
+    "chunk_id": "ancash-es-2023_0022",
+    "province": "ancash"
+  },
+  {
+    "question": "sechin casma horario",
+    "type": "coloquial",
+    "chunk_id": "ancash-es-2023_0022",
+    "province": "ancash"
+  },
+  {
+    "question": "Sechín Casma",
+    "type": "entidad",
+    "chunk_id": "ancash-es-2023_0022",
+    "province": "ancash"
+  },
+  {
+    "question": "¿En qué mes se celebra el aniversario de Huaraz?",
+    "type": "directa",
+    "chunk_id": "ancash-es-2023_0031",
+    "province": "ancash"
+  },
+  {
+    "question": "Quiero ir a una fiesta de la sierra ancashina que cae a mitad de año, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "ancash-es-2023_0031",
+    "province": "ancash"
+  },
+  {
+    "question": "aniversario de huaraz",
+    "type": "coloquial",
+    "chunk_id": "ancash-es-2023_0031",
+    "province": "ancash"
+  },
+  {
+    "question": "Virgen de la Asunción",
+    "type": "entidad",
+    "chunk_id": "ancash-es-2023_0031",
+    "province": "ancash"
+  },
+  {
+    "question": "¿A cuántos kilómetros de Chacas queda el santuario de Pomallucay?",
+    "type": "directa",
+    "chunk_id": "ancash-es-2023_0018",
+    "province": "ancash"
+  },
+  {
+    "question": "Busco una basílica hecha por voluntarios para venerar a un Cristo de mirada triste, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "ancash-es-2023_0018",
+    "province": "ancash"
+  },
+  {
+    "question": "pomallucay cuantos km",
+    "type": "coloquial",
+    "chunk_id": "ancash-es-2023_0018",
+    "province": "ancash"
+  },
+  {
+    "question": "Pomallucay santuario",
+    "type": "entidad",
+    "chunk_id": "ancash-es-2023_0018",
+    "province": "ancash"
+  },
+  {
+    "question": "¿Cuánto demora ir de Cusco a Abancay por tierra?",
+    "type": "directa",
+    "chunk_id": "apurimac-es-2023_0002",
+    "province": "apurimac"
+  },
+  {
+    "question": "Necesito llegar desde la ciudad imperial hasta la capital regional por carretera, ¿cuánto toma?",
+    "type": "indirecta",
+    "chunk_id": "apurimac-es-2023_0002",
+    "province": "apurimac"
+  },
+  {
+    "question": "cusco a abancay cuanto demora",
+    "type": "coloquial",
+    "chunk_id": "apurimac-es-2023_0002",
+    "province": "apurimac"
+  },
+  {
+    "question": "Cusco Abancay",
+    "type": "entidad",
+    "chunk_id": "apurimac-es-2023_0002",
+    "province": "apurimac"
+  },
+  {
+    "question": "¿Qué productos típicos artesanales venden en Apurímac?",
+    "type": "directa",
+    "chunk_id": "apurimac-es-2023_0018",
+    "province": "apurimac"
+  },
+  {
+    "question": "Busco regalos hechos a mano con lana, barro y madera de esa región andina, ¿qué ofrecen?",
+    "type": "indirecta",
+    "chunk_id": "apurimac-es-2023_0018",
+    "province": "apurimac"
+  },
+  {
+    "question": "artesania tipica de apurimac",
+    "type": "coloquial",
+    "chunk_id": "apurimac-es-2023_0018",
+    "province": "apurimac"
+  },
+  {
+    "question": "tejidos de alpaca",
+    "type": "entidad",
+    "chunk_id": "apurimac-es-2023_0018",
+    "province": "apurimac"
+  },
+  {
+    "question": "¿A qué altura está Abancay y cuál es la máxima del departamento?",
+    "type": "directa",
+    "chunk_id": "apurimac-es-2023_0001",
+    "province": "apurimac"
+  },
+  {
+    "question": "¿En qué meses suele llover y cuándo conviene ir si quiero evitar aguaceros?",
+    "type": "indirecta",
+    "chunk_id": "apurimac-es-2023_0001",
+    "province": "apurimac"
+  },
+  {
+    "question": "cual es la epoca seca en apurimac",
+    "type": "coloquial",
+    "chunk_id": "apurimac-es-2023_0001",
+    "province": "apurimac"
+  },
+  {
+    "question": "Apurímac capital",
+    "type": "entidad",
+    "chunk_id": "apurimac-es-2023_0001",
+    "province": "apurimac"
+  },
+  {
+    "question": "¿Qué tipo de paisajes y herencia histórica distinguen a Apurímac?",
+    "type": "directa",
+    "chunk_id": "apurimac-es-2023_0000",
+    "province": "apurimac"
+  },
+  {
+    "question": "Busco un destino andino con cañones profundos y mucha historia antigua, ¿cuál sería?",
+    "type": "indirecta",
+    "chunk_id": "apurimac-es-2023_0000",
+    "province": "apurimac"
+  },
+  {
+    "question": "que hacer en apurimac si me gusta la aventura",
+    "type": "coloquial",
+    "chunk_id": "apurimac-es-2023_0000",
+    "province": "apurimac"
+  },
+  {
+    "question": "Apurímac naturaleza",
+    "type": "entidad",
+    "chunk_id": "apurimac-es-2023_0000",
+    "province": "apurimac"
+  },
+  {
+    "question": "¿Qué festividad cae el 19 de junio en Apurímac?",
+    "type": "directa",
+    "chunk_id": "apurimac-es-2023_0016",
+    "province": "apurimac"
+  },
+  {
+    "question": "Quiero ir a una celebración grande ligada a la identidad local, ¿cuál me toca en junio?",
+    "type": "indirecta",
+    "chunk_id": "apurimac-es-2023_0016",
+    "province": "apurimac"
+  },
+  {
+    "question": "cuando es el yawar fiesta en cotabambas",
+    "type": "coloquial",
+    "chunk_id": "apurimac-es-2023_0016",
+    "province": "apurimac"
+  },
+  {
+    "question": "Sóndor Raymi",
+    "type": "entidad",
+    "chunk_id": "apurimac-es-2023_0016",
+    "province": "apurimac"
+  },
+  {
+    "question": "¿En qué horarios se puede entrar a la basílica de Arequipa los domingos?",
+    "type": "directa",
+    "chunk_id": "arequipa-es-2023_0008",
+    "province": "arequipa"
+  },
+  {
+    "question": "Busco una plaza central rodeada por volcanes y con una catedral histórica, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "arequipa-es-2023_0008",
+    "province": "arequipa"
+  },
+  {
+    "question": "a que hora abren la catedral de arequipa el domingo",
+    "type": "coloquial",
+    "chunk_id": "arequipa-es-2023_0008",
+    "province": "arequipa"
+  },
+  {
+    "question": "Basílica Catedral Arequipa",
+    "type": "entidad",
+    "chunk_id": "arequipa-es-2023_0008",
+    "province": "arequipa"
+  },
+  {
+    "question": "¿Qué horario tiene la capilla de San Ignacio de Loyola los fines de semana?",
+    "type": "directa",
+    "chunk_id": "arequipa-es-2023_0009",
+    "province": "arequipa"
+  },
+  {
+    "question": "Quiero visitar un templo con cúpula pintada y combinarlo con una iglesia antigua, ¿dónde queda?",
+    "type": "indirecta",
+    "chunk_id": "arequipa-es-2023_0009",
+    "province": "arequipa"
+  },
+  {
+    "question": "horario de la capilla san ignacio en arequipa",
+    "type": "coloquial",
+    "chunk_id": "arequipa-es-2023_0009",
+    "province": "arequipa"
+  },
+  {
+    "question": "San Ignacio de Loyola",
+    "type": "entidad",
+    "chunk_id": "arequipa-es-2023_0009",
+    "province": "arequipa"
+  },
+  {
+    "question": "¿A qué distancia queda el santuario de Chapi desde Arequipa?",
+    "type": "directa",
+    "chunk_id": "arequipa-es-2023_0018",
+    "province": "arequipa"
+  },
+  {
+    "question": "Busco un sitio de peregrinación muy concurrido por devotos del sur, ¿cuál me recomiendan?",
+    "type": "indirecta",
+    "chunk_id": "arequipa-es-2023_0018",
+    "province": "arequipa"
+  },
+  {
+    "question": "como llego a chapi desde arequipa",
+    "type": "coloquial",
+    "chunk_id": "arequipa-es-2023_0018",
+    "province": "arequipa"
+  },
+  {
+    "question": "Virgen de Chapi",
+    "type": "entidad",
+    "chunk_id": "arequipa-es-2023_0018",
+    "province": "arequipa"
+  },
+  {
+    "question": "¿Qué ciudad es la capital de Arequipa y a cuántos metros está?",
+    "type": "directa",
+    "chunk_id": "arequipa-es-2023_0000",
+    "province": "arequipa"
+  },
+  {
+    "question": "Busco una región del sur con reconocimiento mundial por su arquitectura mestiza, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "arequipa-es-2023_0000",
+    "province": "arequipa"
+  },
+  {
+    "question": "arequipa patrimonio mundial unesco",
+    "type": "coloquial",
+    "chunk_id": "arequipa-es-2023_0000",
+    "province": "arequipa"
+  },
+  {
+    "question": "Arequipa capital",
+    "type": "entidad",
+    "chunk_id": "arequipa-es-2023_0000",
+    "province": "arequipa"
+  },
+  {
+    "question": "¿Qué servicios ofrece el balneario de Jesús para relajarse?",
+    "type": "directa",
+    "chunk_id": "arequipa-es-2023_0019",
+    "province": "arequipa"
+  },
+  {
+    "question": "Quiero un lugar con aguas cálidas y tratamiento para descansar cerca de la ciudad, ¿dónde voy?",
+    "type": "indirecta",
+    "chunk_id": "arequipa-es-2023_0019",
+    "province": "arequipa"
+  },
+  {
+    "question": "balneario de jesus tiene piscina",
+    "type": "coloquial",
+    "chunk_id": "arequipa-es-2023_0019",
+    "province": "arequipa"
+  },
+  {
+    "question": "Balneario de Jesús",
+    "type": "entidad",
+    "chunk_id": "arequipa-es-2023_0019",
+    "province": "arequipa"
+  },
+  {
+    "question": "¿Dónde queda el templo de Santo Domingo en Huamanga?",
+    "type": "directa",
+    "chunk_id": "ayacucho-es-2023_0008",
+    "province": "ayacucho"
+  },
+  {
+    "question": "templo santo domingo ayacucho",
+    "type": "coloquial",
+    "chunk_id": "ayacucho-es-2023_0008",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Templo de Santo Domingo",
+    "type": "entidad",
+    "chunk_id": "ayacucho-es-2023_0008",
+    "province": "ayacucho"
+  },
+  {
+    "question": "¿En qué barrios de Ayacucho hay talleres de artesanos?",
+    "type": "directa",
+    "chunk_id": "ayacucho-es-2023_0019",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Quiero comprar piezas hechas a mano y ver cómo trabajan los maestros locales, ¿adónde voy?",
+    "type": "indirecta",
+    "chunk_id": "ayacucho-es-2023_0019",
+    "province": "ayacucho"
+  },
+  {
+    "question": "donde venden retablos ayacuchanos",
+    "type": "coloquial",
+    "chunk_id": "ayacucho-es-2023_0019",
+    "province": "ayacucho"
+  },
+  {
+    "question": "retablos ayacuchanos",
+    "type": "entidad",
+    "chunk_id": "ayacucho-es-2023_0019",
+    "province": "ayacucho"
+  },
+  {
+    "question": "¿Cuánto tiempo se camina hasta las aguas turquesas de Millpu?",
+    "type": "directa",
+    "chunk_id": "ayacucho-es-2023_0015",
+    "province": "ayacucho"
+  },
+  {
+    "question": "como llego a millpu desde ayacucho",
+    "type": "coloquial",
+    "chunk_id": "ayacucho-es-2023_0015",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Millpu aguas turquesas",
+    "type": "entidad",
+    "chunk_id": "ayacucho-es-2023_0015",
+    "province": "ayacucho"
+  },
+  {
+    "question": "¿Qué carácter tiene la casona Velarde Álvarez y dónde está?",
+    "type": "directa",
+    "chunk_id": "ayacucho-es-2023_0009",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Busco una casona antigua donde aparecieron restos incas durante una restauración, ¿cuál será?",
+    "type": "indirecta",
+    "chunk_id": "ayacucho-es-2023_0009",
+    "province": "ayacucho"
+  },
+  {
+    "question": "casona velarde alvarez ayacucho",
+    "type": "coloquial",
+    "chunk_id": "ayacucho-es-2023_0009",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Velarde Álvarez",
+    "type": "entidad",
+    "chunk_id": "ayacucho-es-2023_0009",
+    "province": "ayacucho"
+  },
+  {
+    "question": "¿Cuántos kilómetros hay desde Ayacucho hasta Pampa Galeras?",
+    "type": "directa",
+    "chunk_id": "ayacucho-es-2023_0016",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Busco una reserva llena de vicuñas donde también celebran un chaccu, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "ayacucho-es-2023_0016",
+    "province": "ayacucho"
+  },
+  {
+    "question": "reserva pampa galeras vicuñas",
+    "type": "coloquial",
+    "chunk_id": "ayacucho-es-2023_0016",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Pampa Galeras",
+    "type": "entidad",
+    "chunk_id": "ayacucho-es-2023_0016",
+    "province": "ayacucho"
+  },
+  {
+    "question": "¿Qué horario tiene el Museo Histórico Andrés Avelino Cáceres los sábados?",
+    "type": "directa",
+    "chunk_id": "ayacucho-es-2023_0010",
+    "province": "ayacucho"
+  },
+  {
+    "question": "museo andres avelino caceres ayacucho",
+    "type": "coloquial",
+    "chunk_id": "ayacucho-es-2023_0010",
+    "province": "ayacucho"
+  },
+  {
+    "question": "Museo de la Memoria",
+    "type": "entidad",
+    "chunk_id": "ayacucho-es-2023_0010",
+    "province": "ayacucho"
+  },
+  {
+    "question": "¿Cuál es el teléfono de IPERÚ en Cajamarca?",
+    "type": "directa",
+    "chunk_id": "cajamarca-es-2023_0027",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Necesito contactar una oficina de ayuda turística en Cajamarca, ¿cuál es su número?",
+    "type": "indirecta",
+    "chunk_id": "cajamarca-es-2023_0027",
+    "province": "cajamarca"
+  },
+  {
+    "question": "telefono iperu cajamarca",
+    "type": "coloquial",
+    "chunk_id": "cajamarca-es-2023_0027",
+    "province": "cajamarca"
+  },
+  {
+    "question": "IPERÚ Cajamarca",
+    "type": "entidad",
+    "chunk_id": "cajamarca-es-2023_0027",
+    "province": "cajamarca"
+  },
+  {
+    "question": "¿A qué altura está la capital de Cajamarca?",
+    "type": "directa",
+    "chunk_id": "cajamarca-es-2023_0001",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Quiero saber qué tan arriba del mar está la ciudad principal de esa región andina.",
+    "type": "indirecta",
+    "chunk_id": "cajamarca-es-2023_0001",
+    "province": "cajamarca"
+  },
+  {
+    "question": "a que altura esta cajamarca",
+    "type": "coloquial",
+    "chunk_id": "cajamarca-es-2023_0001",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Cajamarca 2750 msnm",
+    "type": "entidad",
+    "chunk_id": "cajamarca-es-2023_0001",
+    "province": "cajamarca"
+  },
+  {
+    "question": "¿Qué insumos usan para trabajar la artesanía cajamarquina?",
+    "type": "directa",
+    "chunk_id": "cajamarca-es-2023_0007",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Busco ideas de recuerdos hechos con materiales como cuero o madera, ¿qué venden allí?",
+    "type": "indirecta",
+    "chunk_id": "cajamarca-es-2023_0007",
+    "province": "cajamarca"
+  },
+  {
+    "question": "que venden de artesania en cajamarca",
+    "type": "coloquial",
+    "chunk_id": "cajamarca-es-2023_0007",
+    "province": "cajamarca"
+  },
+  {
+    "question": "artesanía cajamarquina",
+    "type": "entidad",
+    "chunk_id": "cajamarca-es-2023_0007",
+    "province": "cajamarca"
+  },
+  {
+    "question": "¿A qué hora se puede entrar a la cascada de Cochecorral?",
+    "type": "directa",
+    "chunk_id": "cajamarca-es-2023_0024",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Quiero visitar una caída de agua cercana a Cajabamba que se puede ver sin pagar, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "cajamarca-es-2023_0024",
+    "province": "cajamarca"
+  },
+  {
+    "question": "a que hora abre cochecorral",
+    "type": "coloquial",
+    "chunk_id": "cajamarca-es-2023_0024",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Cochecorral ingreso",
+    "type": "entidad",
+    "chunk_id": "cajamarca-es-2023_0024",
+    "province": "cajamarca"
+  },
+  {
+    "question": "¿A qué hora recibe visitantes la hacienda de las vacas que responden al cuidador?",
+    "type": "directa",
+    "chunk_id": "cajamarca-es-2023_0015",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Busco un paseo donde los animales llegan cuando los llaman por su nombre, ¿dónde es?",
+    "type": "indirecta",
+    "chunk_id": "cajamarca-es-2023_0015",
+    "province": "cajamarca"
+  },
+  {
+    "question": "donde ver vacas que obedecen al llamado",
+    "type": "coloquial",
+    "chunk_id": "cajamarca-es-2023_0015",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Hacienda La Colpa",
+    "type": "entidad",
+    "chunk_id": "cajamarca-es-2023_0015",
+    "province": "cajamarca"
+  },
+  {
+    "question": "¿Dónde queda la casa museo que guarda piezas antiguas de Cajamarca?",
+    "type": "directa",
+    "chunk_id": "cajamarca-es-2023_0012",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Quiero conocer una vivienda histórica con colecciones de épocas prehispánica, colonial y republicana.",
+    "type": "indirecta",
+    "chunk_id": "cajamarca-es-2023_0012",
+    "province": "cajamarca"
+  },
+  {
+    "question": "casa museo de piezas antiguas cajamarca",
+    "type": "coloquial",
+    "chunk_id": "cajamarca-es-2023_0012",
+    "province": "cajamarca"
+  },
+  {
+    "question": "Casa Museo Nicolás Puga",
+    "type": "entidad",
+    "chunk_id": "cajamarca-es-2023_0012",
+    "province": "cajamarca"
+  },
+  {
+    "question": "¿Qué permiso piden para entrar al santuario de Megantoni?",
+    "type": "directa",
+    "chunk_id": "cusco-es-2023_0020",
+    "province": "cusco"
+  },
+  {
+    "question": "Busco un área natural con mucha fauna y bosques que exige autorización previa, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "cusco-es-2023_0020",
+    "province": "cusco"
+  },
+  {
+    "question": "como saco permiso para megantoni",
+    "type": "coloquial",
+    "chunk_id": "cusco-es-2023_0020",
+    "province": "cusco"
+  },
+  {
+    "question": "Megantoni permiso",
+    "type": "entidad",
+    "chunk_id": "cusco-es-2023_0020",
+    "province": "cusco"
+  },
+  {
+    "question": "¿Cuál es el horario de Saqsaywaman y qué tipo de boleto piden?",
+    "type": "directa",
+    "chunk_id": "cusco-es-2023_0012",
+    "province": "cusco"
+  },
+  {
+    "question": "Quiero visitar una construcción inca usada para ceremonias y ligada al Inti Raymi, ¿cómo se ingresa?",
+    "type": "indirecta",
+    "chunk_id": "cusco-es-2023_0012",
+    "province": "cusco"
+  },
+  {
+    "question": "a que hora abre saqsaywaman",
+    "type": "coloquial",
+    "chunk_id": "cusco-es-2023_0012",
+    "province": "cusco"
+  },
+  {
+    "question": "Saqsaywaman boleto turístico",
+    "type": "entidad",
+    "chunk_id": "cusco-es-2023_0012",
+    "province": "cusco"
+  },
+  {
+    "question": "¿A qué hora se puede visitar Moray con boleto turístico?",
+    "type": "directa",
+    "chunk_id": "cusco-es-2023_0016",
+    "province": "cusco"
+  },
+  {
+    "question": "Busco un lugar con pozos circulares usado por los incas para estudiar cultivos, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "cusco-es-2023_0016",
+    "province": "cusco"
+  },
+  {
+    "question": "moray horario y entrada",
+    "type": "coloquial",
+    "chunk_id": "cusco-es-2023_0016",
+    "province": "cusco"
+  },
+  {
+    "question": "Moray boleto turístico",
+    "type": "entidad",
+    "chunk_id": "cusco-es-2023_0016",
+    "province": "cusco"
+  },
+  {
+    "question": "¿Qué actividad se puede hacer en la laguna Qoricocha además de caminar?",
+    "type": "directa",
+    "chunk_id": "cusco-es-2023_0024",
+    "province": "cusco"
+  },
+  {
+    "question": "Quiero ir a una laguna andina donde se pueda remar y pescar, ¿cuál me recomiendan?",
+    "type": "indirecta",
+    "chunk_id": "cusco-es-2023_0024",
+    "province": "cusco"
+  },
+  {
+    "question": "laguna qoricocha para remar",
+    "type": "coloquial",
+    "chunk_id": "cusco-es-2023_0024",
+    "province": "cusco"
+  },
+  {
+    "question": "Qoricocha stand up paddle",
+    "type": "entidad",
+    "chunk_id": "cusco-es-2023_0024",
+    "province": "cusco"
+  },
+  {
+    "question": "¿En qué horario atiende la Catedral del Cusco?",
+    "type": "directa",
+    "chunk_id": "cusco-es-2023_0006",
+    "province": "cusco"
+  },
+  {
+    "question": "Quiero entrar a un templo principal de estilo renacentista con arte cusqueño y plata, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "cusco-es-2023_0006",
+    "province": "cusco"
+  },
+  {
+    "question": "catedral del cuzco horario",
+    "type": "coloquial",
+    "chunk_id": "cusco-es-2023_0006",
+    "province": "cusco"
+  },
+  {
+    "question": "Catedral Cusco",
+    "type": "entidad",
+    "chunk_id": "cusco-es-2023_0006",
+    "province": "cusco"
+  },
+  {
+    "question": "Busco saber el tiempo mínimo para conocer bien esa ciudad y sus alrededores, ¿cuál sugieren?",
+    "type": "indirecta",
+    "chunk_id": "cusco-es-2023_0005",
+    "province": "cusco"
+  },
+  {
+    "question": "cuantos dias para cusco completo",
+    "type": "coloquial",
+    "chunk_id": "cusco-es-2023_0005",
+    "province": "cusco"
+  },
+  {
+    "question": "estadia minima cusco",
+    "type": "entidad",
+    "chunk_id": "cusco-es-2023_0005",
+    "province": "cusco"
+  },
+  {
+    "question": "¿Qué cultivos andinos son la base de la comida serrana?",
+    "type": "directa",
+    "chunk_id": "gastronomia-es-2020_0027",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Quiero saber cuáles son los productos que sostienen la cocina de la sierra peruana.",
+    "type": "indirecta",
+    "chunk_id": "gastronomia-es-2020_0027",
+    "province": "gastronomia"
+  },
+  {
+    "question": "que alimentos son base de la sierra",
+    "type": "coloquial",
+    "chunk_id": "gastronomia-es-2020_0027",
+    "province": "gastronomia"
+  },
+  {
+    "question": "base de la gastronomía",
+    "type": "entidad",
+    "chunk_id": "gastronomia-es-2020_0027",
+    "province": "gastronomia"
+  },
+  {
+    "question": "¿Qué regiones incluye la costa norte del Perú?",
+    "type": "directa",
+    "chunk_id": "gastronomia-es-2020_0007",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Busco saber qué departamentos forman la franja norte del litoral peruano.",
+    "type": "indirecta",
+    "chunk_id": "gastronomia-es-2020_0007",
+    "province": "gastronomia"
+  },
+  {
+    "question": "que regiones son costa norte",
+    "type": "coloquial",
+    "chunk_id": "gastronomia-es-2020_0007",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Costa Norte Perú",
+    "type": "entidad",
+    "chunk_id": "gastronomia-es-2020_0007",
+    "province": "gastronomia"
+  },
+  {
+    "question": "¿Qué ingrediente destaca en la cocina de Tacna?",
+    "type": "directa",
+    "chunk_id": "gastronomia-es-2020_0025",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Busco un plato del sur donde sobresale un ají cocido lentamente, ¿de qué zona es?",
+    "type": "indirecta",
+    "chunk_id": "gastronomia-es-2020_0025",
+    "province": "gastronomia"
+  },
+  {
+    "question": "que usan mucho en la comida tacna",
+    "type": "coloquial",
+    "chunk_id": "gastronomia-es-2020_0025",
+    "province": "gastronomia"
+  },
+  {
+    "question": "ají panca Tacna",
+    "type": "entidad",
+    "chunk_id": "gastronomia-es-2020_0025",
+    "province": "gastronomia"
+  },
+  {
+    "question": "¿Qué platos típicos preparan en Chazuta con pescado y yuca?",
+    "type": "directa",
+    "chunk_id": "gastronomia-es-2020_0044",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Busco una experiencia amazónica con recetas heredadas por mujeres mayores, ¿dónde la encuentro?",
+    "type": "indirecta",
+    "chunk_id": "gastronomia-es-2020_0044",
+    "province": "gastronomia"
+  },
+  {
+    "question": "que juane famoso hay en tarapoto",
+    "type": "coloquial",
+    "chunk_id": "gastronomia-es-2020_0044",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Uchuyaku Chazuta",
+    "type": "entidad",
+    "chunk_id": "gastronomia-es-2020_0044",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Quiero visitar un sitio amazónico con lagos y muchísimas aves, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "gastronomia-es-2020_0042",
+    "province": "gastronomia"
+  },
+  {
+    "question": "donde ver aves en tambopata",
+    "type": "coloquial",
+    "chunk_id": "gastronomia-es-2020_0042",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Tambopata collpas",
+    "type": "entidad",
+    "chunk_id": "gastronomia-es-2020_0042",
+    "province": "gastronomia"
+  },
+  {
+    "question": "¿Por dónde conviene recorrer el centro limeño a pie?",
+    "type": "directa",
+    "chunk_id": "gastronomia-es-2020_0018",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Busco una zona histórica con casonas, templos antiguos y viejas tabernas, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "gastronomia-es-2020_0018",
+    "province": "gastronomia"
+  },
+  {
+    "question": "que zona antigua de lima se recorre caminando",
+    "type": "coloquial",
+    "chunk_id": "gastronomia-es-2020_0018",
+    "province": "gastronomia"
+  },
+  {
+    "question": "Lima centro histórico",
+    "type": "entidad",
+    "chunk_id": "gastronomia-es-2020_0018",
+    "province": "gastronomia"
+  },
+  {
+    "question": "¿Cuánto demora ir de Huancayo a Huancavelica en bus?",
+    "type": "directa",
+    "chunk_id": "huancavelica-es-2023_0001",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Necesito saber el tiempo por carretera desde la ciudad del Valle del Mantaro, ¿cuánto es?",
+    "type": "indirecta",
+    "chunk_id": "huancavelica-es-2023_0001",
+    "province": "huancavelica"
+  },
+  {
+    "question": "cuanto se tarda en bus a huancavelica",
+    "type": "coloquial",
+    "chunk_id": "huancavelica-es-2023_0001",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Huancavelica Huancayo",
+    "type": "entidad",
+    "chunk_id": "huancavelica-es-2023_0001",
+    "province": "huancavelica"
+  },
+  {
+    "question": "¿A qué distancia queda Allpas desde Acobamba?",
+    "type": "directa",
+    "chunk_id": "huancavelica-es-2023_0015",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Busco unas sepulturas antiguas talladas en roca cerca de un pueblo andino, ¿dónde quedan?",
+    "type": "indirecta",
+    "chunk_id": "huancavelica-es-2023_0015",
+    "province": "huancavelica"
+  },
+  {
+    "question": "como llegar a allpas desde acobamba",
+    "type": "coloquial",
+    "chunk_id": "huancavelica-es-2023_0015",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Allpas tumbas",
+    "type": "entidad",
+    "chunk_id": "huancavelica-es-2023_0015",
+    "province": "huancavelica"
+  },
+  {
+    "question": "¿En qué distrito quedan los baños de Coris Pampalca?",
+    "type": "directa",
+    "chunk_id": "huancavelica-es-2023_0018",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Quiero un lugar con agua caliente para aliviar dolores y malestares de la piel, ¿cuál recomiendan?",
+    "type": "indirecta",
+    "chunk_id": "huancavelica-es-2023_0018",
+    "province": "huancavelica"
+  },
+  {
+    "question": "baños termales de coris pampalca",
+    "type": "coloquial",
+    "chunk_id": "huancavelica-es-2023_0018",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Coris Pampalca",
+    "type": "entidad",
+    "chunk_id": "huancavelica-es-2023_0018",
+    "province": "huancavelica"
+  },
+  {
+    "question": "¿Qué incluye la salida de un día a Sacsamarca y Santa Bárbara?",
+    "type": "directa",
+    "chunk_id": "huancavelica-es-2023_0004",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Busco una ruta corta que combine un pueblo serrano y una mina antigua, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "huancavelica-es-2023_0004",
+    "province": "huancavelica"
+  },
+  {
+    "question": "ruta de lagunas pultocc y choclococha",
+    "type": "coloquial",
+    "chunk_id": "huancavelica-es-2023_0004",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Sacsamarca Santa Bárbara",
+    "type": "entidad",
+    "chunk_id": "huancavelica-es-2023_0004",
+    "province": "huancavelica"
+  },
+  {
+    "question": "¿Dónde está el parque con esculturas en Bellavista de Lircay?",
+    "type": "directa",
+    "chunk_id": "huancavelica-es-2023_0013",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Quiero un sitio con figuras de piedra que reflejen la vida cotidiana de un pueblo andino, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "huancavelica-es-2023_0013",
+    "province": "huancavelica"
+  },
+  {
+    "question": "parque de la identidad anqara",
+    "type": "coloquial",
+    "chunk_id": "huancavelica-es-2023_0013",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Lircay parque identidad",
+    "type": "entidad",
+    "chunk_id": "huancavelica-es-2023_0013",
+    "province": "huancavelica"
+  },
+  {
+    "question": "¿Cuál es el teléfono de iPERÚ para pedir ayuda al turista?",
+    "type": "directa",
+    "chunk_id": "huancavelica-es-2023_0020",
+    "province": "huancavelica"
+  },
+  {
+    "question": "Necesito el contacto oficial para consultas turísticas y orientación en el viaje, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "huancavelica-es-2023_0020",
+    "province": "huancavelica"
+  },
+  {
+    "question": "telefono de iperu",
+    "type": "coloquial",
+    "chunk_id": "huancavelica-es-2023_0020",
+    "province": "huancavelica"
+  },
+  {
+    "question": "iPERÚ teléfono",
+    "type": "entidad",
+    "chunk_id": "huancavelica-es-2023_0020",
+    "province": "huancavelica"
+  },
+  {
+    "question": "¿A qué hora abre y cierra las aguas termales de Lauricocha?",
+    "type": "directa",
+    "chunk_id": "huanuco-es-2023_0018",
+    "province": "huanuco"
+  },
+  {
+    "question": "baños del inca lauricocha",
+    "type": "coloquial",
+    "chunk_id": "huanuco-es-2023_0018",
+    "province": "huanuco"
+  },
+  {
+    "question": "Lauricocha horarios",
+    "type": "entidad",
+    "chunk_id": "huanuco-es-2023_0018",
+    "province": "huanuco"
+  },
+  {
+    "question": "¿Cuánto queda el puente Calicanto de la Plaza de Armas?",
+    "type": "directa",
+    "chunk_id": "huanuco-es-2023_0010",
+    "province": "huanuco"
+  },
+  {
+    "question": "Quiero un puente de piedra con miradores que une dos distritos sobre un río, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "huanuco-es-2023_0010",
+    "province": "huanuco"
+  },
+  {
+    "question": "puente calicanto huanuco",
+    "type": "coloquial",
+    "chunk_id": "huanuco-es-2023_0010",
+    "province": "huanuco"
+  },
+  {
+    "question": "Puente Calicanto",
+    "type": "entidad",
+    "chunk_id": "huanuco-es-2023_0010",
+    "province": "huanuco"
+  },
+  {
+    "question": "¿A qué distancia está Tantamayo desde Huánuco?",
+    "type": "directa",
+    "chunk_id": "huanuco-es-2023_0021",
+    "province": "huanuco"
+  },
+  {
+    "question": "Busco un conjunto de construcciones previas a los incas con varias alturas, ¿dónde queda?",
+    "type": "indirecta",
+    "chunk_id": "huanuco-es-2023_0021",
+    "province": "huanuco"
+  },
+  {
+    "question": "tantamayo horario",
+    "type": "coloquial",
+    "chunk_id": "huanuco-es-2023_0021",
+    "province": "huanuco"
+  },
+  {
+    "question": "Tantamayo",
+    "type": "entidad",
+    "chunk_id": "huanuco-es-2023_0021",
+    "province": "huanuco"
+  },
+  {
+    "question": "¿Cuándo se puede entrar a Huánuco Pampa?",
+    "type": "directa",
+    "chunk_id": "huanuco-es-2023_0020",
+    "province": "huanuco"
+  },
+  {
+    "question": "Quiero un centro inca con una gran plaza ceremonial y fiesta solar en julio, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "huanuco-es-2023_0020",
+    "province": "huanuco"
+  },
+  {
+    "question": "huanuco pampa ingreso boleto",
+    "type": "coloquial",
+    "chunk_id": "huanuco-es-2023_0020",
+    "province": "huanuco"
+  },
+  {
+    "question": "Huánuco Pampa",
+    "type": "entidad",
+    "chunk_id": "huanuco-es-2023_0020",
+    "province": "huanuco"
+  },
+  {
+    "question": "¿Qué ofrece Pichgacocha para pasar el día?",
+    "type": "directa",
+    "chunk_id": "huanuco-es-2023_0012",
+    "province": "huanuco"
+  },
+  {
+    "question": "Busco varias lagunas altas unidas por quebradas para navegar y pescar, ¿cuáles son?",
+    "type": "indirecta",
+    "chunk_id": "huanuco-es-2023_0012",
+    "province": "huanuco"
+  },
+  {
+    "question": "lagunas pichgacocha",
+    "type": "coloquial",
+    "chunk_id": "huanuco-es-2023_0012",
+    "province": "huanuco"
+  },
+  {
+    "question": "Pichgacocha",
+    "type": "entidad",
+    "chunk_id": "huanuco-es-2023_0012",
+    "province": "huanuco"
+  },
+  {
+    "question": "¿Qué actividades se pueden hacer en Montepotrero?",
+    "type": "directa",
+    "chunk_id": "huanuco-es-2023_0019",
+    "province": "huanuco"
+  },
+  {
+    "question": "Quiero un bosque de neblina con muchas aves y orquídeas para una salida de aventura, ¿dónde queda?",
+    "type": "indirecta",
+    "chunk_id": "huanuco-es-2023_0019",
+    "province": "huanuco"
+  },
+  {
+    "question": "bosque montepotrero",
+    "type": "coloquial",
+    "chunk_id": "huanuco-es-2023_0019",
+    "province": "huanuco"
+  },
+  {
+    "question": "Montepotrero aves",
+    "type": "entidad",
+    "chunk_id": "huanuco-es-2023_0019",
+    "province": "huanuco"
+  },
+  {
+    "question": "Busco un lugar ligado a curanderos y una palmera extraña, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "ica-es-2025_0007",
+    "province": "ica"
+  },
+  {
+    "question": "como llego a cachiche desde ica",
+    "type": "coloquial",
+    "chunk_id": "ica-es-2025_0007",
+    "province": "ica"
+  },
+  {
+    "question": "Cachiche",
+    "type": "entidad",
+    "chunk_id": "ica-es-2025_0007",
+    "province": "ica"
+  },
+  {
+    "question": "¿Con qué se prepara la carapulcra iqueña?",
+    "type": "directa",
+    "chunk_id": "ica-es-2025_0023",
+    "province": "ica"
+  },
+  {
+    "question": "¿Qué comidas y dulces son típicos de esa región del sur chico?",
+    "type": "indirecta",
+    "chunk_id": "ica-es-2025_0023",
+    "province": "ica"
+  },
+  {
+    "question": "que dulces tipicos hay en ica",
+    "type": "coloquial",
+    "chunk_id": "ica-es-2025_0023",
+    "province": "ica"
+  },
+  {
+    "question": "morusa iqueña",
+    "type": "entidad",
+    "chunk_id": "ica-es-2025_0023",
+    "province": "ica"
+  },
+  {
+    "question": "¿Cuánto se tarda en ir de Ica a Nasca?",
+    "type": "directa",
+    "chunk_id": "ica-es-2025_0003",
+    "province": "ica"
+  },
+  {
+    "question": "¿A qué ciudad vecina de Ica se llega más rápido por carretera?",
+    "type": "indirecta",
+    "chunk_id": "ica-es-2025_0003",
+    "province": "ica"
+  },
+  {
+    "question": "cuanto demora ir a nasca desde ica",
+    "type": "coloquial",
+    "chunk_id": "ica-es-2025_0003",
+    "province": "ica"
+  },
+  {
+    "question": "Ica a Nasca",
+    "type": "entidad",
+    "chunk_id": "ica-es-2025_0003",
+    "province": "ica"
+  },
+  {
+    "question": "¿Cuántas horas toma viajar de Lima a Nasca por tierra?",
+    "type": "directa",
+    "chunk_id": "ica-es-2025_0002",
+    "province": "ica"
+  },
+  {
+    "question": "¿Qué destino de esa región queda más lejos saliendo desde Lima?",
+    "type": "indirecta",
+    "chunk_id": "ica-es-2025_0002",
+    "province": "ica"
+  },
+  {
+    "question": "como llegar a nasca desde lima en bus",
+    "type": "coloquial",
+    "chunk_id": "ica-es-2025_0002",
+    "province": "ica"
+  },
+  {
+    "question": "Lima a Nasca",
+    "type": "entidad",
+    "chunk_id": "ica-es-2025_0002",
+    "province": "ica"
+  },
+  {
+    "question": "¿Dónde queda la bodega Tacama y qué horario tiene?",
+    "type": "directa",
+    "chunk_id": "ica-es-2025_0008",
+    "province": "ica"
+  },
+  {
+    "question": "Busco una visita a una viña cercana con entrada paga, ¿cuál me conviene?",
+    "type": "indirecta",
+    "chunk_id": "ica-es-2025_0008",
+    "province": "ica"
+  },
+  {
+    "question": "horario de tacama en iqa",
+    "type": "coloquial",
+    "chunk_id": "ica-es-2025_0008",
+    "province": "ica"
+  },
+  {
+    "question": "Tacama horario",
+    "type": "entidad",
+    "chunk_id": "ica-es-2025_0008",
+    "province": "ica"
+  },
+  {
+    "question": "¿A qué distancia está Huayurí de Palpa?",
+    "type": "directa",
+    "chunk_id": "ica-es-2025_0010",
+    "province": "ica"
+  },
+  {
+    "question": "Busco un complejo escondido entre cerros con calles angostas, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "ica-es-2025_0010",
+    "province": "ica"
+  },
+  {
+    "question": "horario de huayuri palpa",
+    "type": "coloquial",
+    "chunk_id": "ica-es-2025_0010",
+    "province": "ica"
+  },
+  {
+    "question": "Huayurí ingreso",
+    "type": "entidad",
+    "chunk_id": "ica-es-2025_0010",
+    "province": "ica"
+  },
+  {
+    "question": "¿Cuánto se demora ir de Lima a Tarma en auto?",
+    "type": "directa",
+    "chunk_id": "junin-es-2025_0002",
+    "province": "junin"
+  },
+  {
+    "question": "¿Qué ciudad de la sierra central queda a unas seis horas desde la capital?",
+    "type": "indirecta",
+    "chunk_id": "junin-es-2025_0002",
+    "province": "junin"
+  },
+  {
+    "question": "cuanto se tarda ir a jauja desde lima",
+    "type": "coloquial",
+    "chunk_id": "junin-es-2025_0002",
+    "province": "junin"
+  },
+  {
+    "question": "Lima a Jauja",
+    "type": "entidad",
+    "chunk_id": "junin-es-2025_0002",
+    "province": "junin"
+  },
+  {
+    "question": "¿A qué distancia está el convento de Ocopa desde Concepción?",
+    "type": "directa",
+    "chunk_id": "junin-es-2025_0010",
+    "province": "junin"
+  },
+  {
+    "question": "Busco un monasterio con biblioteca grande y museo natural, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "junin-es-2025_0010",
+    "province": "junin"
+  },
+  {
+    "question": "donde queda ocopa cerca de concepcion",
+    "type": "coloquial",
+    "chunk_id": "junin-es-2025_0010",
+    "province": "junin"
+  },
+  {
+    "question": "Santa Rosa de Ocopa",
+    "type": "entidad",
+    "chunk_id": "junin-es-2025_0010",
+    "province": "junin"
+  },
+  {
+    "question": "¿Cuánto hay de Huancayo a La Oroya por carretera?",
+    "type": "directa",
+    "chunk_id": "junin-es-2025_0005",
+    "province": "junin"
+  },
+  {
+    "question": "¿Qué destino interprovincial desde Huancayo queda a unas dos horas?",
+    "type": "indirecta",
+    "chunk_id": "junin-es-2025_0005",
+    "province": "junin"
+  },
+  {
+    "question": "distancia de huancayo a la oroya",
+    "type": "coloquial",
+    "chunk_id": "junin-es-2025_0005",
+    "province": "junin"
+  },
+  {
+    "question": "Huancayo La Oroya",
+    "type": "entidad",
+    "chunk_id": "junin-es-2025_0005",
+    "province": "junin"
+  },
+  {
+    "question": "¿Cuánto demora llegar a pie a la catarata El Tirol?",
+    "type": "directa",
+    "chunk_id": "junin-es-2025_0016",
+    "province": "junin"
+  },
+  {
+    "question": "Busco una caída de agua con sendero y orquídeas, ¿cuál recomiendan?",
+    "type": "indirecta",
+    "chunk_id": "junin-es-2025_0016",
+    "province": "junin"
+  },
+  {
+    "question": "como llegar a el tirol san ramon",
+    "type": "coloquial",
+    "chunk_id": "junin-es-2025_0016",
+    "province": "junin"
+  },
+  {
+    "question": "El Tirol",
+    "type": "entidad",
+    "chunk_id": "junin-es-2025_0016",
+    "province": "junin"
+  },
+  {
+    "question": "¿Qué significa Ñahuinpuquio en quechua?",
+    "type": "directa",
+    "chunk_id": "junin-es-2025_0011",
+    "province": "junin"
+  },
+  {
+    "question": "Busco una laguna con islas flotantes y paseos en bote cerca de Chupaca, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "junin-es-2025_0011",
+    "province": "junin"
+  },
+  {
+    "question": "laguna ñahuinpuquio quechua",
+    "type": "coloquial",
+    "chunk_id": "junin-es-2025_0011",
+    "province": "junin"
+  },
+  {
+    "question": "Ñahuinpuquio",
+    "type": "entidad",
+    "chunk_id": "junin-es-2025_0011",
+    "province": "junin"
+  },
+  {
+    "question": "¿A qué hora abre Tarmatambo los domingos?",
+    "type": "directa",
+    "chunk_id": "junin-es-2025_0019",
+    "province": "junin"
+  },
+  {
+    "question": "Busco un sitio inca atravesado por el camino antiguo y con andenes, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "junin-es-2025_0019",
+    "province": "junin"
+  },
+  {
+    "question": "horario de tarmatambo",
+    "type": "coloquial",
+    "chunk_id": "junin-es-2025_0019",
+    "province": "junin"
+  },
+  {
+    "question": "Tarmatambo horario",
+    "type": "entidad",
+    "chunk_id": "junin-es-2025_0019",
+    "province": "junin"
+  },
+  {
+    "question": "¿Cuánto demora ir de Trujillo a Virú en auto?",
+    "type": "directa",
+    "chunk_id": "la_libertad-es-2023_0021",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Busco una playa tranquila cerca de Trujillo para hacer deportes y acampar, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "la_libertad-es-2023_0021",
+    "province": "la_libertad"
+  },
+  {
+    "question": "playa tranquila cerca de trujillo para acampar",
+    "type": "coloquial",
+    "chunk_id": "la_libertad-es-2023_0021",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Puerto Morín",
+    "type": "entidad",
+    "chunk_id": "la_libertad-es-2023_0021",
+    "province": "la_libertad"
+  },
+  {
+    "question": "¿A qué distancia está Cascas desde Trujillo?",
+    "type": "directa",
+    "chunk_id": "la_libertad-es-2023_0027",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Busco una zona de viñedos con clima templado todo el año, ¿cuál me sugieren?",
+    "type": "indirecta",
+    "chunk_id": "la_libertad-es-2023_0027",
+    "province": "la_libertad"
+  },
+  {
+    "question": "donde queda cascas y sus bodegas",
+    "type": "coloquial",
+    "chunk_id": "la_libertad-es-2023_0027",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Cascas viñedos",
+    "type": "entidad",
+    "chunk_id": "la_libertad-es-2023_0027",
+    "province": "la_libertad"
+  },
+  {
+    "question": "¿Qué horario tiene la Casa de la Identidad Regional?",
+    "type": "directa",
+    "chunk_id": "la_libertad-es-2023_0012",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Busco una plazuela histórica con una pileta barroca y una portada conmemorativa, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "la_libertad-es-2023_0012",
+    "province": "la_libertad"
+  },
+  {
+    "question": "horario casa de la identidad regional",
+    "type": "coloquial",
+    "chunk_id": "la_libertad-es-2023_0012",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Casa de la Identidad Regional",
+    "type": "entidad",
+    "chunk_id": "la_libertad-es-2023_0012",
+    "province": "la_libertad"
+  },
+  {
+    "question": "¿Qué lugares de la ruta de dos días se incluyen en Sánchez Carrión?",
+    "type": "directa",
+    "chunk_id": "la_libertad-es-2023_0005",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Busco un plan de dos jornadas con sitios andinos, laguna y aguas calientes, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "la_libertad-es-2023_0005",
+    "province": "la_libertad"
+  },
+  {
+    "question": "ruta de 2 dias en sánchez carrion",
+    "type": "coloquial",
+    "chunk_id": "la_libertad-es-2023_0005",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Sánchez Carrión ruta",
+    "type": "entidad",
+    "chunk_id": "la_libertad-es-2023_0005",
+    "province": "la_libertad"
+  },
+  {
+    "question": "¿A qué hora abre Marcahuamachuco todos los días?",
+    "type": "directa",
+    "chunk_id": "la_libertad-es-2023_0028",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Quiero visitar una fortaleza andina muy grande cerca de Huamachuco, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "la_libertad-es-2023_0028",
+    "province": "la_libertad"
+  },
+  {
+    "question": "marcahuamachuco horario hoy",
+    "type": "coloquial",
+    "chunk_id": "la_libertad-es-2023_0028",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Marcahuamachuco horario",
+    "type": "entidad",
+    "chunk_id": "la_libertad-es-2023_0028",
+    "province": "la_libertad"
+  },
+  {
+    "question": "¿En qué horario atiende la casa museo de César Vallejo?",
+    "type": "directa",
+    "chunk_id": "la_libertad-es-2023_0025",
+    "province": "la_libertad"
+  },
+  {
+    "question": "Busco la casa natal de un poeta peruano muy famoso convertida en museo, ¿dónde queda?",
+    "type": "indirecta",
+    "chunk_id": "la_libertad-es-2023_0025",
+    "province": "la_libertad"
+  },
+  {
+    "question": "casa museo césar vallejo horario",
+    "type": "coloquial",
+    "chunk_id": "la_libertad-es-2023_0025",
+    "province": "la_libertad"
+  },
+  {
+    "question": "César Vallejo museo",
+    "type": "entidad",
+    "chunk_id": "la_libertad-es-2023_0025",
+    "province": "la_libertad"
+  },
+  {
+    "question": "¿En qué mes se celebra la fiesta de Motupe?",
+    "type": "directa",
+    "chunk_id": "lambayeque-es-2023_0008",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Quiero saber qué fiesta religiosa importante cae en agosto, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "lambayeque-es-2023_0008",
+    "province": "lambayeque"
+  },
+  {
+    "question": "fiesta de motupe fecha",
+    "type": "coloquial",
+    "chunk_id": "lambayeque-es-2023_0008",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Santísima Cruz Motupe",
+    "type": "entidad",
+    "chunk_id": "lambayeque-es-2023_0008",
+    "province": "lambayeque"
+  },
+  {
+    "question": "¿Cuál es el horario de visita del valle de las pirámides?",
+    "type": "directa",
+    "chunk_id": "lambayeque-es-2023_0023",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Busco un sitio con varias pirámides antiguas, museo y degustación de comida regional, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "lambayeque-es-2023_0023",
+    "province": "lambayeque"
+  },
+  {
+    "question": "valle de las piramides horario",
+    "type": "coloquial",
+    "chunk_id": "lambayeque-es-2023_0023",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Valle de las Pirámides",
+    "type": "entidad",
+    "chunk_id": "lambayeque-es-2023_0023",
+    "province": "lambayeque"
+  },
+  {
+    "question": "¿Dónde queda la basílica de San Antonio de Padua en Chiclayo?",
+    "type": "directa",
+    "chunk_id": "lambayeque-es-2023_0010",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Busco un templo neocolonial con horarios partidos para misa y visita, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "lambayeque-es-2023_0010",
+    "province": "lambayeque"
+  },
+  {
+    "question": "basilica san antonio chiclayo horario",
+    "type": "coloquial",
+    "chunk_id": "lambayeque-es-2023_0010",
+    "province": "lambayeque"
+  },
+  {
+    "question": "San Antonio de Padua Chiclayo",
+    "type": "entidad",
+    "chunk_id": "lambayeque-es-2023_0010",
+    "province": "lambayeque"
+  },
+  {
+    "question": "¿Cuánto se tarda en viajar a Chiclayo desde Piura?",
+    "type": "directa",
+    "chunk_id": "lambayeque-es-2023_0003",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Si salgo de la costa norte, ¿desde qué ciudad llego más rápido a Chiclayo?",
+    "type": "indirecta",
+    "chunk_id": "lambayeque-es-2023_0003",
+    "province": "lambayeque"
+  },
+  {
+    "question": "piura a chiclayo tiempo",
+    "type": "coloquial",
+    "chunk_id": "lambayeque-es-2023_0003",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Chiclayo desde Piura",
+    "type": "entidad",
+    "chunk_id": "lambayeque-es-2023_0003",
+    "province": "lambayeque"
+  },
+  {
+    "question": "¿Qué artículos de paja venden en Monsefú y Eten?",
+    "type": "directa",
+    "chunk_id": "lambayeque-es-2023_0007",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Busco un lugar famoso por tejidos y bordados artesanales, ¿dónde sería?",
+    "type": "indirecta",
+    "chunk_id": "lambayeque-es-2023_0007",
+    "province": "lambayeque"
+  },
+  {
+    "question": "artesania de monsefu y eten",
+    "type": "coloquial",
+    "chunk_id": "lambayeque-es-2023_0007",
+    "province": "lambayeque"
+  },
+  {
+    "question": "artesanía Monsefú Eten",
+    "type": "entidad",
+    "chunk_id": "lambayeque-es-2023_0007",
+    "province": "lambayeque"
+  },
+  {
+    "question": "¿A qué horas se puede ver la pava aliblanca en Laquipampa?",
+    "type": "directa",
+    "chunk_id": "lambayeque-es-2023_0019",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Quiero ir a un refugio para observar un ave muy rara en el norte, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "lambayeque-es-2023_0019",
+    "province": "lambayeque"
+  },
+  {
+    "question": "laquipampa pava aliblanca",
+    "type": "coloquial",
+    "chunk_id": "lambayeque-es-2023_0019",
+    "province": "lambayeque"
+  },
+  {
+    "question": "Laquipampa horario",
+    "type": "entidad",
+    "chunk_id": "lambayeque-es-2023_0019",
+    "province": "lambayeque"
+  },
+  {
+    "question": "¿Cuál es el horario del museo de sitio Arturo Jiménez Borja en Ate?",
+    "type": "directa",
+    "chunk_id": "lima_callao-es-2019_0049",
+    "province": "lima_callao"
+  },
+  {
+    "question": "Busco un antiguo centro inca con muchísimos entierros y restos funerarios, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "lima_callao-es-2019_0049",
+    "province": "lima_callao"
+  },
+  {
+    "question": "puruchuco horario entrada",
+    "type": "coloquial",
+    "chunk_id": "lima_callao-es-2019_0049",
+    "province": "lima_callao"
+  },
+  {
+    "question": "Puruchuco museo",
+    "type": "entidad",
+    "chunk_id": "lima_callao-es-2019_0049",
+    "province": "lima_callao"
+  },
+  {
+    "question": "¿Cuánto se tarda en llegar a Pachacamac por la Panamericana Sur?",
+    "type": "directa",
+    "chunk_id": "lima_rutas_cortas-es-2020_0042",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Busco un plan corto al sur de Lima para una sola jornada, ¿qué opción me conviene?",
+    "type": "indirecta",
+    "chunk_id": "lima_rutas_cortas-es-2020_0042",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "como llego a pachacamac desde lima",
+    "type": "coloquial",
+    "chunk_id": "lima_rutas_cortas-es-2020_0042",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Pachacamac llegada",
+    "type": "entidad",
+    "chunk_id": "lima_rutas_cortas-es-2020_0042",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "¿Cuánto demora el viaje total hasta Huancaya desde Lima?",
+    "type": "directa",
+    "chunk_id": "lima_rutas_cortas-es-2020_0046",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Quiero un pueblo andino con canales de riego y andenes activos, ¿cuál sería?",
+    "type": "indirecta",
+    "chunk_id": "lima_rutas_cortas-es-2020_0046",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "como ir a huancaya desde lima",
+    "type": "coloquial",
+    "chunk_id": "lima_rutas_cortas-es-2020_0046",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Laraos andenes",
+    "type": "entidad",
+    "chunk_id": "lima_rutas_cortas-es-2020_0046",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "¿Desde dónde sale la caminata a Marcahuasi?",
+    "type": "directa",
+    "chunk_id": "lima_rutas_cortas-es-2020_0037",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Busco una meseta alta con rocas raras y frío fuerte para pasar la noche, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "lima_rutas_cortas-es-2020_0037",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "como llegar a marcahuasi",
+    "type": "coloquial",
+    "chunk_id": "lima_rutas_cortas-es-2020_0037",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Marcahuasi caminata",
+    "type": "entidad",
+    "chunk_id": "lima_rutas_cortas-es-2020_0037",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "¿Qué actividades incluye la estadía en Eco Truly Park?",
+    "type": "directa",
+    "chunk_id": "lima_rutas_cortas-es-2020_0015",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Quiero un sitio de retiro con yoga, comida sin carne y talleres, ¿dónde queda?",
+    "type": "indirecta",
+    "chunk_id": "lima_rutas_cortas-es-2020_0015",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "eco truly park donde queda",
+    "type": "coloquial",
+    "chunk_id": "lima_rutas_cortas-es-2020_0015",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Eco Truly Park",
+    "type": "entidad",
+    "chunk_id": "lima_rutas_cortas-es-2020_0015",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "¿Qué playas destacan entre el kilómetro 40 y 53 al sur de Lima?",
+    "type": "directa",
+    "chunk_id": "lima_rutas_cortas-es-2020_0045",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Busco playas para pasar el día, hacer surf y salir por la noche cerca de la capital, ¿cuáles son?",
+    "type": "indirecta",
+    "chunk_id": "lima_rutas_cortas-es-2020_0045",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "playas del sur para surf",
+    "type": "coloquial",
+    "chunk_id": "lima_rutas_cortas-es-2020_0045",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Playas del Sur",
+    "type": "entidad",
+    "chunk_id": "lima_rutas_cortas-es-2020_0045",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "¿Qué tamaño tiene la estatua del Cristo Redentor de Chorrillos?",
+    "type": "directa",
+    "chunk_id": "lima_rutas_cortas-es-2020_0021",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Quiero un lugar costero con ruinas antiquísimas y un mirador sobre el mar, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "lima_rutas_cortas-es-2020_0021",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "caral que hay",
+    "type": "coloquial",
+    "chunk_id": "lima_rutas_cortas-es-2020_0021",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "Ciudad Sagrada de Caral",
+    "type": "entidad",
+    "chunk_id": "lima_rutas_cortas-es-2020_0021",
+    "province": "lima_rutas_cortas"
+  },
+  {
+    "question": "¿En qué meses sube el nivel del agua en Loreto?",
+    "type": "directa",
+    "chunk_id": "loreto-es-2023_0001",
+    "province": "loreto"
+  },
+  {
+    "question": "Quiero viajar a la Amazonía cuando haya más ríos crecidos y playas fluviales, ¿qué época me conviene?",
+    "type": "indirecta",
+    "chunk_id": "loreto-es-2023_0001",
+    "province": "loreto"
+  },
+  {
+    "question": "cuando llueve mas en loreto",
+    "type": "coloquial",
+    "chunk_id": "loreto-es-2023_0001",
+    "province": "loreto"
+  },
+  {
+    "question": "Loreto clima",
+    "type": "entidad",
+    "chunk_id": "loreto-es-2023_0001",
+    "province": "loreto"
+  },
+  {
+    "question": "¿Cuál es el horario del Museo Iquitos los sábados?",
+    "type": "directa",
+    "chunk_id": "loreto-es-2023_0012",
+    "province": "loreto"
+  },
+  {
+    "question": "museo iquitos horario",
+    "type": "coloquial",
+    "chunk_id": "loreto-es-2023_0012",
+    "province": "loreto"
+  },
+  {
+    "question": "Museo Iquitos",
+    "type": "entidad",
+    "chunk_id": "loreto-es-2023_0012",
+    "province": "loreto"
+  },
+  {
+    "question": "¿Cuál es el número de IPERÚ Iquitos?",
+    "type": "directa",
+    "chunk_id": "loreto-es-2023_0025",
+    "province": "loreto"
+  },
+  {
+    "question": "Necesito una oficina para consultar horarios y pedir información turística en Iquitos, ¿a dónde llamo?",
+    "type": "indirecta",
+    "chunk_id": "loreto-es-2023_0025",
+    "province": "loreto"
+  },
+  {
+    "question": "telefono iperu iquitos",
+    "type": "coloquial",
+    "chunk_id": "loreto-es-2023_0025",
+    "province": "loreto"
+  },
+  {
+    "question": "IPERÚ Iquitos",
+    "type": "entidad",
+    "chunk_id": "loreto-es-2023_0025",
+    "province": "loreto"
+  },
+  {
+    "question": "¿Cómo se llega a la comunidad Bora de San Andrés desde Bellavista Nanay?",
+    "type": "directa",
+    "chunk_id": "loreto-es-2023_0015",
+    "province": "loreto"
+  },
+  {
+    "question": "Busco un poblado ribereño donde pueda conocer mitos, danzas y artesanía amazónica, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "loreto-es-2023_0015",
+    "province": "loreto"
+  },
+  {
+    "question": "comunidad bora san andres",
+    "type": "coloquial",
+    "chunk_id": "loreto-es-2023_0015",
+    "province": "loreto"
+  },
+  {
+    "question": "Bora de San Andrés",
+    "type": "entidad",
+    "chunk_id": "loreto-es-2023_0015",
+    "province": "loreto"
+  },
+  {
+    "question": "¿A qué hora conviene ir al mariposario de Padre Cocha?",
+    "type": "directa",
+    "chunk_id": "loreto-es-2023_0017",
+    "province": "loreto"
+  },
+  {
+    "question": "Busco un centro de mariposas y rescate de fauna cerca de Iquitos, ¿dónde queda?",
+    "type": "indirecta",
+    "chunk_id": "loreto-es-2023_0017",
+    "province": "loreto"
+  },
+  {
+    "question": "pilpintuwasi horario",
+    "type": "coloquial",
+    "chunk_id": "loreto-es-2023_0017",
+    "province": "loreto"
+  },
+  {
+    "question": "Pilpintuwasi mariposas",
+    "type": "entidad",
+    "chunk_id": "loreto-es-2023_0017",
+    "province": "loreto"
+  },
+  {
+    "question": "¿Cuánto tarda el mototaxi desde Iquitos hasta Bellavista Nanay?",
+    "type": "directa",
+    "chunk_id": "loreto-es-2023_0013",
+    "province": "loreto"
+  },
+  {
+    "question": "Quiero un muelle para tomar embarcaciones y ver dónde se juntan dos ríos, ¿cuál me sirve?",
+    "type": "indirecta",
+    "chunk_id": "loreto-es-2023_0013",
+    "province": "loreto"
+  },
+  {
+    "question": "bellavista nanay como llegar",
+    "type": "coloquial",
+    "chunk_id": "loreto-es-2023_0013",
+    "province": "loreto"
+  },
+  {
+    "question": "Bellavista Nanay",
+    "type": "entidad",
+    "chunk_id": "loreto-es-2023_0013",
+    "province": "loreto"
+  },
+  {
+    "question": "¿Cuántas horas son de Cusco a Puerto Maldonado por tierra?",
+    "type": "directa",
+    "chunk_id": "madre_de_dios-es-2023_0003",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Busco la ruta terrestre más corta para llegar a Puerto Maldonado desde Cusco, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "madre_de_dios-es-2023_0003",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "ruta cusco puerto maldonado",
+    "type": "coloquial",
+    "chunk_id": "madre_de_dios-es-2023_0003",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Cusco Puerto Maldonado",
+    "type": "entidad",
+    "chunk_id": "madre_de_dios-es-2023_0003",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "¿Con qué materiales hacen la ropa artesanal en Madre de Dios?",
+    "type": "directa",
+    "chunk_id": "madre_de_dios-es-2023_0007",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Quiero comprar prendas y adornos hechos con recursos de la selva, ¿qué tipo de artesanía ofrecen?",
+    "type": "indirecta",
+    "chunk_id": "madre_de_dios-es-2023_0007",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "artesania con semillas y fibras",
+    "type": "coloquial",
+    "chunk_id": "madre_de_dios-es-2023_0007",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "adornos tallados coco",
+    "type": "entidad",
+    "chunk_id": "madre_de_dios-es-2023_0007",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "¿A qué distancia está Iberia de Puerto Maldonado por la Interoceánica?",
+    "type": "directa",
+    "chunk_id": "madre_de_dios-es-2023_0019",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Busco una ciudad fronteriza con mirador y vista de ríos internacionales, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "madre_de_dios-es-2023_0019",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "i\u001fapari trip frontera",
+    "type": "coloquial",
+    "chunk_id": "madre_de_dios-es-2023_0019",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Ciudad de Iñapari",
+    "type": "entidad",
+    "chunk_id": "madre_de_dios-es-2023_0019",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "¿Desde dónde se accede al Mirador de la Biodiversidad y cuánto tarda el trayecto?",
+    "type": "directa",
+    "chunk_id": "madre_de_dios-es-2023_0011",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Busco un sitio alto para ver el encuentro de dos ríos y la ciudad, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "madre_de_dios-es-2023_0011",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "mirador biodiversidad horario",
+    "type": "coloquial",
+    "chunk_id": "madre_de_dios-es-2023_0011",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Mirador Biodiversidad",
+    "type": "entidad",
+    "chunk_id": "madre_de_dios-es-2023_0011",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "¿Cuál es el número para reservar en la comunidad Kotsimba?",
+    "type": "directa",
+    "chunk_id": "madre_de_dios-es-2023_0020",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Necesito el contacto para pedir permisos de una comunidad nativa en Madre de Dios, ¿me lo dan?",
+    "type": "indirecta",
+    "chunk_id": "madre_de_dios-es-2023_0020",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "telefono kotsimba reservas",
+    "type": "coloquial",
+    "chunk_id": "madre_de_dios-es-2023_0020",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Kotsimba reservas",
+    "type": "entidad",
+    "chunk_id": "madre_de_dios-es-2023_0020",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "¿Cuánto dura el viaje por carretera desde Cusco hasta Atalaya?",
+    "type": "directa",
+    "chunk_id": "madre_de_dios-es-2023_0016",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Quiero entrar a un gran parque amazónico reconocido por la UNESCO, ¿cómo se llega?",
+    "type": "indirecta",
+    "chunk_id": "madre_de_dios-es-2023_0016",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "como llegar al manu por cusco",
+    "type": "coloquial",
+    "chunk_id": "madre_de_dios-es-2023_0016",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "Parque Nacional Manu",
+    "type": "entidad",
+    "chunk_id": "madre_de_dios-es-2023_0016",
+    "province": "madre_de_dios"
+  },
+  {
+    "question": "¿Qué árbol patrimonial famoso se conserva en Poquera, cerca de Ilo?",
+    "type": "directa",
+    "chunk_id": "moquegua-es-2023_0014",
+    "province": "moquegua"
+  },
+  {
+    "question": "olivo patrimonial poquera",
+    "type": "coloquial",
+    "chunk_id": "moquegua-es-2023_0014",
+    "province": "moquegua"
+  },
+  {
+    "question": "Poquera olivo",
+    "type": "entidad",
+    "chunk_id": "moquegua-es-2023_0014",
+    "province": "moquegua"
+  },
+  {
+    "question": "Quiero comprar recuerdos hechos con técnicas locales y materiales del mar, ¿qué ofrecen?",
+    "type": "indirecta",
+    "chunk_id": "moquegua-es-2023_0016",
+    "province": "moquegua"
+  },
+  {
+    "question": "repujado en cobre moquegua",
+    "type": "coloquial",
+    "chunk_id": "moquegua-es-2023_0016",
+    "province": "moquegua"
+  },
+  {
+    "question": "Repujado en Cobre",
+    "type": "entidad",
+    "chunk_id": "moquegua-es-2023_0016",
+    "province": "moquegua"
+  },
+  {
+    "question": "Busco un museo con piezas de culturas preincaicas e incaicas en el centro de la ciudad, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "moquegua-es-2023_0006",
+    "province": "moquegua"
+  },
+  {
+    "question": "museo contisuyo moquegua",
+    "type": "coloquial",
+    "chunk_id": "moquegua-es-2023_0006",
+    "province": "moquegua"
+  },
+  {
+    "question": "Museo Contisuyo",
+    "type": "entidad",
+    "chunk_id": "moquegua-es-2023_0006",
+    "province": "moquegua"
+  },
+  {
+    "question": "Voy a comer platos de mar y de sierra en Moquegua, ¿qué opciones típicas hay?",
+    "type": "indirecta",
+    "chunk_id": "moquegua-es-2023_0017",
+    "province": "moquegua"
+  },
+  {
+    "question": "chupe de camarones moquegua",
+    "type": "coloquial",
+    "chunk_id": "moquegua-es-2023_0017",
+    "province": "moquegua"
+  },
+  {
+    "question": "Chupe de camarones",
+    "type": "entidad",
+    "chunk_id": "moquegua-es-2023_0017",
+    "province": "moquegua"
+  },
+  {
+    "question": "¿Cuánto se tarda en ir de Tacna a Moquegua por carretera?",
+    "type": "directa",
+    "chunk_id": "moquegua-es-2023_0002",
+    "province": "moquegua"
+  },
+  {
+    "question": "Necesito saber el tiempo aproximado para viajar hacia Moquegua desde una ciudad vecina, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "moquegua-es-2023_0002",
+    "province": "moquegua"
+  },
+  {
+    "question": "tacna moquegua 2 horas",
+    "type": "coloquial",
+    "chunk_id": "moquegua-es-2023_0002",
+    "province": "moquegua"
+  },
+  {
+    "question": "Tacna Moquegua",
+    "type": "entidad",
+    "chunk_id": "moquegua-es-2023_0002",
+    "province": "moquegua"
+  },
+  {
+    "question": "¿Qué lugares incluye el circuito de un día por la provincia de Ilo?",
+    "type": "directa",
+    "chunk_id": "moquegua-es-2023_0005",
+    "province": "moquegua"
+  },
+  {
+    "question": "Busco una ruta corta con centro histórico, playas y muelle en la costa de Moquegua, ¿cuál recomiendan?",
+    "type": "indirecta",
+    "chunk_id": "moquegua-es-2023_0005",
+    "province": "moquegua"
+  },
+  {
+    "question": "ruta del vino moquegua",
+    "type": "coloquial",
+    "chunk_id": "moquegua-es-2023_0005",
+    "province": "moquegua"
+  },
+  {
+    "question": "Ruta del Pisco",
+    "type": "entidad",
+    "chunk_id": "moquegua-es-2023_0005",
+    "province": "moquegua"
+  },
+  {
+    "question": "¿Cuál es el correo de iPERÚ para pedir ayuda turística en Pasco?",
+    "type": "directa",
+    "chunk_id": "pasco-es-2023_0023",
+    "province": "pasco"
+  },
+  {
+    "question": "Necesito una oficina oficial para resolver dudas de viaje en Pasco, ¿cuál contacto usan?",
+    "type": "indirecta",
+    "chunk_id": "pasco-es-2023_0023",
+    "province": "pasco"
+  },
+  {
+    "question": "iperu pasco telefono",
+    "type": "coloquial",
+    "chunk_id": "pasco-es-2023_0023",
+    "province": "pasco"
+  },
+  {
+    "question": "DIRCETUR Pasco",
+    "type": "entidad",
+    "chunk_id": "pasco-es-2023_0023",
+    "province": "pasco"
+  },
+  {
+    "question": "¿Dónde quedan los restos de Goñicutac y cómo se llega desde Yanahuanca?",
+    "type": "directa",
+    "chunk_id": "pasco-es-2023_0017",
+    "province": "pasco"
+  },
+  {
+    "question": "Busco unas ruinas con torres y antiguos almacenes cerca de Yanahuanca, ¿cuáles son?",
+    "type": "indirecta",
+    "chunk_id": "pasco-es-2023_0017",
+    "province": "pasco"
+  },
+  {
+    "question": "restos de goñicutac",
+    "type": "coloquial",
+    "chunk_id": "pasco-es-2023_0017",
+    "province": "pasco"
+  },
+  {
+    "question": "Goñicutac Yanahuanca",
+    "type": "entidad",
+    "chunk_id": "pasco-es-2023_0017",
+    "province": "pasco"
+  },
+  {
+    "question": "¿En qué fechas se celebra el Festival Nacional del Café en Villa Rica?",
+    "type": "directa",
+    "chunk_id": "pasco-es-2023_0022",
+    "province": "pasco"
+  },
+  {
+    "question": "Quiero ir a una fiesta cafetera en Pasco durante julio, ¿cuál sería?",
+    "type": "indirecta",
+    "chunk_id": "pasco-es-2023_0022",
+    "province": "pasco"
+  },
+  {
+    "question": "festival del cafe villa rica",
+    "type": "coloquial",
+    "chunk_id": "pasco-es-2023_0022",
+    "province": "pasco"
+  },
+  {
+    "question": "Festival Nacional del Café",
+    "type": "entidad",
+    "chunk_id": "pasco-es-2023_0022",
+    "province": "pasco"
+  },
+  {
+    "question": "¿A qué distancia está la catarata del Río Tigre desde Oxapampa?",
+    "type": "directa",
+    "chunk_id": "pasco-es-2023_0008",
+    "province": "pasco"
+  },
+  {
+    "question": "Busco un salto de agua cerca de una ciudad con herencia europea y cafetales, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "pasco-es-2023_0008",
+    "province": "pasco"
+  },
+  {
+    "question": "catarata rio tigre oxapampa",
+    "type": "coloquial",
+    "chunk_id": "pasco-es-2023_0008",
+    "province": "pasco"
+  },
+  {
+    "question": "Catarata del Río Tigre",
+    "type": "entidad",
+    "chunk_id": "pasco-es-2023_0008",
+    "province": "pasco"
+  },
+  {
+    "question": "¿A qué altura está el complejo de Astobamba y Huarautambo?",
+    "type": "directa",
+    "chunk_id": "pasco-es-2023_0018",
+    "province": "pasco"
+  },
+  {
+    "question": "Quiero visitar un sitio inca con presencia del Qhapaq Ñan y una moneda con su imagen, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "pasco-es-2023_0018",
+    "province": "pasco"
+  },
+  {
+    "question": "huarautambo moneda de 1 sol",
+    "type": "coloquial",
+    "chunk_id": "pasco-es-2023_0018",
+    "province": "pasco"
+  },
+  {
+    "question": "Huarautambo Chinche",
+    "type": "entidad",
+    "chunk_id": "pasco-es-2023_0018",
+    "province": "pasco"
+  },
+  {
+    "question": "¿Qué distancia hay de Villa Rica al Mirador de Villa Rica?",
+    "type": "directa",
+    "chunk_id": "pasco-es-2023_0013",
+    "province": "pasco"
+  },
+  {
+    "question": "Busco un punto panorámico sobre cafetales con vista a una ciudad de selva central, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "pasco-es-2023_0013",
+    "province": "pasco"
+  },
+  {
+    "question": "mirador villa rica la cumbre",
+    "type": "coloquial",
+    "chunk_id": "pasco-es-2023_0013",
+    "province": "pasco"
+  },
+  {
+    "question": "Villa Rica La Cumbre",
+    "type": "entidad",
+    "chunk_id": "pasco-es-2023_0013",
+    "province": "pasco"
+  },
+  {
+    "question": "¿Desde Máncora cuánto se tarda en llegar a El Ñuro en auto?",
+    "type": "directa",
+    "chunk_id": "piura-es-2023_0026",
+    "province": "piura"
+  },
+  {
+    "question": "Busco un sitio para nadar junto a tortugas marinas, ¿cuál me queda mejor?",
+    "type": "indirecta",
+    "chunk_id": "piura-es-2023_0026",
+    "province": "piura"
+  },
+  {
+    "question": "nadar con tortugas en piura",
+    "type": "coloquial",
+    "chunk_id": "piura-es-2023_0026",
+    "province": "piura"
+  },
+  {
+    "question": "El Ñuro tortugas",
+    "type": "entidad",
+    "chunk_id": "piura-es-2023_0026",
+    "province": "piura"
+  },
+  {
+    "question": "¿A qué distancia queda ese bosque seco desde Sullana?",
+    "type": "directa",
+    "chunk_id": "piura-es-2023_0024",
+    "province": "piura"
+  },
+  {
+    "question": "Quiero visitar un bosque seco con mucha vida silvestre y árboles nativos del norte.",
+    "type": "indirecta",
+    "chunk_id": "piura-es-2023_0024",
+    "province": "piura"
+  },
+  {
+    "question": "bosque seco cerca de sullana",
+    "type": "coloquial",
+    "chunk_id": "piura-es-2023_0024",
+    "province": "piura"
+  },
+  {
+    "question": "bosque seco piura",
+    "type": "entidad",
+    "chunk_id": "piura-es-2023_0024",
+    "province": "piura"
+  },
+  {
+    "question": "¿Cuándo debería ir si quiero coincidir con una salida para ver ballenas?",
+    "type": "indirecta",
+    "chunk_id": "piura-es-2023_0008",
+    "province": "piura"
+  },
+  {
+    "question": "cuando empieza la temporada de ballenas",
+    "type": "coloquial",
+    "chunk_id": "piura-es-2023_0008",
+    "province": "piura"
+  },
+  {
+    "question": "ballenas los organos",
+    "type": "entidad",
+    "chunk_id": "piura-es-2023_0008",
+    "province": "piura"
+  },
+  {
+    "question": "¿Qué incluye el recorrido de tres días por las playas de Talara?",
+    "type": "directa",
+    "chunk_id": "piura-es-2023_0005",
+    "province": "piura"
+  },
+  {
+    "question": "Busco una ruta corta que mezcle mar y paseo por un bosque seco.",
+    "type": "indirecta",
+    "chunk_id": "piura-es-2023_0005",
+    "province": "piura"
+  },
+  {
+    "question": "ruta de playas en talara",
+    "type": "coloquial",
+    "chunk_id": "piura-es-2023_0005",
+    "province": "piura"
+  },
+  {
+    "question": "circuito talara",
+    "type": "entidad",
+    "chunk_id": "piura-es-2023_0005",
+    "province": "piura"
+  },
+  {
+    "question": "¿Cuánto demora llegar a la fortaleza desde Catacaos en auto?",
+    "type": "directa",
+    "chunk_id": "piura-es-2023_0017",
+    "province": "piura"
+  },
+  {
+    "question": "Quiero conocer un sitio prehispánico con museo propio y cerca de Catacaos.",
+    "type": "indirecta",
+    "chunk_id": "piura-es-2023_0017",
+    "province": "piura"
+  },
+  {
+    "question": "fortaleza de narihuala",
+    "type": "coloquial",
+    "chunk_id": "piura-es-2023_0017",
+    "province": "piura"
+  },
+  {
+    "question": "Narihualá museo",
+    "type": "entidad",
+    "chunk_id": "piura-es-2023_0017",
+    "province": "piura"
+  },
+  {
+    "question": "¿A cuántos minutos queda la laguna desde Sechura en auto?",
+    "type": "directa",
+    "chunk_id": "piura-es-2023_0016",
+    "province": "piura"
+  },
+  {
+    "question": "Busco un lugar tranquilo para ver aves migratorias y salir en bote.",
+    "type": "indirecta",
+    "chunk_id": "piura-es-2023_0016",
+    "province": "piura"
+  },
+  {
+    "question": "laguna con aves en sechura",
+    "type": "coloquial",
+    "chunk_id": "piura-es-2023_0016",
+    "province": "piura"
+  },
+  {
+    "question": "Laguna Ñapique",
+    "type": "entidad",
+    "chunk_id": "piura-es-2023_0016",
+    "province": "piura"
+  },
+  {
+    "question": "¿Cuánto se demora el viaje por carretera de Lima a Puno?",
+    "type": "directa",
+    "chunk_id": "puno-es-2023_0002",
+    "province": "puno"
+  },
+  {
+    "question": "Necesito saber la ruta terrestre más larga para llegar a Puno desde la capital.",
+    "type": "indirecta",
+    "chunk_id": "puno-es-2023_0002",
+    "province": "puno"
+  },
+  {
+    "question": "via limeña a puno",
+    "type": "coloquial",
+    "chunk_id": "puno-es-2023_0002",
+    "province": "puno"
+  },
+  {
+    "question": "Lima Puno",
+    "type": "entidad",
+    "chunk_id": "puno-es-2023_0002",
+    "province": "puno"
+  },
+  {
+    "question": "¿A qué altura está la capital de Puno?",
+    "type": "directa",
+    "chunk_id": "puno-es-2023_0001",
+    "province": "puno"
+  },
+  {
+    "question": "Busco una región andina pegada a Bolivia y con un lago muy alto.",
+    "type": "indirecta",
+    "chunk_id": "puno-es-2023_0001",
+    "province": "puno"
+  },
+  {
+    "question": "puno a que altura esta",
+    "type": "coloquial",
+    "chunk_id": "puno-es-2023_0001",
+    "province": "puno"
+  },
+  {
+    "question": "Puno altitud",
+    "type": "entidad",
+    "chunk_id": "puno-es-2023_0001",
+    "province": "puno"
+  },
+  {
+    "question": "Quiero una escapada corta que combine lago, islas y pueblos tradicionales.",
+    "type": "indirecta",
+    "chunk_id": "puno-es-2023_0005",
+    "province": "puno"
+  },
+  {
+    "question": "tour al lago titicaca",
+    "type": "coloquial",
+    "chunk_id": "puno-es-2023_0005",
+    "province": "puno"
+  },
+  {
+    "question": "Uros Titino",
+    "type": "entidad",
+    "chunk_id": "puno-es-2023_0005",
+    "province": "puno"
+  },
+  {
+    "question": "¿En qué calle queda el Museo Municipal Carlos Dreyer?",
+    "type": "directa",
+    "chunk_id": "puno-es-2023_0006",
+    "province": "puno"
+  },
+  {
+    "question": "Busco un museo puneño con piezas antiguas de metales, textiles y cerámica.",
+    "type": "indirecta",
+    "chunk_id": "puno-es-2023_0006",
+    "province": "puno"
+  },
+  {
+    "question": "museo dreyer en puno",
+    "type": "coloquial",
+    "chunk_id": "puno-es-2023_0006",
+    "province": "puno"
+  },
+  {
+    "question": "Carlos Dreyer",
+    "type": "entidad",
+    "chunk_id": "puno-es-2023_0006",
+    "province": "puno"
+  },
+  {
+    "question": "¿A cuántas cuadras está Huajsapata de la Plaza de Armas?",
+    "type": "directa",
+    "chunk_id": "puno-es-2023_0007",
+    "province": "puno"
+  },
+  {
+    "question": "Quiero un mirador con vista a la ciudad y una escultura de un fundador inca.",
+    "type": "indirecta",
+    "chunk_id": "puno-es-2023_0007",
+    "province": "puno"
+  },
+  {
+    "question": "mirador huajsapata puno",
+    "type": "coloquial",
+    "chunk_id": "puno-es-2023_0007",
+    "province": "puno"
+  },
+  {
+    "question": "Huajsapata Manco Cápac",
+    "type": "entidad",
+    "chunk_id": "puno-es-2023_0007",
+    "province": "puno"
+  },
+  {
+    "question": "¿Qué opciones hay para ver vicuñas y alpacas cerca de Putina?",
+    "type": "directa",
+    "chunk_id": "puno-es-2023_0015",
+    "province": "puno"
+  },
+  {
+    "question": "Busco termas curativas y un lugar donde se observen camélidos andinos.",
+    "type": "indirecta",
+    "chunk_id": "puno-es-2023_0015",
+    "province": "puno"
+  },
+  {
+    "question": "putina termas y vicuñas",
+    "type": "coloquial",
+    "chunk_id": "puno-es-2023_0015",
+    "province": "puno"
+  },
+  {
+    "question": "Putina termales",
+    "type": "entidad",
+    "chunk_id": "puno-es-2023_0015",
+    "province": "puno"
+  },
+  {
+    "question": "¿Cuánto tarda el viaje de Tarapoto a Lamas en auto?",
+    "type": "directa",
+    "chunk_id": "san_martin-es-2023_0021",
+    "province": "san_martin"
+  },
+  {
+    "question": "Busco un pueblo cercano a Tarapoto con mirador, castillo y centro artesanal.",
+    "type": "indirecta",
+    "chunk_id": "san_martin-es-2023_0021",
+    "province": "san_martin"
+  },
+  {
+    "question": "lamas cerca de tarapoto",
+    "type": "coloquial",
+    "chunk_id": "san_martin-es-2023_0021",
+    "province": "san_martin"
+  },
+  {
+    "question": "Lamas Mirador",
+    "type": "entidad",
+    "chunk_id": "san_martin-es-2023_0021",
+    "province": "san_martin"
+  },
+  {
+    "question": "¿Cuánto se camina dentro de la cueva hasta llegar al manantial?",
+    "type": "directa",
+    "chunk_id": "san_martin-es-2023_0014",
+    "province": "san_martin"
+  },
+  {
+    "question": "Quiero una gruta de roca con formaciones y visita guiada en Rioja.",
+    "type": "indirecta",
+    "chunk_id": "san_martin-es-2023_0014",
+    "province": "san_martin"
+  },
+  {
+    "question": "cueva de palestina rioja",
+    "type": "coloquial",
+    "chunk_id": "san_martin-es-2023_0014",
+    "province": "san_martin"
+  },
+  {
+    "question": "Cueva de Palestina",
+    "type": "entidad",
+    "chunk_id": "san_martin-es-2023_0014",
+    "province": "san_martin"
+  },
+  {
+    "question": "¿Qué lugares forman el recorrido de un día desde Tarapoto?",
+    "type": "directa",
+    "chunk_id": "san_martin-es-2023_0025",
+    "province": "san_martin"
+  },
+  {
+    "question": "¿Qué opciones hay para una salida breve de un solo día por esa región?",
+    "type": "indirecta",
+    "chunk_id": "san_martin-es-2023_0025",
+    "province": "san_martin"
+  },
+  {
+    "question": "que ver en un dia por tarapoto",
+    "type": "coloquial",
+    "chunk_id": "san_martin-es-2023_0025",
+    "province": "san_martin"
+  },
+  {
+    "question": "recorridos 1 día",
+    "type": "entidad",
+    "chunk_id": "san_martin-es-2023_0025",
+    "province": "san_martin"
+  },
+  {
+    "question": "¿Dónde queda iPerú en Tarapoto y cuál es su horario?",
+    "type": "directa",
+    "chunk_id": "san_martin-es-2023_0028",
+    "province": "san_martin"
+  },
+  {
+    "question": "¿A qué oficina puedo ir en Tarapoto para pedir orientación turística?",
+    "type": "indirecta",
+    "chunk_id": "san_martin-es-2023_0028",
+    "province": "san_martin"
+  },
+  {
+    "question": "telefono de iperu tarapoto",
+    "type": "coloquial",
+    "chunk_id": "san_martin-es-2023_0028",
+    "province": "san_martin"
+  },
+  {
+    "question": "iPerú Tarapoto",
+    "type": "entidad",
+    "chunk_id": "san_martin-es-2023_0028",
+    "province": "san_martin"
+  },
+  {
+    "question": "¿A qué hora cierran la catarata de Ahuashiyacu?",
+    "type": "directa",
+    "chunk_id": "san_martin-es-2023_0016",
+    "province": "san_martin"
+  },
+  {
+    "question": "Quiero una caminata corta hasta una caída de agua entre vegetación espesa, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "san_martin-es-2023_0016",
+    "province": "san_martin"
+  },
+  {
+    "question": "como llego a ahuashiyacu",
+    "type": "coloquial",
+    "chunk_id": "san_martin-es-2023_0016",
+    "province": "san_martin"
+  },
+  {
+    "question": "Ahuashiyacu horario",
+    "type": "entidad",
+    "chunk_id": "san_martin-es-2023_0016",
+    "province": "san_martin"
+  },
+  {
+    "question": "¿Qué sitios incluye la ruta del pisco y vino en Tacna?",
+    "type": "directa",
+    "chunk_id": "tacna-es-2023_0010",
+    "province": "tacna"
+  },
+  {
+    "question": "Busco un paseo para conocer cómo hacen bebidas de viñedos y bodegas, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "tacna-es-2023_0010",
+    "province": "tacna"
+  },
+  {
+    "question": "ruta del pisco tacna",
+    "type": "coloquial",
+    "chunk_id": "tacna-es-2023_0010",
+    "province": "tacna"
+  },
+  {
+    "question": "Ruta del Pisco",
+    "type": "entidad",
+    "chunk_id": "tacna-es-2023_0010",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Cuál es la dirección de IPERÚ Tacna?",
+    "type": "directa",
+    "chunk_id": "tacna-es-2023_0017",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Dónde puedo ubicar la oficina turística de Tacna para pedir ayuda?",
+    "type": "indirecta",
+    "chunk_id": "tacna-es-2023_0017",
+    "province": "tacna"
+  },
+  {
+    "question": "iperu tacna direccion",
+    "type": "coloquial",
+    "chunk_id": "tacna-es-2023_0017",
+    "province": "tacna"
+  },
+  {
+    "question": "IPERÚ Tacna",
+    "type": "entidad",
+    "chunk_id": "tacna-es-2023_0017",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Qué productos se suelen comprar en Tacna?",
+    "type": "directa",
+    "chunk_id": "tacna-es-2023_0015",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Qué recuerdo típico puedo llevarme de esa ciudad fronteriza?",
+    "type": "indirecta",
+    "chunk_id": "tacna-es-2023_0015",
+    "province": "tacna"
+  },
+  {
+    "question": "que venden en tacna",
+    "type": "coloquial",
+    "chunk_id": "tacna-es-2023_0015",
+    "province": "tacna"
+  },
+  {
+    "question": "Zona Franca Tacna",
+    "type": "entidad",
+    "chunk_id": "tacna-es-2023_0015",
+    "province": "tacna"
+  },
+  {
+    "question": "¿En qué parte del país está Tacna?",
+    "type": "directa",
+    "chunk_id": "tacna-es-2023_0000",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Qué ciudad del extremo sur peruano está cerca de Chile?",
+    "type": "indirecta",
+    "chunk_id": "tacna-es-2023_0000",
+    "province": "tacna"
+  },
+  {
+    "question": "tacna ciudad heroica",
+    "type": "coloquial",
+    "chunk_id": "tacna-es-2023_0000",
+    "province": "tacna"
+  },
+  {
+    "question": "Tacna frontera Chile",
+    "type": "entidad",
+    "chunk_id": "tacna-es-2023_0000",
+    "province": "tacna"
+  },
+  {
+    "question": "¿A qué distancia está el mirador de la Apacheta desde Tacna?",
+    "type": "directa",
+    "chunk_id": "tacna-es-2023_0012",
+    "province": "tacna"
+  },
+  {
+    "question": "Busco un punto alto con vista a volcanes y ofrendas antiguas, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "tacna-es-2023_0012",
+    "province": "tacna"
+  },
+  {
+    "question": "mirador apacheta tacna",
+    "type": "coloquial",
+    "chunk_id": "tacna-es-2023_0012",
+    "province": "tacna"
+  },
+  {
+    "question": "Apacheta Tacna",
+    "type": "entidad",
+    "chunk_id": "tacna-es-2023_0012",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Cuál es la temperatura promedio en Tacna?",
+    "type": "directa",
+    "chunk_id": "tacna-es-2023_0001",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Cómo es el clima de esa región del extremo sur?",
+    "type": "indirecta",
+    "chunk_id": "tacna-es-2023_0001",
+    "province": "tacna"
+  },
+  {
+    "question": "clima de tacna",
+    "type": "coloquial",
+    "chunk_id": "tacna-es-2023_0001",
+    "province": "tacna"
+  },
+  {
+    "question": "Tacna temperatura promedio",
+    "type": "entidad",
+    "chunk_id": "tacna-es-2023_0001",
+    "province": "tacna"
+  },
+  {
+    "question": "¿Qué artesanías marinas puedo encontrar en los pueblos de pescadores?",
+    "type": "indirecta",
+    "chunk_id": "tumbes-es-2023_0017",
+    "province": "tumbes"
+  },
+  {
+    "question": "joyas de conchas tumbes",
+    "type": "coloquial",
+    "chunk_id": "tumbes-es-2023_0017",
+    "province": "tumbes"
+  },
+  {
+    "question": "pasalla tumbes",
+    "type": "entidad",
+    "chunk_id": "tumbes-es-2023_0017",
+    "province": "tumbes"
+  },
+  {
+    "question": "Busco un conjunto prehispánico con museo y sendero, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "tumbes-es-2023_0008",
+    "province": "tumbes"
+  },
+  {
+    "question": "cabeza de vaca tumbes",
+    "type": "coloquial",
+    "chunk_id": "tumbes-es-2023_0008",
+    "province": "tumbes"
+  },
+  {
+    "question": "Cabeza de Vaca",
+    "type": "entidad",
+    "chunk_id": "tumbes-es-2023_0008",
+    "province": "tumbes"
+  },
+  {
+    "question": "¿Dónde queda la Casa del Manglar en Tumbes?",
+    "type": "directa",
+    "chunk_id": "tumbes-es-2023_0010",
+    "province": "tumbes"
+  },
+  {
+    "question": "Quiero un lugar para aprender sobre los manglares y sus oficios tradicionales, ¿cuál recomiendan?",
+    "type": "indirecta",
+    "chunk_id": "tumbes-es-2023_0010",
+    "province": "tumbes"
+  },
+  {
+    "question": "casa del manglar tumbes",
+    "type": "coloquial",
+    "chunk_id": "tumbes-es-2023_0010",
+    "province": "tumbes"
+  },
+  {
+    "question": "Casa del Manglar",
+    "type": "entidad",
+    "chunk_id": "tumbes-es-2023_0010",
+    "province": "tumbes"
+  },
+  {
+    "question": "¿Cuánto demora el viaje por carretera de Piura a Tumbes?",
+    "type": "directa",
+    "chunk_id": "tumbes-es-2023_0003",
+    "province": "tumbes"
+  },
+  {
+    "question": "Necesito saber el tiempo para ir por tierra desde la capital regional vecina hasta Tumbes.",
+    "type": "indirecta",
+    "chunk_id": "tumbes-es-2023_0003",
+    "province": "tumbes"
+  },
+  {
+    "question": "piura a tumbes cuanto demora",
+    "type": "coloquial",
+    "chunk_id": "tumbes-es-2023_0003",
+    "province": "tumbes"
+  },
+  {
+    "question": "Piura Tumbes",
+    "type": "entidad",
+    "chunk_id": "tumbes-es-2023_0003",
+    "province": "tumbes"
+  },
+  {
+    "question": "¿Qué paseos se hacen en los manglares de Puerto Pizarro?",
+    "type": "directa",
+    "chunk_id": "tumbes-es-2023_0009",
+    "province": "tumbes"
+  },
+  {
+    "question": "Busco navegar por esteros con islas, aves al atardecer y cocodrilos, ¿dónde es?",
+    "type": "indirecta",
+    "chunk_id": "tumbes-es-2023_0009",
+    "province": "tumbes"
+  },
+  {
+    "question": "puerto pizarro bote",
+    "type": "coloquial",
+    "chunk_id": "tumbes-es-2023_0009",
+    "province": "tumbes"
+  },
+  {
+    "question": "Puerto Pizarro manglares",
+    "type": "entidad",
+    "chunk_id": "tumbes-es-2023_0009",
+    "province": "tumbes"
+  },
+  {
+    "question": "¿Cuántas especies de fauna y flora alberga el Bosque Seco Amotape?",
+    "type": "directa",
+    "chunk_id": "tumbes-es-2023_0013",
+    "province": "tumbes"
+  },
+  {
+    "question": "¿Qué área protegida pequeña me permite pasar del monte seco a la playa en minutos?",
+    "type": "indirecta",
+    "chunk_id": "tumbes-es-2023_0013",
+    "province": "tumbes"
+  },
+  {
+    "question": "bosque seco amotape",
+    "type": "coloquial",
+    "chunk_id": "tumbes-es-2023_0013",
+    "province": "tumbes"
+  },
+  {
+    "question": "Bosque Seco Amotape",
+    "type": "entidad",
+    "chunk_id": "tumbes-es-2023_0013",
+    "province": "tumbes"
+  },
+  {
+    "question": "¿Qué distancia hay desde Puerto Callao hasta Cashibococha en auto?",
+    "type": "directa",
+    "chunk_id": "ucayali-es-2023_0008",
+    "province": "ucayali"
+  },
+  {
+    "question": "Quiero un sitio para pescar tucunaré y dormir al aire libre, ¿cuál me sugieren?",
+    "type": "indirecta",
+    "chunk_id": "ucayali-es-2023_0008",
+    "province": "ucayali"
+  },
+  {
+    "question": "cashibococha para pasear en bote",
+    "type": "coloquial",
+    "chunk_id": "ucayali-es-2023_0008",
+    "province": "ucayali"
+  },
+  {
+    "question": "Cashibococha pesca deportiva",
+    "type": "entidad",
+    "chunk_id": "ucayali-es-2023_0008",
+    "province": "ucayali"
+  },
+  {
+    "question": "¿A cuánto queda la cocha El Anguillal desde Puerto Esperanza caminando?",
+    "type": "directa",
+    "chunk_id": "ucayali-es-2023_0017",
+    "province": "ucayali"
+  },
+  {
+    "question": "Busco una laguna para pescar, rodeada de aves y vegetación, cerca de una capital provincial.",
+    "type": "indirecta",
+    "chunk_id": "ucayali-es-2023_0017",
+    "province": "ucayali"
+  },
+  {
+    "question": "cocha el anguillal como llegar",
+    "type": "coloquial",
+    "chunk_id": "ucayali-es-2023_0017",
+    "province": "ucayali"
+  },
+  {
+    "question": "Cocha El Anguillal",
+    "type": "entidad",
+    "chunk_id": "ucayali-es-2023_0017",
+    "province": "ucayali"
+  },
+  {
+    "question": "¿Qué significa Pucallpa en quechua?",
+    "type": "directa",
+    "chunk_id": "ucayali-es-2023_0000",
+    "province": "ucayali"
+  },
+  {
+    "question": "¿De dónde viene el nombre de la capital ucayalina y qué quiere decir?",
+    "type": "indirecta",
+    "chunk_id": "ucayali-es-2023_0000",
+    "province": "ucayali"
+  },
+  {
+    "question": "que significa pucallpa",
+    "type": "coloquial",
+    "chunk_id": "ucayali-es-2023_0000",
+    "province": "ucayali"
+  },
+  {
+    "question": "Pucallpa origen",
+    "type": "entidad",
+    "chunk_id": "ucayali-es-2023_0000",
+    "province": "ucayali"
+  },
+  {
+    "question": "¿Cuántos metros mide la caída principal de la Ducha del Diablo?",
+    "type": "directa",
+    "chunk_id": "ucayali-es-2023_0011",
+    "province": "ucayali"
+  },
+  {
+    "question": "Busco una cascada alta con una poza pequeña y un mirador, ¿cuál es?",
+    "type": "indirecta",
+    "chunk_id": "ucayali-es-2023_0011",
+    "province": "ucayali"
+  },
+  {
+    "question": "ducha del diablo altura",
+    "type": "coloquial",
+    "chunk_id": "ucayali-es-2023_0011",
+    "province": "ucayali"
+  },
+  {
+    "question": "Ducha del Diablo",
+    "type": "entidad",
+    "chunk_id": "ucayali-es-2023_0011",
+    "province": "ucayali"
+  },
+  {
+    "question": "¿Qué platos tradicionales aparecen en la comida de Ucayali?",
+    "type": "directa",
+    "chunk_id": "ucayali-es-2023_0019",
+    "province": "ucayali"
+  },
+  {
+    "question": "¿Qué comerías en una zona amazónica donde mandan el pescado, la yuca y el plátano?",
+    "type": "indirecta",
+    "chunk_id": "ucayali-es-2023_0019",
+    "province": "ucayali"
+  },
+  {
+    "question": "platos tipicos de ucayali",
+    "type": "coloquial",
+    "chunk_id": "ucayali-es-2023_0019",
+    "province": "ucayali"
+  },
+  {
+    "question": "paiche platos típicos",
+    "type": "entidad",
+    "chunk_id": "ucayali-es-2023_0019",
+    "province": "ucayali"
+  },
+  {
+    "question": "¿Qué número de WhatsApp tiene iPerú general?",
+    "type": "directa",
+    "chunk_id": "ucayali-es-2023_0023",
+    "province": "ucayali"
+  },
+  {
+    "question": "Necesito comunicarme con la oficina de ayuda turística nacional por chat, ¿cuál es el contacto?",
+    "type": "indirecta",
+    "chunk_id": "ucayali-es-2023_0023",
+    "province": "ucayali"
+  },
+  {
+    "question": "iperu whatsapp",
+    "type": "coloquial",
+    "chunk_id": "ucayali-es-2023_0023",
+    "province": "ucayali"
+  },
+  {
+    "question": "iPerú general",
+    "type": "entidad",
+    "chunk_id": "ucayali-es-2023_0023",
+    "province": "ucayali"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "id": "lima_rutas_cortas-es-2020_0042",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto se tarda en llegar a Pachacamac por la Panamericana Sur?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un plan corto al sur de Lima para una sola jornada, ¿qué opción me conviene?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llego a pachacamac desde lima"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Pachacamac llegada"
+      }
+    ]
+  },
+  {
+    "id": "lima_rutas_cortas-es-2020_0046",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto demora el viaje total hasta Huancaya desde Lima?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un pueblo andino con canales de riego y andenes activos, ¿cuál sería?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como ir a huancaya desde lima"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Laraos andenes"
+      }
+    ]
+  },
+  {
+    "id": "lima_rutas_cortas-es-2020_0037",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Desde dónde sale la caminata a Marcahuasi?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una meseta alta con rocas raras y frío fuerte para pasar la noche, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llegar a marcahuasi"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Marcahuasi caminata"
+      }
+    ]
+  },
+  {
+    "id": "lima_rutas_cortas-es-2020_0015",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué actividades incluye la estadía en Eco Truly Park?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un sitio de retiro con yoga, comida sin carne y talleres, ¿dónde queda?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "eco truly park donde queda"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Eco Truly Park"
+      }
+    ]
+  },
+  {
+    "id": "lima_rutas_cortas-es-2020_0045",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué playas destacan entre el kilómetro 40 y 53 al sur de Lima?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco playas para pasar el día, hacer surf y salir por la noche cerca de la capital, ¿cuáles son?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "playas del sur para surf"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Playas del Sur"
+      }
+    ]
+  },
+  {
+    "id": "lima_rutas_cortas-es-2020_0021",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué tamaño tiene la estatua del Cristo Redentor de Chorrillos?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un lugar costero con ruinas antiquísimas y un mirador sobre el mar, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "caral que hay"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ciudad Sagrada de Caral"
+      }
+    ]
+  },
+  {
+    "id": "loreto-es-2023_0001",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué meses sube el nivel del agua en Loreto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero viajar a la Amazonía cuando haya más ríos crecidos y playas fluviales, ¿qué época me conviene?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cuando llueve mas en loreto"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Loreto clima"
+      }
+    ]
+  },
+  {
+    "id": "loreto-es-2023_0012",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el horario del Museo Iquitos los sábados?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un museo con fotos de la fundación de la ciudad y piezas antiguas de bronce, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "museo iquitos horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Museo Iquitos"
+      }
+    ]
+  },
+  {
+    "id": "loreto-es-2023_0025",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el número de IPERÚ Iquitos?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito una oficina para consultar horarios y pedir información turística en Iquitos, ¿a dónde llamo?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "telefono iperu iquitos"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "IPERÚ Iquitos"
+      }
+    ]
+  },
+  {
+    "id": "loreto-es-2023_0015",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cómo se llega a la comunidad Bora de San Andrés desde Bellavista Nanay?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un poblado ribereño donde pueda conocer mitos, danzas y artesanía amazónica, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "comunidad bora san andres"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Bora de San Andrés"
+      }
+    ]
+  },
+  {
+    "id": "loreto-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora conviene ir al mariposario de Padre Cocha?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un centro de mariposas y rescate de fauna cerca de Iquitos, ¿dónde queda?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "pilpintuwasi horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Pilpintuwasi mariposas"
+      }
+    ]
+  },
+  {
+    "id": "loreto-es-2023_0013",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto tarda el mototaxi desde Iquitos hasta Bellavista Nanay?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un muelle para tomar embarcaciones y ver dónde se juntan dos ríos, ¿cuál me sirve?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "bellavista nanay como llegar"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Bellavista Nanay"
+      }
+    ]
+  },
+  {
+    "id": "madre_de_dios-es-2023_0003",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuántas horas son de Cusco a Puerto Maldonado por tierra?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco la ruta terrestre más corta para llegar a Puerto Maldonado desde Cusco, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ruta cusco puerto maldonado"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cusco Puerto Maldonado"
+      }
+    ]
+  },
+  {
+    "id": "madre_de_dios-es-2023_0007",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Con qué materiales hacen la ropa artesanal en Madre de Dios?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero comprar prendas y adornos hechos con recursos de la selva, ¿qué tipo de artesanía ofrecen?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "artesania con semillas y fibras"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "adornos tallados coco"
+      }
+    ]
+  },
+  {
+    "id": "madre_de_dios-es-2023_0019",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia está Iberia de Puerto Maldonado por la Interoceánica?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una ciudad fronteriza con mirador y vista de ríos internacionales, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "i\u001fapari trip frontera"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ciudad de Iñapari"
+      }
+    ]
+  }
+]

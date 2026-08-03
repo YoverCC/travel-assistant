@@ -1,0 +1,347 @@
+[
+  {
+    "id": "ica-es-2025_0007",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia queda Cachiche desde la ciudad de Ica?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un lugar ligado a curanderos y una palmera extraña, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llego a cachiche desde ica"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cachiche"
+      }
+    ]
+  },
+  {
+    "id": "ica-es-2025_0023",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Con qué se prepara la carapulcra iqueña?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué comidas y dulces son típicos de esa región del sur chico?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que dulces tipicos hay en ica"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "morusa iqueña"
+      }
+    ]
+  },
+  {
+    "id": "ica-es-2025_0003",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto se tarda en ir de Ica a Nasca?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿A qué ciudad vecina de Ica se llega más rápido por carretera?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cuanto demora ir a nasca desde ica"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ica a Nasca"
+      }
+    ]
+  },
+  {
+    "id": "ica-es-2025_0002",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuántas horas toma viajar de Lima a Nasca por tierra?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué destino de esa región queda más lejos saliendo desde Lima?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llegar a nasca desde lima en bus"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Lima a Nasca"
+      }
+    ]
+  },
+  {
+    "id": "ica-es-2025_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde queda la bodega Tacama y qué horario tiene?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una visita a una viña cercana con entrada paga, ¿cuál me conviene?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "horario de tacama en iqa"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Tacama horario"
+      }
+    ]
+  },
+  {
+    "id": "ica-es-2025_0010",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia está Huayurí de Palpa?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un complejo escondido entre cerros con calles angostas, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "horario de huayuri palpa"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Huayurí ingreso"
+      }
+    ]
+  },
+  {
+    "id": "junin-es-2025_0002",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto se demora ir de Lima a Tarma en auto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué ciudad de la sierra central queda a unas seis horas desde la capital?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cuanto se tarda ir a jauja desde lima"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Lima a Jauja"
+      }
+    ]
+  },
+  {
+    "id": "junin-es-2025_0010",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia está el convento de Ocopa desde Concepción?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un monasterio con biblioteca grande y museo natural, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "donde queda ocopa cerca de concepcion"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Santa Rosa de Ocopa"
+      }
+    ]
+  },
+  {
+    "id": "junin-es-2025_0005",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto hay de Huancayo a La Oroya por carretera?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué destino interprovincial desde Huancayo queda a unas dos horas?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "distancia de huancayo a la oroya"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Huancayo La Oroya"
+      }
+    ]
+  },
+  {
+    "id": "junin-es-2025_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto demora llegar a pie a la catarata El Tirol?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una caída de agua con sendero y orquídeas, ¿cuál recomiendan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llegar a el tirol san ramon"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "El Tirol"
+      }
+    ]
+  },
+  {
+    "id": "junin-es-2025_0011",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué significa Ñahuinpuquio en quechua?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una laguna con islas flotantes y paseos en bote cerca de Chupaca, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "laguna ñahuinpuquio quechua"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ñahuinpuquio"
+      }
+    ]
+  },
+  {
+    "id": "junin-es-2025_0019",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora abre Tarmatambo los domingos?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un sitio inca atravesado por el camino antiguo y con andenes, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "horario de tarmatambo"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Tarmatambo horario"
+      }
+    ]
+  },
+  {
+    "id": "la_libertad-es-2023_0021",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto demora ir de Trujillo a Virú en auto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una playa tranquila cerca de Trujillo para hacer deportes y acampar, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "playa tranquila cerca de trujillo para acampar"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Puerto Morín"
+      }
+    ]
+  },
+  {
+    "id": "la_libertad-es-2023_0027",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia está Cascas desde Trujillo?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una zona de viñedos con clima templado todo el año, ¿cuál me sugieren?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "donde queda cascas y sus bodegas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cascas viñedos"
+      }
+    ]
+  },
+  {
+    "id": "la_libertad-es-2023_0012",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué horario tiene la Casa de la Identidad Regional?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una plazuela histórica con una pileta barroca y una portada conmemorativa, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "horario casa de la identidad regional"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Casa de la Identidad Regional"
+      }
+    ]
+  }
+]

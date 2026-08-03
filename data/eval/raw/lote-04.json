@@ -1,0 +1,347 @@
+[
+  {
+    "id": "gastronomia-es-2020_0044",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué platos típicos preparan en Chazuta con pescado y yuca?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una experiencia amazónica con recetas heredadas por mujeres mayores, ¿dónde la encuentro?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que juane famoso hay en tarapoto"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Uchuyaku Chazuta"
+      }
+    ]
+  },
+  {
+    "id": "gastronomia-es-2020_0042",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué reserva se ven las collpas Chuncho y Colorado?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero visitar un sitio amazónico con lagos y muchísimas aves, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "donde ver aves en tambopata"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Tambopata collpas"
+      }
+    ]
+  },
+  {
+    "id": "gastronomia-es-2020_0018",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Por dónde conviene recorrer el centro limeño a pie?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una zona histórica con casonas, templos antiguos y viejas tabernas, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que zona antigua de lima se recorre caminando"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Lima centro histórico"
+      }
+    ]
+  },
+  {
+    "id": "huancavelica-es-2023_0001",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto demora ir de Huancayo a Huancavelica en bus?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito saber el tiempo por carretera desde la ciudad del Valle del Mantaro, ¿cuánto es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cuanto se tarda en bus a huancavelica"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Huancavelica Huancayo"
+      }
+    ]
+  },
+  {
+    "id": "huancavelica-es-2023_0015",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia queda Allpas desde Acobamba?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco unas sepulturas antiguas talladas en roca cerca de un pueblo andino, ¿dónde quedan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llegar a allpas desde acobamba"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Allpas tumbas"
+      }
+    ]
+  },
+  {
+    "id": "huancavelica-es-2023_0018",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué distrito quedan los baños de Coris Pampalca?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un lugar con agua caliente para aliviar dolores y malestares de la piel, ¿cuál recomiendan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "baños termales de coris pampalca"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Coris Pampalca"
+      }
+    ]
+  },
+  {
+    "id": "huancavelica-es-2023_0004",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué incluye la salida de un día a Sacsamarca y Santa Bárbara?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una ruta corta que combine un pueblo serrano y una mina antigua, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ruta de lagunas pultocc y choclococha"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Sacsamarca Santa Bárbara"
+      }
+    ]
+  },
+  {
+    "id": "huancavelica-es-2023_0013",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde está el parque con esculturas en Bellavista de Lircay?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un sitio con figuras de piedra que reflejen la vida cotidiana de un pueblo andino, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "parque de la identidad anqara"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Lircay parque identidad"
+      }
+    ]
+  },
+  {
+    "id": "huancavelica-es-2023_0020",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el teléfono de iPERÚ para pedir ayuda al turista?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito el contacto oficial para consultas turísticas y orientación en el viaje, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "telefono de iperu"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "iPERÚ teléfono"
+      }
+    ]
+  },
+  {
+    "id": "huanuco-es-2023_0018",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora abre y cierra las aguas termales de Lauricocha?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco unas pozas usadas por los incas y con canales de agua fría y caliente, ¿dónde están?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "baños del inca lauricocha"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Lauricocha horarios"
+      }
+    ]
+  },
+  {
+    "id": "huanuco-es-2023_0010",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto queda el puente Calicanto de la Plaza de Armas?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un puente de piedra con miradores que une dos distritos sobre un río, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "puente calicanto huanuco"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Puente Calicanto"
+      }
+    ]
+  },
+  {
+    "id": "huanuco-es-2023_0021",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia está Tantamayo desde Huánuco?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un conjunto de construcciones previas a los incas con varias alturas, ¿dónde queda?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "tantamayo horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Tantamayo"
+      }
+    ]
+  },
+  {
+    "id": "huanuco-es-2023_0020",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuándo se puede entrar a Huánuco Pampa?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un centro inca con una gran plaza ceremonial y fiesta solar en julio, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "huanuco pampa ingreso boleto"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Huánuco Pampa"
+      }
+    ]
+  },
+  {
+    "id": "huanuco-es-2023_0012",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué ofrece Pichgacocha para pasar el día?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco varias lagunas altas unidas por quebradas para navegar y pescar, ¿cuáles son?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "lagunas pichgacocha"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Pichgacocha"
+      }
+    ]
+  },
+  {
+    "id": "huanuco-es-2023_0019",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué actividades se pueden hacer en Montepotrero?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un bosque de neblina con muchas aves y orquídeas para una salida de aventura, ¿dónde queda?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "bosque montepotrero"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Montepotrero aves"
+      }
+    ]
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "la_libertad-es-2023_0005",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué lugares de la ruta de dos días se incluyen en Sánchez Carrión?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un plan de dos jornadas con sitios andinos, laguna y aguas calientes, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ruta de 2 dias en sánchez carrion"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Sánchez Carrión ruta"
+      }
+    ]
+  },
+  {
+    "id": "la_libertad-es-2023_0028",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora abre Marcahuamachuco todos los días?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero visitar una fortaleza andina muy grande cerca de Huamachuco, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "marcahuamachuco horario hoy"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Marcahuamachuco horario"
+      }
+    ]
+  },
+  {
+    "id": "la_libertad-es-2023_0025",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué horario atiende la casa museo de César Vallejo?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco la casa natal de un poeta peruano muy famoso convertida en museo, ¿dónde queda?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "casa museo césar vallejo horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "César Vallejo museo"
+      }
+    ]
+  },
+  {
+    "id": "lambayeque-es-2023_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué mes se celebra la fiesta de Motupe?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero saber qué fiesta religiosa importante cae en agosto, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "fiesta de motupe fecha"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Santísima Cruz Motupe"
+      }
+    ]
+  },
+  {
+    "id": "lambayeque-es-2023_0023",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el horario de visita del valle de las pirámides?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un sitio con varias pirámides antiguas, museo y degustación de comida regional, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "valle de las piramides horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Valle de las Pirámides"
+      }
+    ]
+  },
+  {
+    "id": "lambayeque-es-2023_0010",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde queda la basílica de San Antonio de Padua en Chiclayo?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un templo neocolonial con horarios partidos para misa y visita, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "basilica san antonio chiclayo horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "San Antonio de Padua Chiclayo"
+      }
+    ]
+  },
+  {
+    "id": "lambayeque-es-2023_0003",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto se tarda en viajar a Chiclayo desde Piura?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Si salgo de la costa norte, ¿desde qué ciudad llego más rápido a Chiclayo?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "piura a chiclayo tiempo"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Chiclayo desde Piura"
+      }
+    ]
+  },
+  {
+    "id": "lambayeque-es-2023_0007",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué artículos de paja venden en Monsefú y Eten?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un lugar famoso por tejidos y bordados artesanales, ¿dónde sería?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "artesania de monsefu y eten"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "artesanía Monsefú Eten"
+      }
+    ]
+  },
+  {
+    "id": "lambayeque-es-2023_0019",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué horas se puede ver la pava aliblanca en Laquipampa?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero ir a un refugio para observar un ave muy rara en el norte, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "laquipampa pava aliblanca"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Laquipampa horario"
+      }
+    ]
+  },
+  {
+    "id": "lima_callao-es-2019_0049",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el horario del museo de sitio Arturo Jiménez Borja en Ate?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un antiguo centro inca con muchísimos entierros y restos funerarios, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "puruchuco horario entrada"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Puruchuco museo"
+      }
+    ]
+  }
+]

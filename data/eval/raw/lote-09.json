@@ -1,0 +1,330 @@
+[
+  {
+    "id": "piura-es-2023_0026",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Desde Máncora cuánto se tarda en llegar a El Ñuro en auto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un sitio para nadar junto a tortugas marinas, ¿cuál me queda mejor?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "nadar con tortugas en piura"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "El Ñuro tortugas"
+      }
+    ]
+  },
+  {
+    "id": "piura-es-2023_0024",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia queda ese bosque seco desde Sullana?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero visitar un bosque seco con mucha vida silvestre y árboles nativos del norte."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "bosque seco cerca de sullana"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "bosque seco piura"
+      }
+    ]
+  },
+  {
+    "id": "piura-es-2023_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué fecha empieza la temporada de ballenas en Los Órganos?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Cuándo debería ir si quiero coincidir con una salida para ver ballenas?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cuando empieza la temporada de ballenas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "ballenas los organos"
+      }
+    ]
+  },
+  {
+    "id": "piura-es-2023_0005",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué incluye el recorrido de tres días por las playas de Talara?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una ruta corta que mezcle mar y paseo por un bosque seco."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ruta de playas en talara"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "circuito talara"
+      }
+    ]
+  },
+  {
+    "id": "piura-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto demora llegar a la fortaleza desde Catacaos en auto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero conocer un sitio prehispánico con museo propio y cerca de Catacaos."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "fortaleza de narihuala"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Narihualá museo"
+      }
+    ]
+  },
+  {
+    "id": "piura-es-2023_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A cuántos minutos queda la laguna desde Sechura en auto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un lugar tranquilo para ver aves migratorias y salir en bote."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "laguna con aves en sechura"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Laguna Ñapique"
+      }
+    ]
+  },
+  {
+    "id": "puno-es-2023_0002",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto se demora el viaje por carretera de Lima a Puno?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito saber la ruta terrestre más larga para llegar a Puno desde la capital."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "via limeña a puno"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Lima Puno"
+      }
+    ]
+  },
+  {
+    "id": "puno-es-2023_0001",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué altura está la capital de Puno?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una región andina pegada a Bolivia y con un lago muy alto."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "puno a que altura esta"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Puno altitud"
+      }
+    ]
+  },
+  {
+    "id": "puno-es-2023_0005",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto tiempo dura el paseo por el lago con visita a los Uros?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero una escapada corta que combine lago, islas y pueblos tradicionales."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "tour al lago titicaca"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Uros Titino"
+      }
+    ]
+  },
+  {
+    "id": "puno-es-2023_0006",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué calle queda el Museo Municipal Carlos Dreyer?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un museo puneño con piezas antiguas de metales, textiles y cerámica."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "museo dreyer en puno"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Carlos Dreyer"
+      }
+    ]
+  },
+  {
+    "id": "puno-es-2023_0007",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A cuántas cuadras está Huajsapata de la Plaza de Armas?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un mirador con vista a la ciudad y una escultura de un fundador inca."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "mirador huajsapata puno"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Huajsapata Manco Cápac"
+      }
+    ]
+  },
+  {
+    "id": "puno-es-2023_0015",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué opciones hay para ver vicuñas y alpacas cerca de Putina?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco termas curativas y un lugar donde se observen camélidos andinos."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "putina termas y vicuñas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Putina termales"
+      }
+    ]
+  },
+  {
+    "id": "san_martin-es-2023_0021",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto tarda el viaje de Tarapoto a Lamas en auto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un pueblo cercano a Tarapoto con mirador, castillo y centro artesanal."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "lamas cerca de tarapoto"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Lamas Mirador"
+      }
+    ]
+  },
+  {
+    "id": "san_martin-es-2023_0020",
+    "apto": false,
+    "motivo": "Fragmento ausente o incompleto: no se proporcionó contenido utilizable para generar preguntas.",
+    "preguntas": []
+  },
+  {
+    "id": "san_martin-es-2023_0014",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto se camina dentro de la cueva hasta llegar al manantial?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero una gruta de roca con formaciones y visita guiada en Rioja."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cueva de palestina rioja"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cueva de Palestina"
+      }
+    ]
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "id": "amazonas-es-2023_0021",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el correo de IPERÚ Chachapoyas?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito comunicarme con la oficina turística de Chachapoyas, ¿qué datos tienen?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "telefono de iperu chachapoyas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "IPERÚ Chachapoyas"
+      }
+    ]
+  },
+  {
+    "id": "amazonas-es-2023_0004",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora abre la sala Gilberto Tenorio Ruiz de lunes a viernes?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un lugar en Chachapoyas donde ver piezas y objetos de su cultura local, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "museo gilberto tenorio horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Gilberto Tenorio Ruiz"
+      }
+    ]
+  },
+  {
+    "id": "amazonas-es-2023_0001",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué altura está la capital de Amazonas?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero saber a qué altitud queda la ciudad principal de esa región del norte."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "altura de chachapoyas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Chachapoyas altitud"
+      }
+    ]
+  },
+  {
+    "id": "amazonas-es-2023_0009",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto tiempo toma llegar a Quiocta desde Chachapoyas en auto y caminando?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una cueva con restos humanos y formaciones de piedra en el norte, ¿cuál será?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cueva de quiocta horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Quiocta caverna"
+      }
+    ]
+  },
+  {
+    "id": "amazonas-es-2023_0008",
+    "apto": false,
+    "motivo": "Es solo una lista de nombres sin datos suficientes para formular preguntas respondibles.",
+    "preguntas": []
+  },
+  {
+    "id": "amazonas-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuántos días recomiendan para hacer el circuito sugerido?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero organizar una visita larga con varios atractivos en ese orden, ¿cuánto mínimo debería quedarme?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "itinerario amazonas 5 dias"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "estadía mínima recomendada"
+      }
+    ]
+  },
+  {
+    "id": "ancash-es-2023_0009",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál de esos tramos tiene la mayor dificultad?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco la caminata más larga y exigente de esas opciones, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "trek largo en ancash"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Los Cedros Alpamayo"
+      }
+    ]
+  },
+  {
+    "id": "ancash-es-2023_0024",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué playa de Huarmey recomiendan para ir con niños?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una orilla tranquila y segura para pasar el día con chicos, ¿dónde sería?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "playa para niños en huarmey"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "La Pocita"
+      }
+    ]
+  },
+  {
+    "id": "ancash-es-2023_0004",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué destinos incluye la ruta mínima de tres días?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un plan de varios días con lagunas, pueblo y playa, ¿qué lugares salen?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ruta 3 dias ancash"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "laguna 69"
+      }
+    ]
+  },
+  {
+    "id": "ancash-es-2023_0022",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el horario de visita de Sechín y el museo de Casma?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un complejo con vestigios y museo cerca de Casma, ¿cómo se llama?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "sechin casma horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Sechín Casma"
+      }
+    ]
+  },
+  {
+    "id": "ancash-es-2023_0031",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué mes se celebra el aniversario de Huaraz?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero ir a una fiesta de la sierra ancashina que cae a mitad de año, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "aniversario de huaraz"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Virgen de la Asunción"
+      }
+    ]
+  },
+  {
+    "id": "ancash-es-2023_0018",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A cuántos kilómetros de Chacas queda el santuario de Pomallucay?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una basílica hecha por voluntarios para venerar a un Cristo de mirada triste, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "pomallucay cuantos km"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Pomallucay santuario"
+      }
+    ]
+  },
+  {
+    "id": "apurimac-es-2023_0002",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto demora ir de Cusco a Abancay por tierra?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito llegar desde la ciudad imperial hasta la capital regional por carretera, ¿cuánto toma?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cusco a abancay cuanto demora"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cusco Abancay"
+      }
+    ]
+  },
+  {
+    "id": "apurimac-es-2023_0018",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué productos típicos artesanales venden en Apurímac?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco regalos hechos a mano con lana, barro y madera de esa región andina, ¿qué ofrecen?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "artesania tipica de apurimac"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "tejidos de alpaca"
+      }
+    ]
+  },
+  {
+    "id": "apurimac-es-2023_0013",
+    "apto": false,
+    "motivo": "Es una tabla de distancias y tiempos sin contexto distintivo suficiente para generar preguntas únicas.",
+    "preguntas": []
+  }
+]

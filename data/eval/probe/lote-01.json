@@ -1,0 +1,25 @@
+[
+  {
+    "id": "amazonas-es-2023_0021",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es la dirección de IPERÚ Chachapoyas?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Dónde puedo pedir orientación turística en Chachapoyas?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "telefono de iperu chachapoyas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "IPERÚ Chachapoyas"
+      }
+    ]
+  }
+]

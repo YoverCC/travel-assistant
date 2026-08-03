@@ -1,0 +1,347 @@
+[
+  {
+    "id": "madre_de_dios-es-2023_0011",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Desde dónde se accede al Mirador de la Biodiversidad y cuánto tarda el trayecto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un sitio alto para ver el encuentro de dos ríos y la ciudad, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "mirador biodiversidad horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Mirador Biodiversidad"
+      }
+    ]
+  },
+  {
+    "id": "madre_de_dios-es-2023_0020",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el número para reservar en la comunidad Kotsimba?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito el contacto para pedir permisos de una comunidad nativa en Madre de Dios, ¿me lo dan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "telefono kotsimba reservas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Kotsimba reservas"
+      }
+    ]
+  },
+  {
+    "id": "madre_de_dios-es-2023_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto dura el viaje por carretera desde Cusco hasta Atalaya?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero entrar a un gran parque amazónico reconocido por la UNESCO, ¿cómo se llega?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llegar al manu por cusco"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Parque Nacional Manu"
+      }
+    ]
+  },
+  {
+    "id": "moquegua-es-2023_0014",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué árbol patrimonial famoso se conserva en Poquera, cerca de Ilo?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un fundo con olivos antiquísimos al norte de Ilo, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "olivo patrimonial poquera"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Poquera olivo"
+      }
+    ]
+  },
+  {
+    "id": "moquegua-es-2023_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué prendas usan fibra de alpaca y oveja para el frío?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero comprar recuerdos hechos con técnicas locales y materiales del mar, ¿qué ofrecen?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "repujado en cobre moquegua"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Repujado en Cobre"
+      }
+    ]
+  },
+  {
+    "id": "moquegua-es-2023_0006",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué museo queda detrás de la antigua iglesia junto a la plaza principal?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un museo con piezas de culturas preincaicas e incaicas en el centro de la ciudad, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "museo contisuyo moquegua"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Museo Contisuyo"
+      }
+    ]
+  },
+  {
+    "id": "moquegua-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué sopa moqueguana lleva camarones, leche, huevo y orégano?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Voy a comer platos de mar y de sierra en Moquegua, ¿qué opciones típicas hay?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "chupe de camarones moquegua"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Chupe de camarones"
+      }
+    ]
+  },
+  {
+    "id": "moquegua-es-2023_0002",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto se tarda en ir de Tacna a Moquegua por carretera?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito saber el tiempo aproximado para viajar hacia Moquegua desde una ciudad vecina, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "tacna moquegua 2 horas"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Tacna Moquegua"
+      }
+    ]
+  },
+  {
+    "id": "moquegua-es-2023_0005",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué lugares incluye el circuito de un día por la provincia de Ilo?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco una ruta corta con centro histórico, playas y muelle en la costa de Moquegua, ¿cuál recomiendan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ruta del vino moquegua"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ruta del Pisco"
+      }
+    ]
+  },
+  {
+    "id": "pasco-es-2023_0023",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el correo de iPERÚ para pedir ayuda turística en Pasco?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito una oficina oficial para resolver dudas de viaje en Pasco, ¿cuál contacto usan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "iperu pasco telefono"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "DIRCETUR Pasco"
+      }
+    ]
+  },
+  {
+    "id": "pasco-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde quedan los restos de Goñicutac y cómo se llega desde Yanahuanca?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco unas ruinas con torres y antiguos almacenes cerca de Yanahuanca, ¿cuáles son?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "restos de goñicutac"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Goñicutac Yanahuanca"
+      }
+    ]
+  },
+  {
+    "id": "pasco-es-2023_0022",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué fechas se celebra el Festival Nacional del Café en Villa Rica?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero ir a una fiesta cafetera en Pasco durante julio, ¿cuál sería?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "festival del cafe villa rica"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Festival Nacional del Café"
+      }
+    ]
+  },
+  {
+    "id": "pasco-es-2023_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia está la catarata del Río Tigre desde Oxapampa?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un salto de agua cerca de una ciudad con herencia europea y cafetales, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "catarata rio tigre oxapampa"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Catarata del Río Tigre"
+      }
+    ]
+  },
+  {
+    "id": "pasco-es-2023_0018",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué altura está el complejo de Astobamba y Huarautambo?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero visitar un sitio inca con presencia del Qhapaq Ñan y una moneda con su imagen, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "huarautambo moneda de 1 sol"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Huarautambo Chinche"
+      }
+    ]
+  },
+  {
+    "id": "pasco-es-2023_0013",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué distancia hay de Villa Rica al Mirador de Villa Rica?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un punto panorámico sobre cafetales con vista a una ciudad de selva central, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "mirador villa rica la cumbre"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Villa Rica La Cumbre"
+      }
+    ]
+  }
+]

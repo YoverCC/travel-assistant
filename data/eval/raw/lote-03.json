@@ -1,0 +1,347 @@
+[
+  {
+    "id": "cajamarca-es-2023_0027",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el teléfono de IPERÚ en Cajamarca?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito contactar una oficina de ayuda turística en Cajamarca, ¿cuál es su número?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "telefono iperu cajamarca"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "IPERÚ Cajamarca"
+      }
+    ]
+  },
+  {
+    "id": "cajamarca-es-2023_0001",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué altura está la capital de Cajamarca?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero saber qué tan arriba del mar está la ciudad principal de esa región andina."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "a que altura esta cajamarca"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cajamarca 2750 msnm"
+      }
+    ]
+  },
+  {
+    "id": "cajamarca-es-2023_0007",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué insumos usan para trabajar la artesanía cajamarquina?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco ideas de recuerdos hechos con materiales como cuero o madera, ¿qué venden allí?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que venden de artesania en cajamarca"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "artesanía cajamarquina"
+      }
+    ]
+  },
+  {
+    "id": "cajamarca-es-2023_0024",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora se puede entrar a la cascada de Cochecorral?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero visitar una caída de agua cercana a Cajabamba que se puede ver sin pagar, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "a que hora abre cochecorral"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cochecorral ingreso"
+      }
+    ]
+  },
+  {
+    "id": "cajamarca-es-2023_0015",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora recibe visitantes la hacienda de las vacas que responden al cuidador?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un paseo donde los animales llegan cuando los llaman por su nombre, ¿dónde es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "donde ver vacas que obedecen al llamado"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Hacienda La Colpa"
+      }
+    ]
+  },
+  {
+    "id": "cajamarca-es-2023_0012",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde queda la casa museo que guarda piezas antiguas de Cajamarca?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero conocer una vivienda histórica con colecciones de épocas prehispánica, colonial y republicana."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "casa museo de piezas antiguas cajamarca"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Casa Museo Nicolás Puga"
+      }
+    ]
+  },
+  {
+    "id": "cusco-es-2023_0020",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué permiso piden para entrar al santuario de Megantoni?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un área natural con mucha fauna y bosques que exige autorización previa, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como saco permiso para megantoni"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Megantoni permiso"
+      }
+    ]
+  },
+  {
+    "id": "cusco-es-2023_0012",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es el horario de Saqsaywaman y qué tipo de boleto piden?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero visitar una construcción inca usada para ceremonias y ligada al Inti Raymi, ¿cómo se ingresa?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "a que hora abre saqsaywaman"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Saqsaywaman boleto turístico"
+      }
+    ]
+  },
+  {
+    "id": "cusco-es-2023_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora se puede visitar Moray con boleto turístico?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un lugar con pozos circulares usado por los incas para estudiar cultivos, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "moray horario y entrada"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Moray boleto turístico"
+      }
+    ]
+  },
+  {
+    "id": "cusco-es-2023_0024",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué actividad se puede hacer en la laguna Qoricocha además de caminar?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero ir a una laguna andina donde se pueda remar y pescar, ¿cuál me recomiendan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "laguna qoricocha para remar"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Qoricocha stand up paddle"
+      }
+    ]
+  },
+  {
+    "id": "cusco-es-2023_0006",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué horario atiende la Catedral del Cusco?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero entrar a un templo principal de estilo renacentista con arte cusqueño y plata, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "catedral del cuzco horario"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Catedral Cusco"
+      }
+    ]
+  },
+  {
+    "id": "cusco-es-2023_0005",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuántos días recomiendan para una experiencia completa en Cusco?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco saber el tiempo mínimo para conocer bien esa ciudad y sus alrededores, ¿cuál sugieren?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cuantos dias para cusco completo"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "estadia minima cusco"
+      }
+    ]
+  },
+  {
+    "id": "gastronomia-es-2020_0027",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué cultivos andinos son la base de la comida serrana?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero saber cuáles son los productos que sostienen la cocina de la sierra peruana."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que alimentos son base de la sierra"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "base de la gastronomía"
+      }
+    ]
+  },
+  {
+    "id": "gastronomia-es-2020_0007",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué regiones incluye la costa norte del Perú?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco saber qué departamentos forman la franja norte del litoral peruano."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que regiones son costa norte"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Costa Norte Perú"
+      }
+    ]
+  },
+  {
+    "id": "gastronomia-es-2020_0025",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué ingrediente destaca en la cocina de Tacna?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un plato del sur donde sobresale un ají cocido lentamente, ¿de qué zona es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que usan mucho en la comida tacna"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "ají panca Tacna"
+      }
+    ]
+  }
+]

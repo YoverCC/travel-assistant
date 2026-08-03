@@ -1,0 +1,347 @@
+[
+  {
+    "id": "san_martin-es-2023_0025",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué lugares forman el recorrido de un día desde Tarapoto?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué opciones hay para una salida breve de un solo día por esa región?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que ver en un dia por tarapoto"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "recorridos 1 día"
+      }
+    ]
+  },
+  {
+    "id": "san_martin-es-2023_0028",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde queda iPerú en Tarapoto y cuál es su horario?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿A qué oficina puedo ir en Tarapoto para pedir orientación turística?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "telefono de iperu tarapoto"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "iPerú Tarapoto"
+      }
+    ]
+  },
+  {
+    "id": "san_martin-es-2023_0016",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué hora cierran la catarata de Ahuashiyacu?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero una caminata corta hasta una caída de agua entre vegetación espesa, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "como llego a ahuashiyacu"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ahuashiyacu horario"
+      }
+    ]
+  },
+  {
+    "id": "tacna-es-2023_0010",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué sitios incluye la ruta del pisco y vino en Tacna?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un paseo para conocer cómo hacen bebidas de viñedos y bodegas, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "ruta del pisco tacna"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Ruta del Pisco"
+      }
+    ]
+  },
+  {
+    "id": "tacna-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es la dirección de IPERÚ Tacna?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Dónde puedo ubicar la oficina turística de Tacna para pedir ayuda?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "iperu tacna direccion"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "IPERÚ Tacna"
+      }
+    ]
+  },
+  {
+    "id": "tacna-es-2023_0015",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué productos se suelen comprar en Tacna?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué recuerdo típico puedo llevarme de esa ciudad fronteriza?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "que venden en tacna"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Zona Franca Tacna"
+      }
+    ]
+  },
+  {
+    "id": "tacna-es-2023_0000",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿En qué parte del país está Tacna?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué ciudad del extremo sur peruano está cerca de Chile?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "tacna ciudad heroica"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Tacna frontera Chile"
+      }
+    ]
+  },
+  {
+    "id": "tacna-es-2023_0012",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia está el mirador de la Apacheta desde Tacna?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un punto alto con vista a volcanes y ofrendas antiguas, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "mirador apacheta tacna"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Apacheta Tacna"
+      }
+    ]
+  },
+  {
+    "id": "tacna-es-2023_0001",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuál es la temperatura promedio en Tacna?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Cómo es el clima de esa región del extremo sur?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "clima de tacna"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Tacna temperatura promedio"
+      }
+    ]
+  },
+  {
+    "id": "tumbes-es-2023_0017",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Con qué materiales hacen las joyas en las caletas de Tumbes?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué artesanías marinas puedo encontrar en los pueblos de pescadores?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "joyas de conchas tumbes"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "pasalla tumbes"
+      }
+    ]
+  },
+  {
+    "id": "tumbes-es-2023_0008",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿A qué distancia queda Cabeza de Vaca desde la ciudad de Tumbes?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco un conjunto prehispánico con museo y sendero, ¿cuál es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "cabeza de vaca tumbes"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Cabeza de Vaca"
+      }
+    ]
+  },
+  {
+    "id": "tumbes-es-2023_0010",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Dónde queda la Casa del Manglar en Tumbes?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Quiero un lugar para aprender sobre los manglares y sus oficios tradicionales, ¿cuál recomiendan?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "casa del manglar tumbes"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Casa del Manglar"
+      }
+    ]
+  },
+  {
+    "id": "tumbes-es-2023_0003",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuánto demora el viaje por carretera de Piura a Tumbes?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Necesito saber el tiempo para ir por tierra desde la capital regional vecina hasta Tumbes."
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "piura a tumbes cuanto demora"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Piura Tumbes"
+      }
+    ]
+  },
+  {
+    "id": "tumbes-es-2023_0009",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Qué paseos se hacen en los manglares de Puerto Pizarro?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "Busco navegar por esteros con islas, aves al atardecer y cocodrilos, ¿dónde es?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "puerto pizarro bote"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Puerto Pizarro manglares"
+      }
+    ]
+  },
+  {
+    "id": "tumbes-es-2023_0013",
+    "apto": true,
+    "motivo": "",
+    "preguntas": [
+      {
+        "tipo": "directa",
+        "pregunta": "¿Cuántas especies de fauna y flora alberga el Bosque Seco Amotape?"
+      },
+      {
+        "tipo": "indirecta",
+        "pregunta": "¿Qué área protegida pequeña me permite pasar del monte seco a la playa en minutos?"
+      },
+      {
+        "tipo": "coloquial",
+        "pregunta": "bosque seco amotape"
+      },
+      {
+        "tipo": "entidad",
+        "pregunta": "Bosque Seco Amotape"
+      }
+    ]
+  }
+]
